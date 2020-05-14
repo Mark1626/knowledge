@@ -46,6 +46,7 @@ This is a partial list of books that I have read
 ### CodeArt
 
 - [Code Art Secrets](/code-art/code-art-secrets.md)
+- [Avatar Generator](/code-art/avatar-generator.md)
 
 ---
 
@@ -73,6 +74,8 @@ This is a partial list of books that I have read
 
 - [Three JS](/graphics/three-js.md)
 
+---
+
 ### Languages
 
 - [Using C Libraries in Go](/languages/go/cgo/using-c-libraries-in-go.md)
@@ -81,6 +84,14 @@ This is a partial list of books that I have read
 - [Typescript Conditional Typing](/languages/typescript/conditional-typing.md)
 - [Compiling Rust for ARM](/languages/rust/cross-compilation/ARM.md)
 - [Rust Unsafe](/languages/rust/unsafe.md)
+
+---
+
+### Math
+
+- [Ortho Latin Square](/math/ortho-latin-square.md)
+
+---
 
 ### Philosophy
 
