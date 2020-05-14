@@ -33,7 +33,7 @@ A collection of tidbits on things I learn
 - [Thus Spoke Zarathustra](/books/philosophy/thus-spoke-zarathustra.yml)
 - [Anna Karenina](/books/realism/anna-karenina.yml)
 - [Gravity's Rainbow](/books/fiction/gravity-s-rainbow.yml)
-- [Name of The Rose](/books/fiction/name-of-the-rose.yml)
+- [Name of The Rose](/books/fiction/name-of-the-rose.yml)
 - [Moby Dick](/books/fiction/moby-dick.yml)
 
 ---
