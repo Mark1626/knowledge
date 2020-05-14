@@ -71,3 +71,7 @@ This also affects the testability of Class A.
 
 - https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85
 - https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#lawofdemeter
+
+### Zettle
+
+Id: 2e2abe296abf535f583cdf0f6524376b  
