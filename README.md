@@ -24,6 +24,18 @@ A collection of tidbits on things I learn
 
 ### Books
 
+- [Ducks, Newburyport](/books/experimental/ducks-newburyport.yml)
+- [Infinite Jest](/books/experimental/infinite-jest.yml)
+- [The Myth of Sisyphus](/books/absurdism/the-myth-of-sisyphus.yml)
+- [The Sickness Unto Death](/books/absurdism/the-sickness-unto-death.yml)
+- [A Confession](/books/existentialism/a-confession.yml)
+- [Notes From Underground](/books/existentialism/notes-from-underground.yml)
+- [Thus Spoke Zarathustra](/books/philosophy/thus-spoke-zarathustra.yml)
+- [Anna Karenina](/books/realism/anna-karenina.yml)
+- [Gravity's Rainbow](/books/fiction/gravity-s-rainbow.yml)
+- [Name of The Rose](/books/fiction/name-of-the-rose.yml)
+- [Moby Dick](/books/fiction/moby-dick.yml)
+
 ---
 
 ### CodeArt
@@ -42,6 +54,9 @@ A collection of tidbits on things I learn
 ---
 
 ### Frontend
+
+- [Request Animation Frame](/frontend/browser/raf.md)
+- [React Froward Ref](/frontend/react/forward-ref.md)
 
 ---
 
