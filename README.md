@@ -15,6 +15,9 @@ A collection of tidbits on things I learn
 
 - [Books](#books)
 - [Code Art](#CodeArt)
+- [Frontend](#Frontend)
+- [Graphics](#graphics)
+- [Languages](#languages)
 - [Philosophy](#philosophy)
 - [Psychology](#psychology)
 - [Unix](#unix)
@@ -23,6 +26,8 @@ A collection of tidbits on things I learn
 ---
 
 ### Books
+
+This is a partial list of books that I have read
 
 - [Ducks, Newburyport](/books/experimental/ducks-newburyport.yml)
 - [Infinite Jest](/books/experimental/infinite-jest.yml)
@@ -40,6 +45,8 @@ A collection of tidbits on things I learn
 
 ### CodeArt
 
+- [Code Art Secrets](/code-art/code-art-secrets.md)
+
 ---
 
 ### Design
@@ -51,6 +58,8 @@ A collection of tidbits on things I learn
 
 ### Euler Research
 
+- [Heighway Dragon](/euler-research/heighway-dragon/README.md)
+
 ---
 
 ### Frontend
@@ -59,6 +68,25 @@ A collection of tidbits on things I learn
 - [React Froward Ref](/frontend/react/forward-ref.md)
 
 ---
+
+### Graphics
+
+- [Three JS](/graphics/three-js.md)
+
+### Languages
+
+- [Using C Libraries in Go](/languages/go/cgo/using-c-libraries-in-go.md)
+- [Using Go Libraries in C](/languages/go/cgo/using-go-libraries-in-c.md)
+- [Compiling Go for ARM](/languages/go/cross-compilation/ARM.md)
+- [Typescript Conditional Typing](/languages/typescript/conditional-typing.md)
+- [Compiling Rust for ARM](/languages/rust/cross-compilation/ARM.md)
+- [Rust Unsafe](/languages/rust/unsafe.md)
+
+### Philosophy
+
+- [Mu](/philosophy/mu.md)
+- [Absurdism](/philosophy/absurdism.md)
+- [Existentialism](/philosophy/existentialism.md)
 
 ### Psychology
 
