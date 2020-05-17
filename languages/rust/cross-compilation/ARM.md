@@ -25,3 +25,9 @@ environment
 ### References
 
 - https://sigmaris.info/blog/2019/02/cross-compiling-rust-on-mac-os-for-an-arm-linux-router/
+
+### Zettle
+
+Id: 488bc11bcd111caa54bb20e6ea86f40a
+Links:
+- 4505d22dcf996cbab8e559dce609e5a1

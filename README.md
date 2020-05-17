@@ -124,7 +124,7 @@ This is a partial list of books that I have read
 ### Unix
 
 - [Difference between glibc and libc6](/unix/diff-libgc-and-libc6.md)
-- [Difference between guneabi vs gnueabihf](/unix/gnuabi-vs-gnueabihf.md)
+- [Difference between guneabi vs gnueabihf](/unix/gnueabi-vs-gnueabihf.md)
 - [Makefile](/unix/makefile.md)
 - [SSH Identity](/unix/ssh-identity.md)
 - [Systemd](unix/systemd.md)

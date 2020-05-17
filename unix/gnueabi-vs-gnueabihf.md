@@ -11,3 +11,9 @@ The `eabi` stands for the compilation of code which will run on bare metal arm c
 #### Reference
 
 - https://stackoverflow.com/questions/26692065/difference-between-arm-eabi-arm-gnueabi-and-gnueabi-hf-compilers
+
+### Zettle
+
+Id: 4505d22dcf996cbab8e559dce609e5a1
+Links:
+- 488bc11bcd111caa54bb20e6ea86f40a
