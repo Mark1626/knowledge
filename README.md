@@ -18,6 +18,7 @@ A collection of tidbits on things I learn
 - [Frontend](#Frontend)
 - [Graphics](#graphics)
 - [Languages](#languages)
+- [Origami](#origami)
 - [Philosophy](#philosophy)
 - [Psychology](#psychology)
 - [Unix](#unix)
@@ -84,6 +85,21 @@ This is a partial list of books that I have read
 - [Typescript Conditional Typing](/languages/typescript/conditional-typing.md)
 - [Compiling Rust for ARM](/languages/rust/cross-compilation/ARM.md)
 - [Rust Unsafe](/languages/rust/unsafe.md)
+
+---
+
+### Origami
+
+- [Menger Sponge](/origami/fractals/menger-sponge.md)
+- [Gyroscope](/origami/cubes/gyroscope.md)
+
+#### Origami Units
+
+- [Litte Unit](origami/units/little-unit.md)
+- [Nick Robinson's Trimodule](origami/units/nick-trimodule.md)
+- [Oxi Unit](origami/units/oxi.md)
+- [Sonobe Unit](origami/units/sonobe.md)
+- [TSU Unit](origami/units/tsu.md)
 
 ---
 
