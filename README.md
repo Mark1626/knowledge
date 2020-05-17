@@ -9,6 +9,8 @@ A collection of tidbits on things I learn
 
 ## Contents
 
+There are #45 articles
+
 ---
 
 ## Categories
