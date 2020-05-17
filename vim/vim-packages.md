@@ -10,3 +10,9 @@ Packages are stored within `~/.vim/pack/*/opt`
 - `~/.vim/pack/*/opt` are optional plugins
 
 For info on packages `:h package`
+
+### Zettle
+
+Id:
+Links:
+- f5d5a72a65f59c4e4547983fe880b17a

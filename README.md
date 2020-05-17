@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #46 articles
+There are #47 articles
 
 ---
 
@@ -23,6 +23,7 @@ There are #46 articles
 - [Origami](#origami)
 - [Philosophy](#philosophy)
 - [Psychology](#psychology)
+- [Tools](#tools)
 - [Unix](#unix)
 - [Vim](#vim)
 
@@ -121,6 +122,12 @@ This is a partial list of books that I have read
 ### Psychology
 
 - [Pygmalion Effect](/psychology/pygmalion-effect.md)
+
+---
+
+### Tools
+
+- [Dracula](/tools/dracula.md)
 
 ---
 
