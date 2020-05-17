@@ -13,6 +13,6 @@ For info on packages `:h package`
 
 ### Zettle
 
-Id:
+Id: 749fd2d0e18b3a752cb47a318df71823
 Links:
 - f5d5a72a65f59c4e4547983fe880b17a
