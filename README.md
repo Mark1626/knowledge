@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #45 articles
+There are #46 articles
 
 ---
 
@@ -137,7 +137,8 @@ This is a partial list of books that I have read
 
 ### Vim
 
-- [How to close vim](/vim/how-to-close.md)
+- [How to exit vim](/vim/how-to-close.md)
+- [Vim packages](/vim/vim-packages.md)
 
 ---
 
