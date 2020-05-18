@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #47 articles
+There are #49 articles
 
 ---
 
@@ -18,6 +18,7 @@ There are #47 articles
 - [Books](#books)
 - [Code Art](#CodeArt)
 - [Frontend](#Frontend)
+- [Git](#git)
 - [Graphics](#graphics)
 - [Languages](#languages)
 - [Origami](#origami)
@@ -71,6 +72,13 @@ This is a partial list of books that I have read
 
 - [Request Animation Frame](/frontend/browser/raf.md)
 - [React Froward Ref](/frontend/react/forward-ref.md)
+
+---
+
+### Git
+
+- [Co authoring Commits](/git/co-authoring-commits.md)
+- [Update branch with upstream](/git/update-branch.md)
 
 ---
 
