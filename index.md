@@ -60,7 +60,7 @@ This is a partial list of books that I have read
 - [Covariance and Contravariance](/design/covariance-and-contravariance.md)
 - [Law of Demeter.md](/design/law-of-demeter.md)
 
---
+---
 
 ### Euler Research
 
@@ -126,6 +126,8 @@ This is a partial list of books that I have read
 - [Mu](/philosophy/mu.md)
 - [Absurdism](/philosophy/absurdism.md)
 - [Existentialism](/philosophy/existentialism.md)
+
+---
 
 ### Psychology
 
