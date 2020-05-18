@@ -159,4 +159,6 @@ This is a partial list of books that I have read
 
 ## Credits
 
-Inspired by https://github.com/yoshuawuyts/knowledge
+Inspired by
+- https://github.com/yoshuawuyts/knowledge
+- https://github.com/jbranchaud/til
