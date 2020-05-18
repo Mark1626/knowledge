@@ -2,11 +2,11 @@
 
 Difficulty: easy
 
-![Gyroscope 1](/assets/origami/cubes/gyroscope-1.jpg)
+![Gyroscope 1](https://mark1626.github.io/knowledge/assets/origami/cubes/gyroscope-1.jpg)
 
 ---
 
-![Gyroscope 2](/assets/origami/cubes/gyroscope-2.jpg)
+![Gyroscope 2](https://mark1626.github.io/knowledge/assets/origami/cubes/gyroscope-2.jpg)
 
 ### Instructions
 
