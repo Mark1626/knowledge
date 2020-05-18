@@ -9,3 +9,7 @@
 ### Joining a channel
 
 - Join Channel `/join #channel`
+
+### References
+
+- https://gist.github.com/xero/2d6e4b061b4ecbeb9f99

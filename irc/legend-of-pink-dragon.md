@@ -8,6 +8,6 @@ A dnd on IRC. Based on a previous `Legend of the Red Dragon`
 
 ### Zettle
 
-Id: 
+Id: cbfe844b6827ebb62085c2c7db036498
 Links:
 - 
