@@ -107,11 +107,25 @@ This is a partial list of books that I have read
 
 #### Origami Units
 
+##### Units
+
 - [Litte Unit](origami/units/little-unit.md)
 - [Nick Robinson's Trimodule](origami/units/nick-trimodule.md)
 - [Oxi Unit](origami/units/oxi.md)
 - [Sonobe Unit](origami/units/sonobe.md)
 - [TSU Unit](origami/units/tsu.md)
+
+##### Cubes
+
+- [Gyroscope](origami/cubes/gyroscope.md)
+
+##### Intersectional planes
+
+- [XYZ](origami/intersectional/planes/xyz.md)
+
+##### Fractals
+
+- [Menger Sponge](origami/fractals/menger-sponge.md)
 
 ---
 
