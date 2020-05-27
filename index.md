@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #49 articles
+There are #52 articles
 
 ---
 
@@ -102,9 +102,6 @@ This is a partial list of books that I have read
 
 ### Origami
 
-- [Menger Sponge](/origami/fractals/menger-sponge.md)
-- [Gyroscope](/origami/cubes/gyroscope.md)
-
 #### Origami Units
 
 ##### Units
@@ -126,6 +123,11 @@ This is a partial list of books that I have read
 ##### Fractals
 
 - [Menger Sponge](origami/fractals/menger-sponge.md)
+
+##### Tesslations
+
+- [Clover Tesslation](origami/tesslation/clover.md)
+- [Square Interlace Tesslation](origami/tesslation/square_interlace.md)
 
 ---
 
