@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #53 articles
+There are #55 articles
 
 ---
 
@@ -123,6 +123,12 @@ This is a partial list of books that I have read
 ##### Fractals
 
 - [Menger Sponge](./origami/fractals/menger-sponge.md)
+
+##### Icosahedron
+
+- [Gallery](./origami/icosahedron/index.md)
+- [Sonobe Icosahedron](./origami/icosahedron/sonobe.md)
+- [Trimodule Icosahedron](./origami/icosahedron/trimodule.md)
 
 ##### Tesslations
 
