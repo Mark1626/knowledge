@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #56 articles
+There are #58 articles
 
 ---
 
@@ -134,6 +134,14 @@ This is a partial list of books that I have read
 
 - [Clover Tesslation](./origami/tesslation/clover.md)
 - [Square Interlace Tesslation](./origami/tesslation/square_interlace.md)
+
+##### Spiral
+
+- [Navel Shell](./origami/spiral/navel.md)
+
+##### Curlicue
+
+- [Curlicue](./origami/curlicue/curlicue.md)
 
 ---
 
