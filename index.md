@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #52 articles
+There are #53 articles
 
 ---
 
@@ -165,6 +165,7 @@ This is a partial list of books that I have read
 - [Makefile](/unix/makefile.md)
 - [SSH Identity](/unix/ssh-identity.md)
 - [Systemd](unix/systemd.md)
+- [xargs](unix/xargs.md)
 
 ---
 
