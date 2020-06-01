@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #55 articles
+There are #56 articles
 
 ---
 
@@ -140,6 +140,7 @@ This is a partial list of books that I have read
 ### Math
 
 - [Ortho Latin Square](./math/ortho-latin-square.md)
+- [Perlin Noise](./math/perlin-noise.md)
 
 ---
 
