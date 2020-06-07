@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #58 articles
+There are #59 articles
 
 ---
 
@@ -169,6 +169,7 @@ This is a partial list of books that I have read
 ### Tools
 
 - [Dracula](./tools/dracula.md)
+- [NMap](./tools/namp.md)
 
 ---
 
