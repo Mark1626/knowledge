@@ -171,7 +171,7 @@ This is a partial list of books that I have read
 ### Tools
 
 - [Dracula](./tools/dracula.md)
-- [Scanning local network IPs with NMap](./tools/namp.md)
+- [Scanning local network IPs with NMap](./tools/nmap.md)
 - [Convert Video format with ffmpeg](./tools/ffmpeg.md)
 - [Resize Image with Convert](./tools/convert.md)
 
