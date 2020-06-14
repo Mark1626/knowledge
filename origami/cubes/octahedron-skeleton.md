@@ -1,5 +1,6 @@
 # Octahedron Skeleton
 
+[Back](../../index.md){: .button}
 
 ### Instructions
 
