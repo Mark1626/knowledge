@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #63 articles
+There are #64 articles
 
 ---
 
@@ -186,6 +186,7 @@ This is a partial list of books that I have read
 - [SSH Identity](./unix/ssh-identity.md)
 - [Systemd](./unix/systemd.md)
 - [xargs](./unix/xargs.md)
+- [Generate Locale](./unix/locale.md)
 
 ---
 
