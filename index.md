@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #64 articles
+There are #65 articles
 
 ---
 
@@ -187,6 +187,7 @@ This is a partial list of books that I have read
 - [Systemd](./unix/systemd.md)
 - [xargs](./unix/xargs.md)
 - [Generate Locale](./unix/locale.md)
+- [Changing Ownership](./unix/chown.md)
 
 ---
 
