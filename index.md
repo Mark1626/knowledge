@@ -193,8 +193,8 @@ This is a partial list of books that I have read
 
 ### Vim
 
-- [How to exit vim](/vim/how-to-close.md)
-- [Vim packages](/vim/vim-packages.md)
+- [How to exit vim](./vim/how-to-close.md)
+- [Vim packages](./vim/vim-packages.md)
 - [Find and Replace](./vim/find-and-replace.md)
 
 ---
