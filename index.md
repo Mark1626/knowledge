@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #66 articles
+There are #67 articles
 
 ---
 
@@ -23,6 +23,7 @@ There are #66 articles
 - [Languages](#languages)
 - [Origami](#origami)
 - [Philosophy](#philosophy)
+- [Postgresql](#postgresql)
 - [Psychology](#psychology)
 - [Tools](#tools)
 - [Unix](#unix)
@@ -165,6 +166,12 @@ This is a partial list of books that I have read
 ### Psychology
 
 - [Pygmalion Effect](./psychology/pygmalion-effect.md)
+
+---
+
+### Postgresql
+
+- [pg_ctl](./postgres/pgctl.md)
 
 ---
 
