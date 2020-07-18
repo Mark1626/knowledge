@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #67 articles
+There are #68 articles
 
 ---
 
@@ -172,6 +172,7 @@ This is a partial list of books that I have read
 ### Postgresql
 
 - [pg_ctl](./postgres/pgctl.md)
+- [Template Databases](./postgres/template_databases.md)
 
 ---
 
