@@ -1,1 +1,6 @@
+url: "https://mark1626.github.io/knowledge"
 remote_theme: "dracula/gh-pages"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
