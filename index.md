@@ -1,7 +1,7 @@
 # knowledge
 💡 document everything
 
-<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="./feed.xml">
 
 ## About
 
