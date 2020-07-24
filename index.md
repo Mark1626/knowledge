@@ -1,6 +1,8 @@
 # knowledge
 💡 document everything
 
+<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+
 ## About
 
 A collection of tidbits on things I learn
