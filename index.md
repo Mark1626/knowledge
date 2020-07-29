@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #69 articles
+There are #70 articles
 
 ---
 
@@ -198,6 +198,7 @@ This is a partial list of books that I have read
 - [xargs](./unix/xargs.md)
 - [Generate Locale](./unix/locale.md)
 - [Changing Ownership](./unix/chown.md)
+- [Setting path of dynamic libraries](./unix/dylib_path.md)
 
 ---
 
