@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #70 articles
+There are #72 articles
 
 ---
 
@@ -199,6 +199,8 @@ This is a partial list of books that I have read
 - [Generate Locale](./unix/locale.md)
 - [Changing Ownership](./unix/chown.md)
 - [Setting path of dynamic libraries](./unix/dylib_path.md)
+- [Makefile macros](./unix/makefile_macros.md)
+- [Change Shell](./unix/change-shell.md)
 
 ---
 
