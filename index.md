@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #72 articles
+There are #73 articles
 
 ---
 
@@ -100,6 +100,7 @@ This is a partial list of books that I have read
 - [Typescript Conditional Typing](./languages/typescript/conditional-typing.md)
 - [Compiling Rust for ARM](./languages/rust/cross-compilation/ARM.md)
 - [Rust Unsafe](./languages/rust/unsafe.md)
+- [JAR Packing Java](./languages/java/jar-packing.md)
 
 ---
 
