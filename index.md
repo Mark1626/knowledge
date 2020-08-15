@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #74 articles
+There are #75 articles
 
 ---
 
@@ -209,6 +209,7 @@ This is a partial list of books that I have read
 - [Setting path of dynamic libraries](./unix/dylib_path.md)
 - [Makefile macros](./unix/makefile_macros.md)
 - [Change Shell](./unix/change-shell.md)
+- [Understanding Wifi](./wifi/understanding-wifi.md)
 
 ---
 
