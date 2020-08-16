@@ -1,8 +1,11 @@
 # Systemd
 
+[Back](../index.md){: .button}
+
 [systemd](https://wiki.archlinux.org/index.php/Systemd) is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. systemd provides aggressive parallelization capabilities
 
 ## Service File
+
 ```toml
 [Unit]
 Description=My Miscellaneous Service
@@ -10,18 +13,11 @@ After=network.target
 
 [Service]
 Type=simple
-# Another Type: forking
 User=nanodano
 WorkingDirectory=/home/nanodano
 ExecStart=/home/nanodano/my_daemon --option=123
 Restart=on-failure
-# Other restart options: always, on-abort, etc
 
-# The install section is needed to use
-# `systemctl enable` to start on boot
-# For a user service that you want to enable
-# and start automatically, use `default.target`
-# For system level services, use `multi-user.target`
 [Install]
 WantedBy=multi-user.target
 ```
@@ -48,6 +44,7 @@ WantedBy=multi-user.target
 ### See if running, uptime, view latest logs
 `sudo systemctl status`  
 `sudo systemctl status my_service`
+
 ### Or for a user service
 `systemctl --user status my_service`
 
@@ -59,5 +56,17 @@ WantedBy=multi-user.target
 
 ### Show logs for specific service
 `sudo journalctl -u my_daemon`
+
 ### For user service
 `journalctl --user-unit my_user_daemon`
+
+## Unit Types
+
+- **simple** Default option, service has to be started immediately. This process must not fork
+- **fork** Service is considered to have started when process forks and the parent has exited
+- **oneshot** Executes a single job and executes, use `RemainAfterExit = yes` to keep service as active
+
+### See Also
+
+[Kill it with fire](https://www.busybox.net/kill_it_with_fire.txt)
+
