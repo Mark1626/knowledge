@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #77 articles
+There are #78 articles
 
 ---
 
@@ -212,6 +212,7 @@ This is a partial list of books that I have read
 - [Understanding Wifi](./unix/understanding-wifi.md)
 - [Ansi Colors](./unix/ansi-colors.md)
 - [Users and Groups](./unix/user-group.md)
+- [Shebang](./unix/shebang.md)
 
 ---
 
