@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #78 articles
+There are #79 articles
 
 ---
 
@@ -213,6 +213,7 @@ This is a partial list of books that I have read
 - [Ansi Colors](./unix/ansi-colors.md)
 - [Users and Groups](./unix/user-group.md)
 - [Shebang](./unix/shebang.md)
+- [IO Uring](./unix/io-uring.md)
 
 ---
 
