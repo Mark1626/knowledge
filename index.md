@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #79 articles
+There are #80 articles
 
 ---
 
@@ -83,6 +83,7 @@ This is a partial list of books that I have read
 
 - [Co authoring Commits](./git/co-authoring-commits.md)
 - [Update branch with upstream](./git/update-branch.md)
+- [Check out a PR](./git/checkout-pr.md)
 
 ---
 
