@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #80 articles
+There are #81 articles
 
 ---
 
@@ -184,6 +184,7 @@ This is a partial list of books that I have read
 
 - [pg_ctl](./postgres/pgctl.md)
 - [Template Databases](./postgres/template_databases.md)
+- [Understanding sort](./postgres/query-sort.md)
 
 ---
 
