@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #83 articles
+There are #84 articles
 
 ---
 
@@ -218,6 +218,7 @@ This is a partial list of books that I have read
 - [Users and Groups](./unix/user-group.md)
 - [Shebang](./unix/shebang.md)
 - [IO Uring](./unix/io-uring.md)
+- [SSH key creation and sharing](./unix/ssh_keygen.md)
 
 ---
 
