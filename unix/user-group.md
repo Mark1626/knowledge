@@ -36,15 +36,23 @@ usermod -d /home/newhome -m mark
 usermod -l newname oldname
 ```
 
+
+- Modify user groups
+
+```
+usermod -a -G group1, group2, group3 user
+```
+
+
 ## Group
 
-List all the groups a user belongs to `group <user>`
+List all the groups a user belongs to `groups <user>`
 
 
 ### Creating a group
 
 ```
-group add <group-name>
+groupadd <group-name>
 ```
 
 Once a group is created, use `chown` and `chmod` to change access to the desired folder
