@@ -11,12 +11,13 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #85 articles
+There are #86 articles
 
 ---
 
 ## Categories
 
+- [ARM](#arm)
 - [Books](#books)
 - [Code Art](#CodeArt)
 - [Frontend](#Frontend)
@@ -31,6 +32,12 @@ There are #85 articles
 - [Tools](#tools)
 - [Unix](#unix)
 - [Vim](#vim)
+
+---
+
+### ARM
+
+- [Raspberry PI boot config](./arm/pi-boot-config.md)
 
 ---
 
