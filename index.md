@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #87 articles
+There are #88 articles
 
 ---
 
@@ -228,6 +228,7 @@ This is a partial list of books that I have read
 - [IO Uring](./unix/io-uring.md)
 - [SSH key creation and sharing](./unix/ssh_keygen.md)
 - [Static IP in local network](unix/static-ip-dhcp.md)
+- [DC Calculator](./unix/dc.md)
 
 ---
 
