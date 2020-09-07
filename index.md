@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #88 articles
+There are #89 articles
 
 ---
 
@@ -63,6 +63,7 @@ This is a partial list of books that I have read
 
 - [Code Art Secrets](./code-art/code-art-secrets.md)
 - [Avatar Generator](./code-art/avatar-generator.md)
+- [Glider](./code-art/glider.md)
 
 ---
 
