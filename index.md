@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #89 articles
+There are #90 articles
 
 ---
 
@@ -205,6 +205,7 @@ This is a partial list of books that I have read
 - [Scanning local network IPs with NMap](./tools/nmap.md)
 - [Convert Video format with ffmpeg](./tools/ffmpeg.md)
 - [Resize Image with Convert](./tools/convert.md)
+- [Tint Image with Convert](./tools/tint-image.md)
 
 ---
 
