@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #90 articles
+There are #91 articles
 
 ---
 
@@ -111,6 +111,7 @@ This is a partial list of books that I have read
 - [Compiling Rust for ARM](./languages/rust/cross-compilation/ARM.md)
 - [Rust Unsafe](./languages/rust/unsafe.md)
 - [JAR Packing Java](./languages/java/jar-packing.md)
+- [What is dSYM](./languages/c/what-is-dsym.md)
 
 ---
 
