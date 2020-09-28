@@ -1,5 +1,7 @@
 # Dracula
 
+[Back](../index.md){: .button}
+
 Dracula is a dark theme for text editors
 
 ### Links

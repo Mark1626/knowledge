@@ -1,5 +1,7 @@
 # Existentialism
 
+[Back](../index.md){: .button}
+
 *Existentialism* is a tradition of philosophical enquiry which takes as its starting point the experience of the human subject—not merely the thinking subject, but the acting, feeling, living human
 
 ## Authors

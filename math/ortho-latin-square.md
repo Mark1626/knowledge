@@ -1,5 +1,7 @@
 # Ortho Latin Square
 
+[Back](../index.md){: .button}
+
 https://en.wikipedia.org/wiki/Graeco-Latin_square
 
 Possibly a good idea for procudural generation

@@ -1,5 +1,7 @@
 # Avatar generator
 
+[Back](../index.md){: .button}
+
 ### Links
 - https://avatar-generator-six.now.sh/
 

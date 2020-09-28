@@ -1,4 +1,6 @@
-# Kunner's Theorm
+# Kummer's Theorm
+
+[Back](../index.md){: .button}
 
 [Kummer's theorm](https://en.wikipedia.org/wiki/Kummer%27s_theorem) gives the exponent of the highest power of a prime number p dividing this binomial coefficient.
 

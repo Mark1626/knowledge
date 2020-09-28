@@ -1,5 +1,7 @@
 # Pygmalion effect
 
+[Back](../index.md){: .button}
+
 Our beliefs about others influence our actions towards them, which impact their beliefs about themselves
 and their actions towards us, reinforcing our beliefs.
 

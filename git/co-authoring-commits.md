@@ -1,5 +1,7 @@
 # Co authoring commits
 
+[Back](../index.md){: .button}
+
 - Git commits can be authored by multiple people
 - In the commit message add a new line with the following
 

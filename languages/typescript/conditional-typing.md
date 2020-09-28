@@ -1,5 +1,7 @@
 # Conditional Typing
 
+[Back](../../index.md){: .button}
+
 ```js
 function bind<T extends Callback | ConcurrentCallback>() {
   return () =>

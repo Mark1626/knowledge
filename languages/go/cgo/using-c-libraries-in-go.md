@@ -1,5 +1,7 @@
 # Using Shared Objects and Dynamic Sinked Objects in Go
 
+[Back](../../../index.md){: .button}
+
 > tags: go,c
 
 ### Makefile
