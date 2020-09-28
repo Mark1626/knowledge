@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #94 articles
+There are #95 articles
 
 ---
 
@@ -114,6 +114,7 @@ This is a partial list of books that I have read
 - [JAR Packing Java](./languages/java/jar-packing.md)
 - [What is dSYM](./languages/c/what-is-dsym.md)
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
+- [Ignore unused var in C/C++](./languages/c/unused-variables.md)
 
 ---
 
