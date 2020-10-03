@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #95 articles
+There are #97 articles
 
 ---
 
@@ -23,6 +23,7 @@ There are #95 articles
 - [Frontend](#Frontend)
 - [Git](#git)
 - [Graphics](#graphics)
+- [IRC](#irc)
 - [Languages](#languages)
 - [Network](#network)
 - [Origami](#origami)
@@ -100,6 +101,13 @@ This is a partial list of books that I have read
 
 - [Three JS](./graphics/three-js.md)
 - [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
+
+---
+
+### IRC
+
+- [IRC Cheatsheet](./irc/irc-cheat-sheet.md)
+- [IRC Relay](./irc/relay.md)
 
 ---
 
