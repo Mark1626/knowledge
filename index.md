@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #97 articles
+There are #99 articles
 
 ---
 
@@ -219,6 +219,8 @@ This is a partial list of books that I have read
 - [Resize Image with Convert](./tools/convert.md)
 - [Tint Image with Convert](./tools/tint-image.md)
 - [Apache Benchmark](./tools/ab.md)
+- [cURL POST](./tools/post-basics.md)
+- [cURL Format](./tools/post-format.md)
 
 ---
 
