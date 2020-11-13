@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #100 articles
+There are #101 articles
 
 ---
 
@@ -123,6 +123,7 @@ This is a partial list of books that I have read
 - [What is dSYM](./languages/c/what-is-dsym.md)
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
+- [Yarn Berry](./languages/js/yarn-berry.md)
 
 ---
 
