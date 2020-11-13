@@ -5,4 +5,4 @@ Author: Michał Kosmulski
 
 ### Instructions
 
-- https://michal.kosmulski.org/origami/oxi/index.html
+- [Oxi Unit - Michał Kosmulski](https://michal.kosmulski.org/origami/oxi/index.html)
