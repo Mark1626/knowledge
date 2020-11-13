@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #101 articles
+There are #102 articles
 
 ---
 
@@ -131,6 +131,7 @@ This is a partial list of books that I have read
 
 - [Gopher Protocol](./network/gopher.md)
 - [Data URL](./network/data-url.md)
+- [Preflight Request](./network/http-preflight.md)
 
 ---
 
