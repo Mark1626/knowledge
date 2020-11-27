@@ -14,6 +14,7 @@ Or how do you set up a network connection with Wifi
 ## Steps generally done in Arch Linux
 
 - Create a connection to the network with `iwd` or any other service
+  - Start the `iwctl` interactive prompt
   - List all devices in your machine that have the capability of being a station `[iwd]# device list`
   - From the station do a scan to see all the available networks `[iwd]# station <device-name> scan`
   - Connect to the network `station <device-name> connect <SSID>`
