@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #105 articles
+There are #106 articles
 
 ---
 
@@ -133,6 +133,7 @@ This is a partial list of books that I have read
 - [Data URL](./network/data-url.md)
 - [Preflight Request](./network/http-preflight.md)
 - [WSDL](./network/wsdl.md)
+- [CGI Interface](./network/cgi.md)
 
 ---
 
