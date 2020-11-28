@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #107 articles
+There are #108 articles
 
 ---
 
@@ -233,6 +233,7 @@ This is a partial list of books that I have read
 - [Apache Benchmark](./tools/ab.md)
 - [cURL POST](./tools/post-basics.md)
 - [cURL Format](./tools/post-format.md)
+- [Lynx Print HTML](./tools/lynx-print-html-page.md)
 
 ---
 
