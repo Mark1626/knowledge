@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #106 articles
+There are #107 articles
 
 ---
 
@@ -20,6 +20,7 @@ There are #106 articles
 - [ARM](#arm)
 - [Books](#books)
 - [Code Art](#CodeArt)
+- [Database](#Database)
 - [Frontend](#Frontend)
 - [Git](#git)
 - [Graphics](#graphics)
@@ -65,6 +66,12 @@ This is a partial list of books that I have read
 - [Code Art Secrets](./code-art/code-art-secrets.md)
 - [Avatar Generator](./code-art/avatar-generator.md)
 - [Glider](./code-art/glider.md)
+
+---
+
+### Database
+
+- [Execute Single Query In Sqlite Cli](./db/sqlite-cli-command.md)
 
 ---
 
