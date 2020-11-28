@@ -20,7 +20,6 @@ There are #108 articles
 - [ARM](#arm)
 - [Books](#books)
 - [Code Art](#CodeArt)
-- [Database](#Database)
 - [Frontend](#Frontend)
 - [Git](#git)
 - [Graphics](#graphics)
@@ -31,6 +30,7 @@ There are #108 articles
 - [Philosophy](#philosophy)
 - [Postgresql](#postgresql)
 - [Psychology](#psychology)
+- [Sqlite](#sqlite)
 - [Tools](#tools)
 - [Unix](#unix)
 - [Vim](#vim)
@@ -66,12 +66,6 @@ This is a partial list of books that I have read
 - [Code Art Secrets](./code-art/code-art-secrets.md)
 - [Avatar Generator](./code-art/avatar-generator.md)
 - [Glider](./code-art/glider.md)
-
----
-
-### Database
-
-- [Execute Single Query In Sqlite Cli](./db/sqlite-cli-command.md)
 
 ---
 
@@ -220,6 +214,12 @@ This is a partial list of books that I have read
 - [Explain on sort](./postgres/explain-sort.md)
 - [Explain on Join](./postgres/explain-join.md)
 - [Extended Statistics](./postgres/extended-statistics.md)
+
+---
+
+### Sqlite
+
+- [Execute Single Query In Sqlite Cli](./sqlite/sqlite-cli-command.md)
 
 ---
 
