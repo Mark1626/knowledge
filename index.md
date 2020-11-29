@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #108 articles
+There are #109 articles
 
 ---
 
@@ -234,6 +234,7 @@ This is a partial list of books that I have read
 - [cURL POST](./tools/post-basics.md)
 - [cURL Format](./tools/post-format.md)
 - [Lynx Print HTML](./tools/lynx-print-html-page.md)
+- [Make foreach](./tools/make-foreach.md)
 
 ---
 
