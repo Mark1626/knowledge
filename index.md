@@ -25,6 +25,7 @@ There are #109 articles
 - [Graphics](#graphics)
 - [IRC](#irc)
 - [Languages](#languages)
+- [Makefile](#makefile)
 - [Network](#network)
 - [Origami](#origami)
 - [Philosophy](#philosophy)
@@ -125,6 +126,14 @@ This is a partial list of books that I have read
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
 - [Yarn Berry](./languages/js/yarn-berry.md)
+
+---
+
+### Makefile
+
+- [Makefile](./unix/makefile.md)
+- [Makefile macros](./unix/makefile_macros.md)
+- [Make foreach](./tools/make-foreach.md)
 
 ---
 
@@ -234,7 +243,6 @@ This is a partial list of books that I have read
 - [cURL POST](./tools/post-basics.md)
 - [cURL Format](./tools/post-format.md)
 - [Lynx Print HTML](./tools/lynx-print-html-page.md)
-- [Make foreach](./tools/make-foreach.md)
 
 ---
 
@@ -243,14 +251,12 @@ This is a partial list of books that I have read
 - [Cron](./unix/cron.md)
 - [Difference between glibc and libc6](./unix/diff-libgc-and-libc6.md)
 - [Difference between guneabi vs gnueabihf](./unix/gnueabi-vs-gnueabihf.md)
-- [Makefile](./unix/makefile.md)
 - [SSH Identity](./unix/ssh-identity.md)
 - [Systemd](./unix/systemd.md)
 - [xargs](./unix/xargs.md)
 - [Generate Locale](./unix/locale.md)
 - [Changing Ownership](./unix/chown.md)
 - [Setting path of dynamic libraries](./unix/dylib_path.md)
-- [Makefile macros](./unix/makefile_macros.md)
 - [Change Shell](./unix/change-shell.md)
 - [Understanding Wifi](./unix/understanding-wifi.md)
 - [Ansi Colors](./unix/ansi-colors.md)
