@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #109 articles
+There are #110 articles
 
 ---
 
@@ -277,6 +277,7 @@ This is a partial list of books that I have read
 - [Visual Mode](./vim/visual-mode.md)
 - [Copy To Clipboard in MacOS](./vim/copy-clipboard.md)
 - [Paste From Clipboard in MacOS](./vim/paste-clipboard.md)
+- [Vim marks](./vim/vim-marks.md)
 
 ---
 
