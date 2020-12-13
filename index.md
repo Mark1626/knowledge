@@ -131,9 +131,9 @@ This is a partial list of books that I have read
 
 ### Makefile
 
-- [Makefile](./unix/makefile.md)
-- [Makefile macros](./unix/makefile_macros.md)
-- [Make foreach](./tools/make-foreach.md)
+- [Makefile](./makefile/makefile.md)
+- [Makefile macros](./makefile/makefile_macros.md)
+- [Make foreach](./makefile/make-foreach.md)
 
 ---
 
