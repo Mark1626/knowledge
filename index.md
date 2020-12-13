@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #110 articles
+There are #111 articles
 
 ---
 
@@ -223,6 +223,7 @@ This is a partial list of books that I have read
 - [Explain on sort](./postgres/explain-sort.md)
 - [Explain on Join](./postgres/explain-join.md)
 - [Extended Statistics](./postgres/extended-statistics.md)
+- [Trust Authentication](./postgres/trust-authentication.md)
 
 ---
 
