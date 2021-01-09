@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #112 articles
+There are #115 articles
 
 ---
 
@@ -126,6 +126,7 @@ This is a partial list of books that I have read
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
 - [Yarn Berry](./languages/js/yarn-berry.md)
+- [Creating a Shared Library](./languages/c/shared-library.md)
 
 ---
 
@@ -265,6 +266,14 @@ This is a partial list of books that I have read
 #### Lynx
 
 - [Lynx Print HTML](./tools/lynx-print-html-page.md)
+
+#### hexdump
+
+- [Hexdump](./tools/hexdump.md)
+
+#### otool
+
+- [otool](./tools/otool.md)
 
 ---
 
