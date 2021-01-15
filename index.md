@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #116 articles
+There are #117 articles
 
 ---
 
@@ -127,6 +127,7 @@ This is a partial list of books that I have read
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
 - [Yarn Berry](./languages/js/yarn-berry.md)
 - [Creating a Shared Library](./languages/c/shared-library.md)
+- [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
 
 ---
 
