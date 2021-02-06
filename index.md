@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #119 articles
+There are #126 articles
 
 ---
 
@@ -236,6 +236,13 @@ This is a partial list of books that I have read
 #### DOS
 
 - [Setting PATH in DOS](./platforms/dos/set-path.md)
+- [NASM](./platform/dos/nasm.md)
+- [Job File Table](./platforms/dos/job-file-table.md)
+- [Segments](./platforms/dos/segments.md)
+- [Data Registers](./platform/dos/data-registers.md)
+- [Pointer Registers](./platform/dos/pointer-registers.md)
+- [Index Registers](./platform/dos/index-registers.md)
+- [Flags / Control Registers](./platform/dos/control-registers.md)
 
 ---
 
