@@ -236,13 +236,13 @@ This is a partial list of books that I have read
 #### DOS
 
 - [Setting PATH in DOS](./platforms/dos/set-path.md)
-- [NASM](./platform/dos/nasm.md)
+- [NASM](./platforms/dos/nasm.md)
 - [Job File Table](./platforms/dos/job-file-table.md)
 - [Segments](./platforms/dos/segments.md)
-- [Data Registers](./platform/dos/data-registers.md)
-- [Pointer Registers](./platform/dos/pointer-registers.md)
-- [Index Registers](./platform/dos/index-registers.md)
-- [Flags / Control Registers](./platform/dos/control-registers.md)
+- [Data Registers](./platforms/dos/data-registers.md)
+- [Pointer Registers](./platforms/dos/pointer-registers.md)
+- [Index Registers](./platforms/dos/index-registers.md)
+- [Flags / Control Registers](./platforms/dos/control-registers.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 
 ---
