@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #118 articles
+There are #119 articles
 
 ---
 
@@ -228,6 +228,14 @@ This is a partial list of books that I have read
 - [Extended Statistics](./postgres/extended-statistics.md)
 - [Trust Authentication](./postgres/trust-authentication.md)
 - [Count of Tuples and Pages](./postgres/postgres-page-tuples.md)
+
+---
+
+### Platforms
+
+#### DOS
+
+- [Setting PATH in DOS](./platforms/dos/set-path.md)
 
 ---
 
