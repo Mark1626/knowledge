@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #127 articles
+There are #128 articles
 
 ---
 
@@ -244,6 +244,7 @@ This is a partial list of books that I have read
 - [Index Registers](./platforms/dos/index-registers.md)
 - [Flags / Control Registers](./platforms/dos/control-registers.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
+- [Check for input](./platforms/dos/reading-input.md)
 
 ---
 
