@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #130 articles
+There are #133 articles
 
 ---
 
@@ -32,6 +32,8 @@ There are #130 articles
 - [Philosophy](#philosophy)
 - [Postgresql](#postgresql)
 - [Psychology](#psychology)
+- [Platforms](#platforms)
+- [RFC](#rfc)
 - [Sqlite](#sqlite)
 - [Tools](#tools)
 - [Unix](#unix)
@@ -253,6 +255,14 @@ This is a partial list of books that I have read
 - [Flags / Control Registers](./platforms/dos/control-registers.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 - [Check for input](./platforms/dos/reading-input.md)
+
+---
+
+### RFC
+
+- [RFC 1122 Communication Layer](./rfc/rfc1122.md)
+- [RFC 7578 multipart/form-data](./rfc/rfc7578.md)
+- [Problem Details in HTTP API](./rfc/rfc7807.md)
 
 ---
 
