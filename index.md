@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #128 articles
+There are #130 articles
 
 ---
 
@@ -19,6 +19,7 @@ There are #128 articles
 
 - [ARM](#arm)
 - [Books](#books)
+- [Crypto](#crypto)
 - [Code Art](#CodeArt)
 - [Frontend](#Frontend)
 - [Git](#git)
@@ -59,6 +60,13 @@ This is a partial list of books that I have read
 - [Gravity's Rainbow](./books/fiction/gravity-s-rainbow.yml)
 - [Name of The Rose](./books/fiction/name-of-the-rose.yml)
 - [Moby Dick](./books/fiction/moby-dick.yml)
+
+---
+
+### Crypto
+
+- [Constant time cryptography](./crypto/constant-time.md)
+- [Hashcash](./crypto/hashcash.md)
 
 ---
 
