@@ -11,57 +11,39 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #133 articles
+There are #125 articles
 
 ---
 
 ## Categories
 
-- [ARM](#arm)
-- [Books](#books)
-- [Crypto](#crypto)
-- [Code Art](#CodeArt)
-- [Frontend](#Frontend)
-- [Git](#git)
-- [Graphics](#graphics)
-- [IRC](#irc)
-- [Languages](#languages)
-- [Makefile](#makefile)
-- [Network](#network)
-- [Origami](#origami)
-- [Philosophy](#philosophy)
-- [Postgresql](#postgresql)
-- [Psychology](#psychology)
-- [Platforms](#platforms)
-- [RFC](#rfc)
-- [Sqlite](#sqlite)
-- [Tools](#tools)
-- [Unix](#unix)
-- [Vim](#vim)
++ [ARM](#arm)
++ [Books](#books)
++ [Crypto](#crypto)
++ [Code Art](#CodeArt)
++ [Frontend](#Frontend)
++ [Git](#git)
++ [Graphics](#graphics)
++ [IRC](#irc)
++ [Languages](#languages)
++ [Makefile](#makefile)
++ [Network](#network)
++ [Origami](#origami)
++ [Philosophy](#philosophy)
++ [Postgresql](#postgresql)
++ [Psychology](#psychology)
++ [Platforms](#platforms)
++ [RFC](#rfc)
++ [Sqlite](#sqlite)
++ [Tools](#tools)
++ [Unix](#unix)
++ [Vim](#vim)
 
 ---
 
 ### ARM
 
 - [Raspberry PI boot config](./arm/pi-boot-config.md)
-
----
-
-### Books
-
-This is a partial list of books that I have read
-
-- [Ducks, Newburyport](./books/experimental/ducks-newburyport.yml)
-- [Infinite Jest](./books/experimental/infinite-jest.yml)
-- [The Myth of Sisyphus](./books/absurdism/the-myth-of-sisyphus.yml)
-- [The Sickness Unto Death](./books/absurdism/the-sickness-unto-death.yml)
-- [A Confession](./books/existentialism/a-confession.yml)
-- [Notes From Underground](./books/existentialism/notes-from-underground.yml)
-- [Thus Spoke Zarathustra](./books/philosophy/thus-spoke-zarathustra.yml)
-- [Anna Karenina](./books/realism/anna-karenina.yml)
-- [Gravity's Rainbow](./books/fiction/gravity-s-rainbow.yml)
-- [Name of The Rose](./books/fiction/name-of-the-rose.yml)
-- [Moby Dick](./books/fiction/moby-dick.yml)
 
 ---
 
@@ -211,6 +193,8 @@ This is a partial list of books that I have read
 - [Perlin Noise](./math/perlin-noise.md)
 - [Kummer's Theorm](./math/kummer.md)
 - [Wilson's Theorm](./math/wilson.md)
+- [Pisano period](./math/pisano-period.md)
+- [Zeckendorf's Theorm](./math/zeckendorf-theorm.md)
 
 ---
 
@@ -353,5 +337,5 @@ This is a partial list of books that I have read
 ## Credits
 
 Inspired by
-- [yoshuawuyts](https://github.com/yoshuawuyts/knowledge)
-- [jbranchaud](https://github.com/jbranchaud/til)
++ [yoshuawuyts](https://github.com/yoshuawuyts/knowledge)
++ [jbranchaud](https://github.com/jbranchaud/til)
