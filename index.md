@@ -11,7 +11,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #125 articles
+There are #127 articles
 
 ---
 
@@ -21,6 +21,7 @@ There are #125 articles
 + [Books](#books)
 + [Crypto](#crypto)
 + [Code Art](#CodeArt)
++ [Data Structure](#DataStructures)
 + [Frontend](#Frontend)
 + [Git](#git)
 + [Graphics](#graphics)
@@ -62,6 +63,12 @@ There are #125 articles
 
 ---
 
+### DataStructures
+
+- [Disjoint Set](./ds/disjoint-set.md)
+- [Segment Tree](./ds/segment-tree.md)
+
+---
 ### Design
 
 - [Covariance and Contravariance](./design/covariance-and-contravariance.md)
