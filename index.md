@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #127 articles
+There are #135 articles
 
 ---
 
@@ -200,6 +200,14 @@ There are #127 articles
 - [Wilson's Theorm](./math/wilson.md)
 - [Pisano period](./math/pisano-period.md)
 - [Zeckendorf's Theorm](./math/zeckendorf-theorm.md)
+- [De Bruijn sequence](./math/de-bruijn-sequence.md)
+- [Chinese remainder theorem](./math/chinese-reminder-theorm.md)
+- [Euler's theorm](./math/euler-theorm.md)
+- [Euler's totient function](./math/euler-totient-function.md)
+- [Farey Sequence](./math/farey-sequence.md)
+- [Stern Brocot Tree](./math/stern-brocot-tree.md)
+- [Extended Euclidean Algorithm](./math/extended-euclidean.md)
+- [Euclidean Algorithm](./math/euclidean-algorithm.md)
 
 ---
 
