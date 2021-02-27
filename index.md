@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #135 articles
+There are #136 articles
 
 ---
 
@@ -208,6 +208,7 @@ There are #135 articles
 - [Stern Brocot Tree](./math/stern-brocot-tree.md)
 - [Extended Euclidean Algorithm](./math/extended-euclidean.md)
 - [Euclidean Algorithm](./math/euclidean-algorithm.md)
+- [Prime Number Theorm](./math/prime-number-theorm.md)
 
 ---
 
