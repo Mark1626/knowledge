@@ -9,7 +9,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #136 articles
+There are #138 articles
 
 ---
 
@@ -193,6 +193,13 @@ There are #136 articles
 ---
 
 ### Math
+
+#### Geometry
+
+- [Rhombile Tiling](./math/geometry/rhombile_tiling.md)
+- [Stellation](./math/geometry/stellation.md)
+
+#### Number Theory
 
 - [Ortho Latin Square](./math/ortho-latin-square.md)
 - [Perlin Noise](./math/perlin-noise.md)
