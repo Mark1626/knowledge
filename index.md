@@ -1,4 +1,3 @@
-# knowledge
 💡 document everything
 
 ## About
@@ -18,9 +17,9 @@ There are #138 articles
 + [ARM](#arm)
 + [Books](#books)
 + [Crypto](#crypto)
-+ [Code Art](#CodeArt)
-+ [Data Structure](#DataStructures)
-+ [Frontend](#Frontend)
++ [Code Art](#codeart)
++ [Data Structure](#datastructures)
++ [Frontend](#frontend)
 + [Git](#git)
 + [Graphics](#graphics)
 + [IRC](#irc)
