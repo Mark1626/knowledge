@@ -111,21 +111,41 @@ There are #139 articles
 
 ### Languages
 
-- [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
-- [Using Go Libraries in C](./languages/go/cgo/using-go-libraries-in-c.md)
-- [Compiling Go for ARM](./languages/go/cross-compilation/ARM.md)
-- [Typescript Conditional Typing](./languages/typescript/conditional-typing.md)
-- [Compiling Rust for ARM](./languages/rust/cross-compilation/ARM.md)
-- [Rust Unsafe](./languages/rust/unsafe.md)
-- [JAR Packing Java](./languages/java/jar-packing.md)
+#### Common
+
+- [Data structure alignment](./languages/generic/data-structure-alignment.md)
+
+#### C
+
 - [What is dSYM](./languages/c/what-is-dsym.md)
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
-- [Yarn Berry](./languages/js/yarn-berry.md)
 - [Creating a Shared Library](./languages/c/shared-library.md)
-- [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
-- [Data structure alignment](./languages/generic/data-structure-alignment.md)
 - [Include Guards in C](./languages/c/include-guard.md)
+
+#### Go
+
+- [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
+- [Using Go Libraries in C](./languages/go/cgo/using-go-libraries-in-c.md)
+- [Compiling Go for ARM](./languages/go/cross-compilation/ARM.md)
+
+#### TS
+
+- [Typescript Conditional Typing](./languages/typescript/conditional-typing.md)
+
+#### Rust
+
+- [Compiling Rust for ARM](./languages/rust/cross-compilation/ARM.md)
+- [Rust Unsafe](./languages/rust/unsafe.md)
+
+#### Java
+
+- [JAR Packing Java](./languages/java/jar-packing.md)
+
+#### JS
+
+- [Yarn Berry](./languages/js/yarn-berry.md)
+- [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
 
 ---
 
