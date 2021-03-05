@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #138 articles
+There are #139 articles
 
 ---
 
@@ -125,6 +125,7 @@ There are #138 articles
 - [Creating a Shared Library](./languages/c/shared-library.md)
 - [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
 - [Data structure alignment](./languages/generic/data-structure-alignment.md)
+- [Include Guards in C](./languages/c/include-guard.md)
 
 ---
 
