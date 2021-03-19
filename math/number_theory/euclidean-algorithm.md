@@ -1,6 +1,6 @@
 # Euclidean Algorithm
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 Euclidean Algorithm is used to calculate the gcd of two numbers x, y 
 

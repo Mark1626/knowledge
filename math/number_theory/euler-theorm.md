@@ -1,6 +1,6 @@
 # Euler's theorm
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 ```
   If a and n are coprime then

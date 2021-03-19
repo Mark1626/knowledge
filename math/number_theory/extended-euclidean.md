@@ -1,6 +1,6 @@
 # Extended Euclidean Algorithm
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 Extended Euclidean Algorithm is an extension to the classic Euclidean Algorithm, which calculates x, y of the identity
 

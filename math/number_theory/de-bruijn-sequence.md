@@ -1,6 +1,6 @@
 # De Bruijn Sequence
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 A de bruijn sequence of order n and size-k alphabet A is a cyclic sequence of every 
 possible length-n string on A occurs exactly once as a substring

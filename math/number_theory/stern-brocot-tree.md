@@ -1,6 +1,6 @@
 # Stern Brocot Tree
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 Stern brocot tree is related to Farey sequence
 

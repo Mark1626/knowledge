@@ -221,21 +221,21 @@ There are #139 articles
 
 #### Number Theory
 
-- [Ortho Latin Square](./math/ortho-latin-square.md)
-- [Perlin Noise](./math/perlin-noise.md)
-- [Kummer's Theorm](./math/kummer.md)
-- [Wilson's Theorm](./math/wilson.md)
-- [Pisano period](./math/pisano-period.md)
-- [Zeckendorf's Theorm](./math/zeckendorf-theorm.md)
-- [De Bruijn sequence](./math/de-bruijn-sequence.md)
-- [Chinese remainder theorem](./math/chinese-reminder-theorm.md)
-- [Euler's theorm](./math/euler-theorm.md)
-- [Euler's totient function](./math/euler-totient-function.md)
-- [Farey Sequence](./math/farey-sequence.md)
-- [Stern Brocot Tree](./math/stern-brocot-tree.md)
-- [Extended Euclidean Algorithm](./math/extended-euclidean.md)
-- [Euclidean Algorithm](./math/euclidean-algorithm.md)
-- [Prime Number Theorm](./math/prime-number-theorm.md)
+- [Ortho Latin Square](./math/number_theory/ortho-latin-square.md)
+- [Perlin Noise](./math/number_theory/perlin-noise.md)
+- [Kummer's Theorm](./math/number_theory/kummer.md)
+- [Wilson's Theorm](./math/number_theory/wilson.md)
+- [Pisano period](./math/number_theory/pisano-period.md)
+- [Zeckendorf's Theorm](./math/number_theory/zeckendorf-theorm.md)
+- [De Bruijn sequence](./math/number_theory/de-bruijn-sequence.md)
+- [Chinese remainder theorem](./math/number_theory/chinese-reminder-theorm.md)
+- [Euler's theorm](./math/number_theory/euler-theorm.md)
+- [Euler's totient function](./math/number_theory/euler-totient-function.md)
+- [Farey Sequence](./math/number_theory/farey-sequence.md)
+- [Stern Brocot Tree](./math/number_theory/stern-brocot-tree.md)
+- [Extended Euclidean Algorithm](./math/number_theory/extended-euclidean.md)
+- [Euclidean Algorithm](./math/number_theory/euclidean-algorithm.md)
+- [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
 
 ---
 
