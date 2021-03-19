@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #139 articles
+There are #140 articles
 
 ---
 
@@ -146,6 +146,7 @@ There are #139 articles
 
 - [Yarn Berry](./languages/js/yarn-berry.md)
 - [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
+- [Incresing libuv Thread pool](./languages/js/libuv_thread_increase.md)
 
 ---
 
