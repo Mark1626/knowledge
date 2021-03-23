@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #144 articles
+There are #145 articles
 
 ---
 
@@ -24,6 +24,7 @@ There are #144 articles
 + [Graphics](#graphics)
 + [IRC](#irc)
 + [Languages](#languages)
++ [Math](#math)
 + [Makefile](#makefile)
 + [Network](#network)
 + [Origami](#origami)
@@ -244,6 +245,7 @@ There are #144 articles
 - [Extended Euclidean Algorithm](./math/number_theory/extended-euclidean.md)
 - [Euclidean Algorithm](./math/number_theory/euclidean-algorithm.md)
 - [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
+- [Mobius Function](./math/number_theory/mobius-function.md)
 
 ---
 
