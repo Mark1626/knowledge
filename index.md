@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #143 articles
+There are #144 articles
 
 ---
 
@@ -92,6 +92,7 @@ There are #143 articles
 - [Update branch with upstream](./git/update-branch.md)
 - [Check out a PR](./git/checkout-pr.md)
 - [Create patch from commits](./git/create-patch-from-commit.md)
+- [Delete git submodule](./git/delete-submodule.md)
 
 ---
 
