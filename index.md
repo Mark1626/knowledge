@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #140 articles
+There are #143 articles
 
 ---
 
@@ -215,10 +215,16 @@ There are #140 articles
 
 ### Math
 
+#### Fractals
+
+- [Chaos Game](./math/fractals/chaos_game.md)
+- [Iterated Function Systems](./math/fractals/ifs.md)
+
 #### Geometry
 
 - [Rhombile Tiling](./math/geometry/rhombile_tiling.md)
 - [Stellation](./math/geometry/stellation.md)
+- [Affine Transform](./math/geometry/affine.md)
 
 #### Number Theory
 
