@@ -391,3 +391,5 @@ There are #146 articles
 Inspired by
 + [yoshuawuyts](https://github.com/yoshuawuyts/knowledge)
 + [jbranchaud](https://github.com/jbranchaud/til)
+
+You can find other similar repos in [RichardLitt](https://github.com/RichardLitt)'s [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) list
