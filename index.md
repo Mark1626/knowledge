@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #146 articles
+There are #148 articles
 
 ---
 
@@ -298,7 +298,9 @@ There are #146 articles
 
 - [RFC 1122 Communication Layer](./rfc/rfc1122.md)
 - [RFC 7578 multipart/form-data](./rfc/rfc7578.md)
-- [Problem Details in HTTP API](./rfc/rfc7807.md)
+- [RFC 2068 HTTP/1.1](./rfc/rfc2068.md)
+- [RFC 2616 HTTP/1.1](./rfc/rfc2616.md)
+- [RFC 7807 Problem Details in HTTP API](./rfc/rfc7807.md)
 
 ---
 
