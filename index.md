@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #149 articles
+There are #150 articles
 
 ---
 
@@ -95,6 +95,7 @@ There are #149 articles
 - [Create patch from commits](./git/create-patch-from-commit.md)
 - [Delete git submodule](./git/delete-submodule.md)
 - [Git bisect](./git/git-bisect.md)
+- [Git tag types](./git/git-tag.md)
 
 ---
 
