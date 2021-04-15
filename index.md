@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #150 articles
+There are #151 articles
 
 ---
 
@@ -84,6 +84,7 @@ There are #150 articles
 
 - [Request Animation Frame](./frontend/browser/raf.md)
 - [React Froward Ref](./frontend/react/forward-ref.md)
+- [Flex Box](./frontend/browser/flex.md)
 
 ---
 

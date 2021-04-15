@@ -1,4 +1,5 @@
 url: "https://mark1626.github.io/knowledge"
 theme: minima
+markdown: kramdown
 
 header_pages: ['']
