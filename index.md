@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #151 articles
+There are #152 articles
 
 ---
 
@@ -128,6 +128,7 @@ There are #151 articles
 - [Ignore unused var in C/C++](./languages/c/unused-variables.md)
 - [Creating a Shared Library](./languages/c/shared-library.md)
 - [Include Guards in C](./languages/c/include-guard.md)
+- [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 
 #### Go
 
