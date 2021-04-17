@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #152 articles
+There are #153 articles
 
 ---
 
@@ -129,6 +129,7 @@ There are #152 articles
 - [Creating a Shared Library](./languages/c/shared-library.md)
 - [Include Guards in C](./languages/c/include-guard.md)
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
+- [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
 
 #### Go
 
