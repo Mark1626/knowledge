@@ -2,6 +2,8 @@
 
 [Back](../../index.md){: .button}
 
+> **Note:** This can only prevent this within the same compilation unit
+
 In C include guards are use to prevent double inclusions
 
 ```cpp
@@ -26,3 +28,4 @@ struct foo {
 ```
 
 Without include guard the struct would be created twice
+
