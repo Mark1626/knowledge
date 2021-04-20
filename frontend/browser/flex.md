@@ -1,6 +1,6 @@
 # Flex
 
-[Back](../index.md){: .button}
+[Back](../../index.md){: .button}
 
 # Terminology
 
