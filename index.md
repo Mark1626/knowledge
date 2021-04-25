@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #153 articles
+There are #154 articles
 
 ---
 
@@ -37,6 +37,7 @@ There are #153 articles
 + [Tools](#tools)
 + [Unix](#unix)
 + [Vim](#vim)
++ [Web](#web)
 
 ---
 
@@ -390,6 +391,12 @@ There are #153 articles
 - [Copy To Clipboard in MacOS](./vim/copy-clipboard.md)
 - [Paste From Clipboard in MacOS](./vim/paste-clipboard.md)
 - [Vim marks](./vim/vim-marks.md)
+
+---
+
+### Web
+
+- [Standard SubResource Integrity - SSRI](./web/ssri.md)
 
 ---
 
