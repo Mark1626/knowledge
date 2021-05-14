@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #155 articles
+There are #156 articles
 
 ---
 
@@ -87,6 +87,7 @@ There are #155 articles
 - [React Froward Ref](./frontend/react/forward-ref.md)
 - [Flex Box](./frontend/browser/flex.md)
 - [Emmet Abbreviations](./frontend/tools/emmet.md)
+- [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
 
 ---
 
