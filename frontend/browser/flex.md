@@ -85,6 +85,8 @@
 
 ### Align Items
 
+Align items is to align items along the cross-axis in the parent container
+
 > **Note:** It is mostly better to ensure that the items are of same height
 
 #### Baseline
