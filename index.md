@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #156 articles
+There are #159 articles
 
 ---
 
@@ -83,11 +83,28 @@ There are #156 articles
 
 ### Frontend
 
-- [Request Animation Frame](./frontend/browser/raf.md)
+#### React
+
 - [React Froward Ref](./frontend/react/forward-ref.md)
+
+#### Core Web
+
+- [Request Animation Frame](./frontend/browser/raf.md)
+
+### Core CSS
+
 - [Flex Box](./frontend/browser/flex.md)
-- [Emmet Abbreviations](./frontend/tools/emmet.md)
 - [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
+- [Before After Pseudo Elements](./frontend/css/before-after-pseudo-elements.md)
+- [Linear Gradient](./frontend/css/linear-gradient.md)
+
+#### Tools
+
+- [Emmet Abbreviations](./frontend/tools/emmet.md)
+
+#### CSS Tricks
+
+- [Pure CSS Triangles](./frontend/css/pure-css-triangles.md)
 
 ---
 
