@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #160 articles
+There are #161 articles
 
 ---
 
@@ -97,7 +97,8 @@ There are #160 articles
 - [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
 - [Before After Pseudo Elements](./frontend/css/before-after-pseudo-elements.md)
 - [Linear Gradient](./frontend/css/linear-gradient.md)
-- [Multiclass Selectors](./fronend/css/multiclass-selectors.md)
+- [Multiclass Selectors](./frontend/css/multiclass-selectors.md)
+- [CSS Matrix Transforms](./frontend/css/css-matrix-transform.md)
 
 #### Tools
 
