@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #161 articles
+There are #162 articles
 
 ---
 
@@ -338,6 +338,10 @@ There are #161 articles
 ---
 
 ### Tools
+
+#### Clang Format
+
+- [Clang Format](./tools/clang-format.md)
 
 #### Dracula
 
