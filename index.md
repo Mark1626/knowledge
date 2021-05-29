@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #162 articles
+There are #168 articles
 
 ---
 
@@ -152,6 +152,15 @@ There are #162 articles
 - [Include Guards in C](./languages/c/include-guard.md)
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
+
+#### C++
+
+- [Initializer List](./languages/cplusplus/initializer-list.md)
+- [Copy Constructor](./languages/cplusplus/copy-ctor.md)
+- [Move Contructor](./languages/cplusplus/move-ctor.md)
+- [Trailing Return Type](./languages/cplusplus/trailing-return-type.md)
+- [auto and decltype](./languages/cplusplus/auto-decltype.md)
+- [Remove Reference](./languages/cplusplus/remove-reference.md)
 
 #### Go
 
