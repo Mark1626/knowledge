@@ -10,5 +10,5 @@ Every executable we create will be in the following layout
 - Load Commands
 - Data
 
-My blog on [this](https://mark1626.github.io/posts/2021/01/09/understanding-binary-executables/)
+My blog on [this](https://mark1626.github.io/posts/2021/01/09/reverse-engineering-binary-executables-part-1/)
 
