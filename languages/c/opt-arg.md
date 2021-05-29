@@ -24,7 +24,7 @@ Variables
 
 int main(int argc, char** argv) {
   int c;
-  while ((c = getopt(argc, argv, "h:n:")) != 1) {
+  while ((c = getopt(argc, argv, "h:n:")) != -1) {
   switch (c) {
     case 'h':
       header = optarg;
