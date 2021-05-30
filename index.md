@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #168 articles
+There are #171 articles
 
 ---
 
@@ -161,7 +161,9 @@ There are #168 articles
 - [Trailing Return Type](./languages/cplusplus/trailing-return-type.md)
 - [auto and decltype](./languages/cplusplus/auto-decltype.md)
 - [Remove Reference](./languages/cplusplus/remove-reference.md)
-
+- [Setup for LLDB](./languages/cplusplus/setup-lldb.md)
+- [const member function](./languages/cplusplus/const-member-function.md)
+- [Pragma once](./languages/cplusplus/pragma-once.md)
 #### Go
 
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
