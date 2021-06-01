@@ -31,4 +31,4 @@ Without include guard the struct would be created twice
 
 ## See Also
 
-- [Pragma Once](../cplusplus/pragma-once.md)
+- [Pragma Once](./pragma-once.md)

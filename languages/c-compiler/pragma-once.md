@@ -10,4 +10,4 @@
 
 ## See Also
 
-- [Include Guards](../c/include-guard.md)
+- [Include Guards](./include-guard.md)

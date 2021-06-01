@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #171 articles
+There are #172 articles
 
 ---
 
@@ -143,13 +143,18 @@ There are #171 articles
 - [Data structure alignment](./languages/generic/data-structure-alignment.md)
 - [Backpressure in Streams](./languages/generic/backpressure.md)
 
+#### C/C++ Compilers
+
+- [What is dSYM](./languages/c-compiler/what-is-dsym.md)
+- [Ignore unused var in C/C++](./languages/c-compiler/unused-variables.md)
+- [Creating a Shared Library](./languages/c-compiler/shared-library.md)
+- [Include Guards in C](./languages/c-compiler/include-guard.md)
+- [Setup for LLDB](./languages/c-compiler/setup-lldb.md)
+- [Pragma once](./languages/c-compiler/pragma-once.md)
+
 #### C
 
-- [What is dSYM](./languages/c/what-is-dsym.md)
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
-- [Ignore unused var in C/C++](./languages/c/unused-variables.md)
-- [Creating a Shared Library](./languages/c/shared-library.md)
-- [Include Guards in C](./languages/c/include-guard.md)
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
 
@@ -161,9 +166,7 @@ There are #171 articles
 - [Trailing Return Type](./languages/cplusplus/trailing-return-type.md)
 - [auto and decltype](./languages/cplusplus/auto-decltype.md)
 - [Remove Reference](./languages/cplusplus/remove-reference.md)
-- [Setup for LLDB](./languages/cplusplus/setup-lldb.md)
 - [const member function](./languages/cplusplus/const-member-function.md)
-- [Pragma once](./languages/cplusplus/pragma-once.md)
 #### Go
 
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
