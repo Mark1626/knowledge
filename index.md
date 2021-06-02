@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #172 articles
+There are #173 articles
 
 ---
 
@@ -151,6 +151,7 @@ There are #172 articles
 - [Include Guards in C](./languages/c-compiler/include-guard.md)
 - [Setup for LLDB](./languages/c-compiler/setup-lldb.md)
 - [Pragma once](./languages/c-compiler/pragma-once.md)
+- [restrict](./languages/c-compiler/restrict.md)
 
 #### C
 
