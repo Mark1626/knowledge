@@ -8,13 +8,14 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #173 articles
+There are #174 articles
 
 ---
 
 ## Categories
 
 + [ARM](#arm)
++ [Algorithm](#algorithm)
 + [Books](#books)
 + [Crypto](#crypto)
 + [Code Art](#codeart)
@@ -44,6 +45,12 @@ There are #173 articles
 ### ARM
 
 - [Raspberry PI boot config](./arm/pi-boot-config.md)
+
+---
+
+### Algorithm
+
+- [Boyer–Moore–Horspool algorithm](./algo/bmh.md)
 
 ---
 
