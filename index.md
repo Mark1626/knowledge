@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #174 articles
+There are #175 articles
 
 ---
 
@@ -31,8 +31,9 @@ There are #174 articles
 + [Origami](#origami)
 + [Philosophy](#philosophy)
 + [Postgresql](#postgresql)
-+ [Psychology](#psychology)
 + [Platforms](#platforms)
++ [Processors](#processors)
++ [Psychology](#psychology)
 + [RFC](#rfc)
 + [Sqlite](#sqlite)
 + [Tools](#tools)
@@ -340,6 +341,14 @@ There are #174 articles
 - [Flags / Control Registers](./platforms/dos/control-registers.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 - [Check for input](./platforms/dos/reading-input.md)
+
+---
+
+### Processors
+
+#### Intel
+
+- [SSE2](./processors/intel/sse2.md)
 
 ---
 
