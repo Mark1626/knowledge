@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #175 articles
+There are #177 articles
 
 ---
 
@@ -267,6 +267,11 @@ There are #175 articles
 ---
 
 ### Math
+
+#### Automata
+
+- [Abelian Sandpile](./math/automata/abelian-sandpile.md)
+- [Game of Life](./math/automata/game-of-life.md)
 
 #### Fractals
 
