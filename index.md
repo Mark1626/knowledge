@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #177 articles
+There are #178 articles
 
 ---
 
@@ -176,6 +176,8 @@ There are #177 articles
 - [auto and decltype](./languages/cplusplus/auto-decltype.md)
 - [Remove Reference](./languages/cplusplus/remove-reference.md)
 - [const member function](./languages/cplusplus/const-member-function.md)
+- [vectors](./languages/cplusplus/vectors.md)
+
 #### Go
 
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
