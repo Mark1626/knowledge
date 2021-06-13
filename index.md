@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #178 articles
+There are #179 articles
 
 ---
 
@@ -52,6 +52,7 @@ There are #178 articles
 ### Algorithm
 
 - [Boyer–Moore–Horspool algorithm](./algo/bmh.md)
+- [XOR Shift Rotate](./algo/xor-shift.md)
 
 ---
 
