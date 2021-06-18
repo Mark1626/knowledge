@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #180 articles
+There are #184 articles
 
 ---
 
@@ -162,6 +162,8 @@ There are #180 articles
 - [Setup for LLDB](./languages/c-compiler/setup-lldb.md)
 - [Pragma once](./languages/c-compiler/pragma-once.md)
 - [restrict](./languages/c-compiler/restrict.md)
+- [File as Flag](./languages/c-compiler/file-as-flags.md)
+- [Frame Pointer](./languages/c-compiler/frame-pointer.md)
 
 #### C
 
@@ -179,6 +181,7 @@ There are #180 articles
 - [Remove Reference](./languages/cplusplus/remove-reference.md)
 - [const member function](./languages/cplusplus/const-member-function.md)
 - [vectors](./languages/cplusplus/vectors.md)
+- [Run-Time Type Information](./languages/cplusplus/rtti.md)
 
 #### Go
 
@@ -420,6 +423,10 @@ There are #180 articles
 #### otool
 
 - [otool](./tools/otool.md)
+
+#### perf
+
+- [perf](./tools/perf.md)
 
 ---
 
