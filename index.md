@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #184 articles
+There are #189 articles
 
 ---
 
@@ -54,6 +54,7 @@ There are #184 articles
 - [Boyer–Moore algorithm](./algo/bm.md)
 - [Boyer–Moore–Horspool algorithm](./algo/bmh.md)
 - [XOR Shift Rotate](./algo/xor-shift.md)
+- [Kadane](./algo/kadane.md)
 
 ---
 
@@ -152,6 +153,8 @@ There are #184 articles
 
 - [Data structure alignment](./languages/generic/data-structure-alignment.md)
 - [Backpressure in Streams](./languages/generic/backpressure.md)
+- [BLAS](./languages/generic/blas.md)
+- [ABI](./languages/generic/abi.md)
 
 #### C/C++ Compilers
 
@@ -309,6 +312,7 @@ There are #184 articles
 - [Euclidean Algorithm](./math/number_theory/euclidean-algorithm.md)
 - [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
 - [Mobius Function](./math/number_theory/mobius-function.md)
+- [Chakravala Method](./math/number_theory/chakravala.md)
 
 ---
 
@@ -463,6 +467,7 @@ There are #184 articles
 - [Copy To Clipboard in MacOS](./vim/copy-clipboard.md)
 - [Paste From Clipboard in MacOS](./vim/paste-clipboard.md)
 - [Vim marks](./vim/vim-marks.md)
+- [Replace and Change](./vim/replace-change.md)
 
 ---
 
