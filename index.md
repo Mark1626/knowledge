@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #189 articles
+There are #190 articles
 
 ---
 
@@ -313,6 +313,7 @@ There are #189 articles
 - [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
 - [Mobius Function](./math/number_theory/mobius-function.md)
 - [Chakravala Method](./math/number_theory/chakravala.md)
+- [Fibonnaci Matrix](./math/number_theory/fibonnaci-matrix.md)
 
 ---
 
