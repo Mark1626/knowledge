@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #191 articles
+There are #192 articles
 
 ---
 
@@ -168,6 +168,7 @@ There are #191 articles
 - [restrict](./languages/c-compiler/restrict.md)
 - [File as Flag](./languages/c-compiler/file-as-flags.md)
 - [Frame Pointer](./languages/c-compiler/frame-pointer.md)
+- [Compilation Flags](./languages/c-compiler/flags.md)
 
 #### C
 
