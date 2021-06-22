@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #190 articles
+There are #191 articles
 
 ---
 
@@ -86,9 +86,10 @@ There are #190 articles
 
 ---
 
-### Euler Research
+### Math Research
 
-- [Heighway Dragon](./euler-research/heighway-dragon/README.md)
+- [Heighway Dragon](./math-research/heighway-dragon.md)
+- [Fibonnaci Matrix Difference Equation](./math-research/fibonnaci-matrix-difference-equations.md)
 
 ---
 
