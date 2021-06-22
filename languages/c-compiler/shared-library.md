@@ -21,7 +21,7 @@ OBJ = miller.o kummer.o prime.o
   $(CC) -c -fPIC -o $@ $< $(CFLAGS)
 
 euler: $(OBJ)
-  $(CC) -shared -W1 -o $(LDIR)/libeuler.so $^ $(CFLAGS) $(LIBS)
+  $(CC) -shared -Wl -o $(LDIR)/libeuler.so $^ $(CFLAGS) $(LIBS)
 
 clean:
   rm *.o

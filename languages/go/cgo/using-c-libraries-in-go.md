@@ -16,7 +16,7 @@ dynamic:
 shared:
 > rm -f libarith.so
 > gcc -c -fPIC -Iinclude src/arith.c
-> gcc -shared -W1 -o libarith.so arith.o
+> gcc -shared -Wl -o libarith.so arith.o
 > rm -f arith.o
 ```
 
