@@ -55,8 +55,8 @@ build:
 ### Makeflags
 
 ```make
-MAKEFLAGS += warn-undefined-variables
-MAKEFLAGS += no-builtin-rules
+MAKEFLAGS += --warn-undefined-variables
+MAKEFLAGS += --no-builtin-rules
 ```
 
 ## References
