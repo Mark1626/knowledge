@@ -1,6 +1,6 @@
 # Postgresql check the pages and tuple count for relationship
 
-[Back](../index.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 The count of `Pages` and `Tuples` can be seen in the `pg_class` tables
 

@@ -1,11 +1,11 @@
 # Postgresql
 
-[Back](../index.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 ## Wikis and blogs to read
 
-- https://wiki.postgresql.org/wiki/Main\_Page
-- https://postgreshelp.com/
-- https://www.depesz.com/
-- https://www.tutorialdba.com/
+- [Postgresql Wiki](https://wiki.postgresql.org/wiki/Main\_Page)
+- [Postgres Help](https://postgreshelp.com/)
+- [Depesz](https://www.depesz.com/)
+- [Tutorial DBA](https://www.tutorialdba.com/)
 

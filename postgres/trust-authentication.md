@@ -1,6 +1,6 @@
 # Postgresql Trust Authentication
 
-[Back](../index.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 `trust` authentication assumes that anyone who can connect to the server can be autherised to access the database.
 

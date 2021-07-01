@@ -1,6 +1,6 @@
 # Template Databases
 
-[Back](../index.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 In postgresql when creating a database, a template can be specified to copy all the tables from the template into the new database
 

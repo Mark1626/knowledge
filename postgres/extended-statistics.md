@@ -1,5 +1,7 @@
 # Postgres Extended Statistics
 
+[Back](../index.md#postgresql){: .button}
+
 Refer to my blog [here](https://mark1626.github.io/2020/08/29/extended-statistics.html) for a much detailed example
 
 

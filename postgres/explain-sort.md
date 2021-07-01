@@ -1,6 +1,6 @@
 # Explain on Sort
 
-[Back](../index.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 When the memory used for sorting is less than `work_mem`, sorting is done in memory. Notice that the sort method is `quicksort`
 
