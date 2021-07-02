@@ -1,6 +1,6 @@
 # Systemd
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 [systemd](https://wiki.archlinux.org/index.php/Systemd) is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. systemd provides aggressive parallelization capabilities
 

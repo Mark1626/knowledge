@@ -1,6 +1,6 @@
 # Requesting static IP to DHCP in local network
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 - Find the ip of the current name server 
 

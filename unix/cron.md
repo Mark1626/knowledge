@@ -1,6 +1,6 @@
 ## Cron
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 Cron is a unix utility to run cron jobs.
 

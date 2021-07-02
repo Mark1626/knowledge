@@ -1,6 +1,6 @@
 # Locale
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 ### Generating locale
 

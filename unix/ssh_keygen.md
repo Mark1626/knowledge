@@ -1,6 +1,6 @@
 # SSH key generation
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 ## Creating an ssh key
 

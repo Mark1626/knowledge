@@ -1,6 +1,6 @@
 # Ansi colors
 
-[Back](../index.md)
+[Back](../index.md#unix)
 
 ## List of colors
 

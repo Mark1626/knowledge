@@ -1,6 +1,6 @@
 # Shebang
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 A shebang is used to tell which interpretor to use to parse the file
 

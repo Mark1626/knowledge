@@ -1,6 +1,6 @@
 # Difference between glibc and libc6
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 Both are the same thing. There seems to be a confusion in the versioning
 

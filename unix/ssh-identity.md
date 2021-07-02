@@ -1,6 +1,6 @@
 # SSH Config
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 To use multiple ssh keys for different git servers, use a `ssh config` file
 

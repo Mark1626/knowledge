@@ -1,6 +1,6 @@
 # Mach-O
 
-[Back](../index.md)
+[Back](../index.md#unix)
 
 
 [Mach-O](https://en.wikipedia.org/wiki/Mach-O) is the executable format used in the `Mach Kernel`

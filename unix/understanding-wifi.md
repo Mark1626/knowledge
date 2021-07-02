@@ -1,6 +1,6 @@
 # Understanding Wifi
 
-[Back](../index.md){: .button}
+[Back](../index.md#unix){: .button}
 
 What happens when you try to connect to a network with wifi?
 Or how do you set up a network connection with Wifi
