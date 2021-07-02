@@ -1,6 +1,6 @@
 # SSE2 - Streaming SIMD Extensions
 
-[Back](../../index.md){: .button}
+[Back](../../index.md#simd){: .button}
 
 ## Terminology
 

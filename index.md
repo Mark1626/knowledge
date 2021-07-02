@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #192 articles
+There are #193 articles
 
 ---
 
@@ -32,9 +32,9 @@ There are #192 articles
 + [Philosophy](#philosophy)
 + [Postgresql](#postgresql)
 + [Platforms](#platforms)
-+ [Processors](#processors)
 + [Psychology](#psychology)
 + [RFC](#rfc)
++ [SIMD](#simd)
 + [Sqlite](#sqlite)
 + [Tools](#tools)
 + [Unix](#unix)
@@ -363,14 +363,6 @@ There are #192 articles
 
 ---
 
-### Processors
-
-#### Intel
-
-- [SSE2](./processors/intel/sse2.md)
-
----
-
 ### RFC
 
 - [RFC 1122 Communication Layer](./rfc/rfc1122.md)
@@ -378,6 +370,15 @@ There are #192 articles
 - [RFC 2068 HTTP/1.1](./rfc/rfc2068.md)
 - [RFC 2616 HTTP/1.1](./rfc/rfc2616.md)
 - [RFC 7807 Problem Details in HTTP API](./rfc/rfc7807.md)
+
+---
+
+### SIMD
+
+#### Intel
+
+- [SSE Learning Resources and Blogs](./simd/intel/learning-resources-blogs.md)
+- [SSE2](./simd/intel/sse2.md)
 
 ---
 
