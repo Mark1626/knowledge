@@ -1,6 +1,6 @@
 # Visual Mode in Vim
 
-[Back](../index.md){: .button}
+[Back](../index.md#vim){: .button}
 
 
 # Visual Character Mode

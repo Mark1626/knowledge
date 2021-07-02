@@ -1,6 +1,6 @@
 # Find and Replace in Vim
 
-[Back](../index.md){: .button}
+[Back](../index.md#vim){: .button}
 
 ### Syntax:
 ```

@@ -1,6 +1,6 @@
 # Replace
 
-[Back](../index.md)
+[Back](../index.md#vim)
 
 ```
 

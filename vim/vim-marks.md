@@ -1,6 +1,6 @@
 # Vim Marks
 
-[Back](../index.md){: .button}
+[Back](../index.md#vim){: .button}
 
 Vim marks can mark a line and be used to jump back to the line when needed
 
