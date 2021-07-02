@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #193 articles
+There are #194 articles
 
 ---
 
@@ -187,6 +187,7 @@ There are #193 articles
 - [const member function](./languages/cplusplus/const-member-function.md)
 - [vectors](./languages/cplusplus/vectors.md)
 - [Run-Time Type Information](./languages/cplusplus/rtti.md)
+- [Rule of Five and One](./languages/cplusplus/rule-5-0.md)
 
 #### Go
 
