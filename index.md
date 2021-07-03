@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #194 articles
+There are #200 articles
 
 ---
 
@@ -156,8 +156,9 @@ There are #194 articles
 - [Backpressure in Streams](./languages/generic/backpressure.md)
 - [BLAS](./languages/generic/blas.md)
 - [ABI](./languages/generic/abi.md)
+- [Alias Analysis](./languages/generic/alias-analysis.md)
 
-#### C/C++ Compilers
+#### C/CPP Compilers {#c-cpp-compilers}
 
 - [What is dSYM](./languages/c-compiler/what-is-dsym.md)
 - [Ignore unused var in C/C++](./languages/c-compiler/unused-variables.md)
@@ -169,6 +170,17 @@ There are #194 articles
 - [File as Flag](./languages/c-compiler/file-as-flags.md)
 - [Frame Pointer](./languages/c-compiler/frame-pointer.md)
 - [Compilation Flags](./languages/c-compiler/flags.md)
+- [Auto Vectorization](./languages/c-compiler/auto-vectorization.md)
+
+##### Clang
+
+- [Clang specific auto vectorization features](./languages/c-compiler/clang/auto-vectorization.md)
+- [Clang specific flags](./languages/c-compiler/clang/clang-specific-flags.md)
+
+##### GCC
+
+- [GCC specific auto vectorization features](./languages/c-compiler/gcc/auto-vectorization.md)
+- [Tree SSA](./languages/c-compiler/gcc/tree-ssa.md)
 
 #### C
 

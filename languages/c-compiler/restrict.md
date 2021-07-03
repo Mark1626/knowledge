@@ -42,7 +42,7 @@ xor512(void*, void*):                          # @xor512(void*, void*)
 
 ### With Restrict
 
-> **Note :** In clang 12 with -O3 for the above example when I defined a constant input the compiler used SSE instructions similar to the below, however it was because these **were constants**
+> **Note :** In clang 12 with -O3 for the above example is vectorized but it's auto vectorization, but without `__restrict__` the compiler will generate two function a scalar and vector and use the corresponding one after checking for overlap. For further details read [Clang runtime checks of pointers](https://llvm.org/docs/Vectorizers.html#runtime-checks-of-pointers)
 
 ```asm
 xor512(void*, void*):                          # @xor512(void*, void*)
