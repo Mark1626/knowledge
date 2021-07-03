@@ -176,7 +176,7 @@ There are #194 articles
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
 
-#### C++
+#### CPP
 
 - [Initializer List](./languages/cplusplus/initializer-list.md)
 - [Copy Constructor](./languages/cplusplus/copy-ctor.md)

@@ -1,6 +1,6 @@
 # Rule of Zero and Rule of Five
 
-[Back](../../index.md#c-1){: .button}
+[Back](../../index.md#cpp){: .button}
 
 ## Rule of Zero
 

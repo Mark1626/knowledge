@@ -1,6 +1,6 @@
 # Resource Acquisition Is Initialization (RAII)
 
-[Back](../../index.md){: .button}
+[Back](../../index.md#cpp){: .button}
 
 Resource allocation being tied to object lifetime. Memory allocation is done in constructor while deallocation is done in destructor.
 
