@@ -1,6 +1,6 @@
 # makefile
 
-[Back](../index.md){: .button}
+[Back](../../index.md#makefile){: .button}
 
 ## Learnings
 

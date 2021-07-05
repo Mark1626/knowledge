@@ -1,6 +1,6 @@
 # foreach in Makefile
 
-[Back](../index.md){: .button}
+[Back](../../index.md#makefile){: .button}
 
 ### Syntax:
 

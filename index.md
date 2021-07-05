@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #200 articles
+There are #201 articles
 
 ---
 
@@ -228,11 +228,17 @@ There are #200 articles
 
 ---
 
-### Makefile
+### Build tools
 
-- [Makefile](./makefile/makefile.md)
-- [Makefile macros](./makefile/makefile_macros.md)
-- [Make foreach](./makefile/make-foreach.md)
+#### Makefile
+
+- [Makefile](./buildtools/cmake/makefile.md)
+- [Makefile macros](./buildtools/cmake/makefile_macros.md)
+- [Make foreach](./buildtools/cmake/make-foreach.md)
+
+#### CMake
+
+- [CMake Fetch](./buildtools/cmake/cmake-fetch.md)
 
 ---
 
