@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #201 articles
+There are #203 articles
 
 ---
 
@@ -200,6 +200,7 @@ There are #201 articles
 - [vectors](./languages/cplusplus/vectors.md)
 - [Run-Time Type Information](./languages/cplusplus/rtti.md)
 - [Rule of Five and One](./languages/cplusplus/rule-5-0.md)
+- [C++ Modules](./languages/cplusplus/modules.md)
 
 #### Go
 
@@ -239,6 +240,7 @@ There are #201 articles
 #### CMake
 
 - [CMake Fetch](./buildtools/cmake/cmake-fetch.md)
+- [CMake Dependency](./buildtools/cmake/cmake-dependency.md)
 
 ---
 
