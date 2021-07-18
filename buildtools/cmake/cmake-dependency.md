@@ -11,3 +11,7 @@ find_package(SomePackage REQUIRED)
 ```
 find_package(libyaml REQUIRED)
 ```
+
+# Further Reading
+
+- [Using CMake](https://eliasdaler.github.io/using-cmake/)

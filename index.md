@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #203 articles
+There are #206 articles
 
 ---
 
@@ -17,6 +17,7 @@ There are #203 articles
 + [ARM](#arm)
 + [Algorithm](#algorithm)
 + [Books](#books)
++ [Build Tools](#build-tools)
 + [Crypto](#crypto)
 + [Code Art](#codeart)
 + [Data Structure](#datastructures)
@@ -26,7 +27,6 @@ There are #203 articles
 + [IRC](#irc)
 + [Languages](#languages)
 + [Math](#math)
-+ [Makefile](#makefile)
 + [Network](#network)
 + [Origami](#origami)
 + [Philosophy](#philosophy)
@@ -229,18 +229,21 @@ There are #203 articles
 
 ---
 
-### Build tools
+### Build tools {#build-tools}
 
-#### Makefile
+#### Makefile {#makefile}
 
 - [Makefile](./buildtools/cmake/makefile.md)
 - [Makefile macros](./buildtools/cmake/makefile_macros.md)
 - [Make foreach](./buildtools/cmake/make-foreach.md)
 
-#### CMake
+#### CMake {#cmake}
 
 - [CMake Fetch](./buildtools/cmake/cmake-fetch.md)
 - [CMake Dependency](./buildtools/cmake/cmake-dependency.md)
+- [CMake Release Type](./buildtools/cmake/cmake-release-type.md)
+- [CMake Flags per Release](./buildtools/cmake/cmake-flags-per-release.md)
+- [CMake Specify Compiler](./buildtools/cmake/cmake-specify-compiler.md)
 
 ---
 
