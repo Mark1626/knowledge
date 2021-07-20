@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #206 articles
+There are #207 articles
 
 ---
 
@@ -459,6 +459,10 @@ There are #206 articles
 #### perf
 
 - [perf](./tools/perf.md)
+
+#### gpg
+
+- [gpg](./tools/gpg.md)
 
 ---
 
