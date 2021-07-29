@@ -2,6 +2,8 @@
 
 [Back](../../index.md#cmake){: .button}
 
+## Fetching Git Repo
+
 ```cmake
 include(FetchContent)
 
@@ -11,3 +13,15 @@ FetchContent_Declare(<content-name>
 
 FetchContent_MakeAvailable(<content-name>)
 ```
+
+## Fetching zip or tar.gz
+
+```
+FetchContent_Declare(log4cxx
+  URL <url>
+  URL_HASH <hash>)
+
+FetchContent_MakeAvailable(log4cxx)
+
+```
+
