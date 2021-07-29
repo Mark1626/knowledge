@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #215 articles
+There are #216 articles
 
 ---
 
@@ -216,6 +216,7 @@ There are #215 articles
 - [Run-Time Type Information](./languages/cplusplus/rtti.md)
 - [Rule of Five and One](./languages/cplusplus/rule-5-0.md)
 - [C++ Modules](./languages/cplusplus/modules.md)
+- [C++ override ostream](./languages/cplusplus/overide-ostream-cout.md)
 
 #### Go
 
