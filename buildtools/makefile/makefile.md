@@ -61,5 +61,5 @@ MAKEFLAGS += --no-builtin-rules
 
 ## References
 
-- https://tech.davis-hansson.com/p/make/
-- https://www.gnu.org/software/make/manual/html_node/Catalogue-of-Rules.html
+- [Your Makefiles are Wrong](https://tech.davis-hansson.com/p/make/)
+- [GNU Make Rule Catalogue](https://www.gnu.org/software/make/manual/html_node/Catalogue-of-Rules.html)

@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #210 articles
+There are #211 articles
 
 ---
 
@@ -248,9 +248,10 @@ There are #210 articles
 
 #### Makefile {#makefile}
 
-- [Makefile](./buildtools/cmake/makefile.md)
-- [Makefile macros](./buildtools/cmake/makefile_macros.md)
-- [Make foreach](./buildtools/cmake/make-foreach.md)
+- [Makefile](./buildtools/makefile/makefile.md)
+- [Makefile macros](./buildtools/makefile/makefile_macros.md)
+- [Make foreach](./buildtools//makefile/make-foreach.md)
+- [Make parallel builds](./buildtools/makefile/make-parallel.md)
 
 #### CMake {#cmake}
 
