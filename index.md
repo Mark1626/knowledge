@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #211 articles
+There are #212 articles
 
 ---
 
@@ -335,6 +335,7 @@ There are #211 articles
 - [Rhombile Tiling](./math/geometry/rhombile_tiling.md)
 - [Stellation](./math/geometry/stellation.md)
 - [Affine Transform](./math/geometry/affine.md)
+- [3D Rotation](./math/geometry/3d-rotation.md)
 
 #### Number Theory
 
