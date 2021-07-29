@@ -1,6 +1,6 @@
 # cURL Output format
 
-[Back](../index.md){: .button}
+[Back](../index.md#curl){: .button}
 
 The output format of cURL can be specified with `-w`
 

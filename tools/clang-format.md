@@ -1,6 +1,6 @@
 # Clang Format
 
-[Back](../../index.md){: .button}
+[Back](../../index.md#clang-format){: .button}
 
 ## Generating the config
 

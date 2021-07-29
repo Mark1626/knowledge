@@ -1,6 +1,6 @@
 # Print the HTML page with Lynx
 
-[Back](../index.md){: .button}
+[Back](../index.md#lynx){: .button}
 
 Lynx can be used to extract the content out of a web page. This is useful in remove the scripts and html tags when you want to save a page
 

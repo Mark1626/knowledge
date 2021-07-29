@@ -1,6 +1,6 @@
 # nmap
 
-[Back](../index.md){: .button}
+[Back](../index.md#nmap){: .button}
 
 `nmap` can be used to scan the network to see all used IPs
 

@@ -1,6 +1,6 @@
 # Hexdump
 
-[Back](../index.md)
+[Back](../index.md#hexdump)
 
 Dumps the binary data as 16bit values
 

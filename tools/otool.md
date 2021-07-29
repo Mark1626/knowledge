@@ -1,6 +1,6 @@
 # otool
 
-[Back](../index.md){: .button}
+[Back](../index.md#otool){: .button}
 
 ### Examples
 

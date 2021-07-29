@@ -1,6 +1,6 @@
 # GPG
 
-[Back](../../index.md#tools){: .button}
+[Back](../../index.md#gpg){: .button}
 
 ## Import keyring to the local key store
 

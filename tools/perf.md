@@ -1,6 +1,6 @@
 # Perf
 
-[Back](../index.md){: .button}
+[Back](../index.md#perf){: .button}
 
 ```sh
 # Record performance
@@ -16,4 +16,13 @@ perf report -g
 pert report -g 'graph,0.5,caller'
 
 ```
+
+- `-g` record call stack
+  + Compile your program with `-fno-omit-frame-pointer`
+- 
+
+## Further Reading
+
+- [perf Usage Tutorial at CPPConf](https://www.youtube.com/watch?v=nXaxk27zwlk)
+- [perf Tutorial](https://perf.wiki.kernel.org/index.php/Tutorial)
 

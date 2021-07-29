@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #212 articles
+There are #215 articles
 
 ---
 
@@ -127,7 +127,7 @@ There are #212 articles
 - [Multiclass Selectors](./frontend/css/multiclass-selectors.md)
 - [CSS Matrix Transforms](./frontend/css/css-matrix-transform.md)
 
-#### Tools
+#### Frontend Tools
 
 - [Emmet Abbreviations](./frontend/tools/emmet.md)
 
@@ -431,43 +431,51 @@ There are #212 articles
 
 ### Tools
 
-#### Clang Format
+#### ab
+
+- [Apache Benchmark](./tools/ab.md)
+
+#### Clang Format {#clang-format}
 
 - [Clang Format](./tools/clang-format.md)
+
+#### convert
+
+- [Resize Image with Convert](./tools/convert.md)
+- [Tint Image with Convert](./tools/convert-tint-image.md)
+
+#### cURL
+
+- [cURL POST](./tools/curl-post-basics.md)
+- [cURL Format](./tools/curl-post-format.md)
 
 #### Dracula
 
 - [Dracula](./tools/dracula.md)
 
-#### nmap
-
-- [Scanning local network IPs with NMap](./tools/nmap.md)
-
 #### ffmpeg
 
 - [Convert Video format with ffmpeg](./tools/ffmpeg.md)
 
-#### convert
+#### gpg
 
-- [Resize Image with Convert](./tools/convert.md)
-- [Tint Image with Convert](./tools/tint-image.md)
+- [gpg](./tools/gpg.md)
 
-#### ab
+#### hexdump
 
-- [Apache Benchmark](./tools/ab.md)
-
-#### cURL
-
-- [cURL POST](./tools/post-basics.md)
-- [cURL Format](./tools/post-format.md)
+- [Hexdump](./tools/hexdump.md)
 
 #### Lynx
 
 - [Lynx Print HTML](./tools/lynx-print-html-page.md)
 
-#### hexdump
+#### m4
 
-- [Hexdump](./tools/hexdump.md)
+- [m4](./tools/m4.md)
+
+#### nmap
+
+- [Scanning local network IPs with NMap](./tools/nmap.md)
 
 #### otool
 
@@ -477,9 +485,13 @@ There are #212 articles
 
 - [perf](./tools/perf.md)
 
-#### gpg
+#### ppm
 
-- [gpg](./tools/gpg.md)
+- [ppm](./tools/ppm.md)
+
+#### wget
+
+- [wget](./tools/wget.md)
 
 ---
 

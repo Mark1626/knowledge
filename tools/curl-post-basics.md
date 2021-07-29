@@ -1,6 +1,6 @@
 # cURL POST
 
-[Back](../index.md){: .button}
+[Back](../index.md#curl){: .button}
 
 ```sh
 # Basic POST request

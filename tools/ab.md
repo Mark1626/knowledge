@@ -1,6 +1,6 @@
 # Apache Benchmark
 
-[Back](../index.md){: .button}
+[Back](../index.md#ab){: .button}
 
 Hit `100` requests, upto `10` concurrent requests to localhost
 
