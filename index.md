@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #216 articles
+There are #218 articles
 
 ---
 
@@ -60,10 +60,11 @@ There are #216 articles
 
 ---
 
-### Astronomy
+### Astronomy{#astro}
 
 - [Jansky(Jy)](./astro/jansky.md)
 - [uv plane](./astro/uv.md)
+- [TaQL](./astro/taql.md)
 
 ---
 
@@ -191,6 +192,7 @@ There are #216 articles
 
 - [Clang specific auto vectorization features](./languages/c-compiler/clang/auto-vectorization.md)
 - [Clang specific flags](./languages/c-compiler/clang/clang-specific-flags.md)
+- [clangd compile options](./languages/c-compiler/clang/clangd-compile-options.md)
 
 ##### GCC
 
