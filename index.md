@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #218 articles
+There are #219 articles
 
 ---
 
@@ -475,6 +475,10 @@ There are #218 articles
 #### m4
 
 - [m4](./tools/m4.md)
+
+#### nm
+
+- [nm](./tools/nm.md)
 
 #### nmap
 
