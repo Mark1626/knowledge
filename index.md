@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #219 articles
+There are #221 articles
 
 ---
 
@@ -67,6 +67,22 @@ There are #219 articles
 - [TaQL](./astro/taql.md)
 
 ---
+
+### ASM
+
+- [Segments](./assembler/asm/segments.md)
+- [Data Registers](./assembler/asm/data-registers.md)
+- [Pointer Registers](./assembler/asm/pointer-registers.md)
+- [Index Registers](./assembler/asm/index-registers.md)
+- [Flags / Control Registers](./assembler/asm/control-registers.md)
+
+#### NASM
+
+- [NASM](./assembler/nasm.md)
+
+#### GAS
+
+- [NASM](./assembler/gnu-asm.md)
 
 ### Crypto
 
@@ -255,6 +271,7 @@ There are #219 articles
 - [Makefile macros](./buildtools/makefile/makefile_macros.md)
 - [Make foreach](./buildtools//makefile/make-foreach.md)
 - [Make parallel builds](./buildtools/makefile/make-parallel.md)
+- [Make reading shell output](./buildtools/makefile/make-shell.md)
 
 #### CMake {#cmake}
 
@@ -395,13 +412,7 @@ There are #219 articles
 #### DOS
 
 - [Setting PATH in DOS](./platforms/dos/set-path.md)
-- [NASM](./platforms/dos/nasm.md)
 - [Job File Table](./platforms/dos/job-file-table.md)
-- [Segments](./platforms/dos/segments.md)
-- [Data Registers](./platforms/dos/data-registers.md)
-- [Pointer Registers](./platforms/dos/pointer-registers.md)
-- [Index Registers](./platforms/dos/index-registers.md)
-- [Flags / Control Registers](./platforms/dos/control-registers.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 - [Check for input](./platforms/dos/reading-input.md)
 

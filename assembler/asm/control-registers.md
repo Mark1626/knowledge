@@ -1,6 +1,6 @@
 # Flags / Control Registers
 
-[Back](../../index.md){: .button}
+[Back](../../index.md#asm){: .button}
 
 - Overflow Flag (OF)
 - Direction Flag (DF) - Direction to read string
