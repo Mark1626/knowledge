@@ -1,6 +1,6 @@
 # Xor Shift Random number generator
 
-[Back](../index.md)
+[Back](../index.md#algo)
 
 ```cpp
 uint64_t xoshiro256ss(uint64_t s[4])

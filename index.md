@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #221 articles
+There are #228 articles
 
 ---
 
@@ -51,12 +51,14 @@ There are #221 articles
 
 ---
 
-### Algorithm
+### Algorithm{#algo}
 
 - [Boyer–Moore algorithm](./algo/bm.md)
 - [Boyer–Moore–Horspool algorithm](./algo/bmh.md)
 - [XOR Shift Rotate](./algo/xor-shift.md)
 - [Kadane](./algo/kadane.md)
+- [Chaitin-Briggs coloring](./algo/chaitin-briggs-coloring.md)
+- [Chow’s priority coloring](./algo/chow-coloring.md)
 
 ---
 
@@ -203,12 +205,18 @@ There are #221 articles
 - [Frame Pointer](./languages/c-compiler/frame-pointer.md)
 - [Compilation Flags](./languages/c-compiler/flags.md)
 - [Auto Vectorization](./languages/c-compiler/auto-vectorization.md)
+- [Compact Unwinding](./languages/c-compiler/compact-unwinding.md)
+- [DWARF](./languages/c-compiler/dwarf.md)
+- [Stack Unwinding](./languages/c-compiler/stack-unwinding.md)
+- [Common Subexpression Elimination](./languages/c-compiler/common-subexpression-elimination.md)
+- [IRA algorithm](./languages/c-compiler/ira-algorithm.md)
 
 ##### Clang
 
 - [Clang specific auto vectorization features](./languages/c-compiler/clang/auto-vectorization.md)
 - [Clang specific flags](./languages/c-compiler/clang/clang-specific-flags.md)
 - [clangd compile options](./languages/c-compiler/clang/clangd-compile-options.md)
+- [Range constraint of Multiplication and Division](./languages/c-compiler/clang/muldiv-range-constraint.md)
 
 ##### GCC
 
@@ -268,7 +276,7 @@ There are #221 articles
 #### Makefile {#makefile}
 
 - [Makefile](./buildtools/makefile/makefile.md)
-- [Makefile macros](./buildtools/makefile/makefile_macros.md)
+- [Makefile Auto Variables](./buildtools/makefile/makefile-autovariables.md)
 - [Make foreach](./buildtools//makefile/make-foreach.md)
 - [Make parallel builds](./buildtools/makefile/make-parallel.md)
 - [Make reading shell output](./buildtools/makefile/make-shell.md)
@@ -344,6 +352,8 @@ There are #221 articles
 
 - [Abelian Sandpile](./math/automata/abelian-sandpile.md)
 - [Game of Life](./math/automata/game-of-life.md)
+
+#### Engineering Math {#eng}
 
 #### Fractals
 
