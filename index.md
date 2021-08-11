@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #228 articles
+There are #229 articles
 
 ---
 
@@ -210,6 +210,7 @@ There are #228 articles
 - [Stack Unwinding](./languages/c-compiler/stack-unwinding.md)
 - [Common Subexpression Elimination](./languages/c-compiler/common-subexpression-elimination.md)
 - [IRA algorithm](./languages/c-compiler/ira-algorithm.md)
+- [Loop Distribution](./languages/c-compiler/loop-distribution.md)
 
 ##### Clang
 
