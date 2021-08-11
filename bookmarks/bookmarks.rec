@@ -1,0 +1,21 @@
+%rec: Bookmarks
+
+Url: https://eli.thegreenplace.net/2011/02/07/how-debuggers-work-part-3-debugging-information/
+Description: How Debuggers Work
+Tags: debug,blog
+
+Url: https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html
+Description: ncurses tutorial
+Tags: ncurses,tutorial
+
+Url: https://tldp.org/docs.html\#howto
+Description: linux howtos
+Tags: linux,tutorial
+
+Url: https://www.brendangregg.com/perf.html
+Description: perf tutorial Brendangregg
+Tags: linux,blog,perf,tutorial
+
+Url: http://www.cri.ensmp.fr/classement/doc/E-279.pdf
+Description: GCC Loop Distribution Case Study
+Tags: casestudy,ppt
