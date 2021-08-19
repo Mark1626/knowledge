@@ -8,6 +8,9 @@
 # Record performance
 perf record -g <your program>
 
+# Sample every 100 Hz
+perf record -F 100 <prog>
+
 # Performance Report
 perf report -g
 

@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #229 articles
+There are #235 articles
 
 ---
 
@@ -211,6 +211,7 @@ There are #229 articles
 - [Common Subexpression Elimination](./languages/c-compiler/common-subexpression-elimination.md)
 - [IRA algorithm](./languages/c-compiler/ira-algorithm.md)
 - [Loop Distribution](./languages/c-compiler/loop-distribution.md)
+- [Profile Guided Optimization](./languages/c-compiler/profile-guided-optimization.md)
 
 ##### Clang
 
@@ -250,6 +251,10 @@ There are #229 articles
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
 - [Using Go Libraries in C](./languages/go/cgo/using-go-libraries-in-c.md)
 - [Compiling Go for ARM](./languages/go/cross-compilation/ARM.md)
+
+#### Perl
+
+- [Read line by line](./languages/perl/read-line-by-line.md)
 
 #### TS
 
@@ -451,6 +456,8 @@ There are #229 articles
 ### Sqlite
 
 - [Execute Single Query In Sqlite Cli](./sqlite/sqlite-cli-command.md)
+- [Change default separator](./sqlite/change-default-separator.md)
+- [Output Queries to File](./sqlite/output-queries-to-file.md)
 
 ---
 
@@ -518,6 +525,10 @@ There are #229 articles
 
 - [ppm](./tools/ppm.md)
 
+#### tmux
+
+- [tmux copy pane content](./tools/tmux-copy-pane-content.md)
+
 #### wget
 
 - [wget](./tools/wget.md)
@@ -545,6 +556,7 @@ There are #229 articles
 - [Static IP in local network](unix/static-ip-dhcp.md)
 - [DC Calculator](./unix/dc.md)
 - [Mach O](./unix/mach-o.md)
+- [tid and pid](./unix/tid-pid.md)
 
 ---
 

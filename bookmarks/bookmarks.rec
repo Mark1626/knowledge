@@ -19,3 +19,39 @@ Tags: linux,blog,perf,tutorial
 Url: http://www.cri.ensmp.fr/classement/doc/E-279.pdf
 Description: GCC Loop Distribution Case Study
 Tags: casestudy,ppt
+
+Url: https://www.cs.utexas.edu/\~pingali/CS380C/2013/lectures/graphite.pdf
+Type: gcc,compiler
+Description: GCC Graphite
+
+Url: https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html
+Type: gcc,compiler
+Description: GCC Gimple
+
+Url: https://www.officedaytime.com/simd512e/
+Type: intrinsics,reference
+Description: Vector instructions reference
+
+Url: https://multun.net/obscure-c-features.html
+Type: c,article
+Description: Obscure C Features
+
+Url: http://perltraining.com.au/tips/
+Type: perl,wiki
+Description: Perl Tips
+
+Url: https://lwn.net/Kernel/LDD3/
+Type: linux,kernel,book
+Description: Linux Device Drivers
+
+Url: http://www.kroah.com/lkn/
+Type: linux,kernel,book
+Description: Linux Kernel in a Nutshell
+
+Url: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+Type: article
+Description: What every Computer Scientist should know about floating point
+
+Url: https://people.freebsd.org/\~lstewart/articles/cpumemory.pdf
+Type: paper
+Description: What every Computer Scientist should know about Memory
