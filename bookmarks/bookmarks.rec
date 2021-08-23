@@ -55,3 +55,23 @@ Description: What every Computer Scientist should know about floating point
 Url: https://people.freebsd.org/\~lstewart/articles/cpumemory.pdf
 Type: paper
 Description: What every Computer Scientist should know about Memory
+
+Url: https://www.cs.utexas.edu/users/mckinley/20-years.html
+Type: paper
+Description: ACM SIGPLAN Conference Selected Papers by Year
+
+Url: https://www.realworldtech.com/
+Type: blog,cpu,gpu
+Description: Real World Tech
+
+Url: https://invisible-island.net/home.html
+Type: blog
+Description: Invisible Island Thomas E. Dickey
+
+Url: https://www.linuxjournal.com/
+Type: site,media
+Description: Linux Journel
+
+Url: https://www.agner.org/optimize/microarchitecture.pdf
+Type: paper
+Description: Intel Microarchitecture

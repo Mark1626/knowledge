@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #235 articles
+There are #240 articles
 
 ---
 
@@ -21,6 +21,7 @@ There are #235 articles
 + [Build Tools](#build-tools)
 + [Crypto](#crypto)
 + [Code Art](#codeart)
++ [Computer Architecture](#cparch)
 + [Containers](#containers)
 + [Data Structure](#datastructures)
 + [Frontend](#frontend)
@@ -98,6 +99,14 @@ There are #235 articles
 - [Code Art Secrets](./code-art/code-art-secrets.md)
 - [Avatar Generator](./code-art/avatar-generator.md)
 - [Glider](./code-art/glider.md)
+
+---
+
+### Computer Architecture {#cparch}
+
+- [CPU Features](./computer-architecture/cpu-features.md)
+- [Branch Prediction](./computer-architecture/branch-prediction.md)
+- [Resident Set Size](./computer-architecture/resident-memory.md)
 
 ---
 
@@ -245,6 +254,7 @@ There are #235 articles
 - [Rule of Five and One](./languages/cplusplus/rule-5-0.md)
 - [C++ Modules](./languages/cplusplus/modules.md)
 - [C++ override ostream](./languages/cplusplus/overide-ostream-cout.md)
+- [Likely Attribute](./languages/cplusplus/likely_attribute.md)
 
 #### Go
 
@@ -557,6 +567,7 @@ There are #235 articles
 - [DC Calculator](./unix/dc.md)
 - [Mach O](./unix/mach-o.md)
 - [tid and pid](./unix/tid-pid.md)
+- [Cpu Info](./unix/cpu-info.md)
 
 ---
 
