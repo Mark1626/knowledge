@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #240 articles
+There are #251 articles
 
 ---
 
@@ -107,12 +107,14 @@ There are #240 articles
 - [CPU Features](./computer-architecture/cpu-features.md)
 - [Branch Prediction](./computer-architecture/branch-prediction.md)
 - [Resident Set Size](./computer-architecture/resident-memory.md)
+- [Cache Coherence](./computer-architecture/cache-coherence.md)
 
 ---
 
 ### Containers
 
 - [Using perf within containers](./containers/perf-within-container.md)
+- [Docker prevent permission issue with files created inside container](./containers/permission-issue-in-container.md)
 
 ---
 
@@ -192,6 +194,18 @@ There are #240 articles
 ---
 
 ### Languages
+
+#### Bash
+
+- [Bash Check if env variable present](./languages/bash/bash-check-env-variable.md)
+- [Bash getopts](./languages/bash/bash-getopts.md)
+- [Bash params](./languages/bash/bash-params.md)
+- [Bash pass env variable to subcommand](./languages/bash/bash-pass-argument-to-sub-command.md)
+- [Bash read config file and store value from config file](./languages/bash/bash-read-store-config.md)
+- [Bash get script directory](./languages/bash/bash-script-dir.md)
+- [Bash subcommand](./languages/bash/bash-subcommand.md)
+- [Bash convert to upper case](./languages/bash/bash-uppercase.md)
+- [Bash check platform](./languages/bash/bash-check-platform.md)
 
 #### Common
 
