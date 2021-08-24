@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #251 articles
+There are #252 articles
 
 ---
 
@@ -108,6 +108,7 @@ There are #251 articles
 - [Branch Prediction](./computer-architecture/branch-prediction.md)
 - [Resident Set Size](./computer-architecture/resident-memory.md)
 - [Cache Coherence](./computer-architecture/cache-coherence.md)
+- [Sandy Bridge Pipeline](./computer-architecture/sandy-bridge-pipeline.md)
 
 ---
 
