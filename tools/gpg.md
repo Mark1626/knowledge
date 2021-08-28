@@ -2,6 +2,38 @@
 
 [Back](../../index.md#gpg){: .button}
 
+## Create gpg key
+
+```
+gpg --full-generate-key
+```
+
+## List all available secret keys
+
+```
+gpg --list-secret-keys --keyid-format=long
+```
+
+## Export public key
+
+```
+gpg --armor --export <keyid>
+```
+
+## Sign a message
+
+```
+echo "Hello" | gpg --sign --armour
+```
+
+## Configure gpg for tty
+
+```
+export GPG_TTY=$(tty)
+```
+
+> If this is not set you may get an error like `Inappropriate ioctl for device` when signing with your key
+
 ## Import keyring to the local key store
 
 ```

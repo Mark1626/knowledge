@@ -27,6 +27,7 @@ There are #252 articles
 + [Frontend](#frontend)
 + [Git](#git)
 + [Graphics](#graphics)
++ [HPC](#hpc)
 + [IRC](#irc)
 + [Languages](#languages)
 + [Math](#math)
@@ -276,6 +277,12 @@ There are #252 articles
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
 - [Using Go Libraries in C](./languages/go/cgo/using-go-libraries-in-c.md)
 - [Compiling Go for ARM](./languages/go/cross-compilation/ARM.md)
+
+#### HPC
+
+##### OpenMP
+
+- [OpenMP](./languages/hpc/openmp.md)
 
 #### Perl
 
