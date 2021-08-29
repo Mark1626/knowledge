@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #252 articles
+There are #255 articles
 
 ---
 
@@ -23,6 +23,7 @@ There are #252 articles
 + [Code Art](#codeart)
 + [Computer Architecture](#cparch)
 + [Containers](#containers)
++ [Data](#data)
 + [Data Structure](#datastructures)
 + [Frontend](#frontend)
 + [Git](#git)
@@ -117,6 +118,12 @@ There are #252 articles
 
 - [Using perf within containers](./containers/perf-within-container.md)
 - [Docker prevent permission issue with files created inside container](./containers/permission-issue-in-container.md)
+
+---
+
+### Data
+
+- [k means](./data/k-means.md)
 
 ---
 
@@ -249,6 +256,7 @@ There are #252 articles
 
 - [GCC specific auto vectorization features](./languages/c-compiler/gcc/auto-vectorization.md)
 - [Tree SSA](./languages/c-compiler/gcc/tree-ssa.md)
+- [Function Multiversioning](./languages/c-compiler/gcc/function-multiversioning.md)
 
 #### C
 

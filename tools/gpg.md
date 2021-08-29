@@ -1,6 +1,6 @@
 # GPG
 
-[Back](../../index.md#gpg){: .button}
+[Back](../index.md#gpg){: .button}
 
 ## Create gpg key
 
