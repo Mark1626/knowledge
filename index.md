@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #255 articles
+There are #256 articles
 
 ---
 
@@ -326,6 +326,7 @@ There are #255 articles
 - [Make foreach](./buildtools//makefile/make-foreach.md)
 - [Make parallel builds](./buildtools/makefile/make-parallel.md)
 - [Make reading shell output](./buildtools/makefile/make-shell.md)
+- [Make string functions](./buildtools/makefile/make-string-functions.md)
 
 #### CMake {#cmake}
 
