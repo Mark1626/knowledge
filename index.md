@@ -569,6 +569,7 @@ There are #256 articles
 #### tmux
 
 - [tmux copy pane content](./tools/tmux-copy-pane-content.md)
+- [tmux rename window](./tools/tmux-rename.md)
 
 #### wget
 
