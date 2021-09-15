@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #256 articles
+There are #258 articles
 
 ---
 
@@ -295,6 +295,7 @@ There are #256 articles
 #### Perl
 
 - [Read line by line](./languages/perl/read-line-by-line.md)
+- [Perl run modes](./languages/perl/perlrun-modes.md)
 
 #### TS
 
