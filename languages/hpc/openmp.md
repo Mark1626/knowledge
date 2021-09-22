@@ -1,10 +1,6 @@
 # OpenMP
 
-[Back](../../index.md#openmp){: .button}
-
-
-```
-```
+[Back](../../index.md#hpc){: .button}
 
 ## Environment variables
 

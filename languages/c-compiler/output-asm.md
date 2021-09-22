@@ -5,3 +5,7 @@ Generated assembly can be outputted using the `-S` flag and mentioning the platf
 ```sh
 cc -S main.cpp -mllvm --x86-asm-syntax=intel
 ```
+
+```sh
+gcc -S main.cc -fverbose-asm
+```

@@ -79,3 +79,27 @@ Description: Linux Journel
 Url: https://www.agner.org/optimize/microarchitecture.pdf
 Type: paper
 Description: Intel Microarchitecture
+
+Url: https://mosh.org/
+Type: shell
+Description: Remote Shell, alternative to SSH
+
+Url: https://people.math.sc.edu/Burkardt/
+Type: blog
+Description: John Burkardt's Blog
+
+Url: https://docs.nvidia.com/cuda/samples/3_Imaging/convolutionSeparable/doc/convolutionSeparable.pdf
+Type: article, gpu, hpc
+Description: Image Convolution with CUDA
+
+Url: https://www.evl.uic.edu/kreda/gpu/image-convolution/
+Type: article, gpu
+Description: A study of OpenCL image convolution optimization
+
+Url: http://songho.ca/dsp/index.html
+Type: blog, dsp
+Description: Quick DSP 101
+
+Url: https://fredrikj.net/blog/
+Type: blog
+Description: Fredrik Johansson Blog

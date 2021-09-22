@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #258 articles
+There are #265 articles
 
 ---
 
@@ -16,7 +16,7 @@ There are #258 articles
 
 + [ARM](#arm)
 + [Algorithm](#algorithm)
-+ [Astronomy](#astronomy)
++ [Astronomy](#astro)
 + [Books](#books)
 + [Build Tools](#build-tools)
 + [Crypto](#crypto)
@@ -70,6 +70,8 @@ There are #258 articles
 - [Jansky(Jy)](./astro/jansky.md)
 - [uv plane](./astro/uv.md)
 - [TaQL](./astro/taql.md)
+- [ephemerides](./astro/ephemerides.md)
+- [Astronomical unit](./astro/au.md)
 
 ---
 
@@ -288,8 +290,8 @@ There are #258 articles
 
 #### HPC
 
-##### OpenMP
-
+- [Domain Decomposition](./languages/hpc/domain-decomposition.md)
+- [GPU Acceleration](./languages/hpc/gpu-acceleration.md)
 - [OpenMP](./languages/hpc/openmp.md)
 
 #### Perl
@@ -436,6 +438,10 @@ There are #258 articles
 - [Chakravala Method](./math/number_theory/chakravala.md)
 - [Fibonnaci Matrix](./math/number_theory/fibonnaci-matrix.md)
 
+#### Statistics
+
+- [Kuiper Test](./math/statistics/kuiper.md)
+
 ---
 
 ### Philosophy
@@ -443,6 +449,13 @@ There are #258 articles
 - [Mu](./philosophy/mu.md)
 - [Absurdism](./philosophy/absurdism.md)
 - [Existentialism](./philosophy/existentialism.md)
+
+---
+
+### Physics
+
+- [Barycenter](./physics/barycenter.md)
+- [Radial Velocity](./physics/radial-velocity.md)
 
 ---
 
