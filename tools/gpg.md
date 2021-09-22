@@ -46,3 +46,29 @@ export GPG_TTY=$(tty)
   gpg --verify <signature-file.sig> <file-to-verify>
 ```
 
+## Enabling loopback pinentry mode
+
+```
+# ~/.gnupg/gpg.conf
+use-agent 
+pinentry-mode loopback
+```
+
+```
+# ~/.gnupg/gpg-agent.conf
+allow-loopback-pinentry
+```
+
+## Agent
+
+### Restart Agent
+
+```
+echo RELOADAGENT | gpg-connect-agent
+```
+
+### Kill gpg agent
+
+```
+gpgconf --kill gpg-agent
+```

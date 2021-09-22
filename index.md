@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #265 articles
+There are #266 articles
 
 ---
 
@@ -535,6 +535,10 @@ There are #265 articles
 
 - [cURL POST](./tools/curl-post-basics.md)
 - [cURL Format](./tools/curl-post-format.md)
+
+#### dd
+
+- [dd](./tools/dd.md)
 
 #### Dracula
 
