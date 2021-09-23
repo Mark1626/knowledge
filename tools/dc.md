@@ -1,6 +1,6 @@
 # DC
 
-[Back](../index.md#unix){: .button}
+[Back](../index.md#dc){: .button}
 
 Arbitrary precision reverse-polish calculator. It is older than C
 

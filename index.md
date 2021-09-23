@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #266 articles
+There are #276 articles
 
 ---
 
@@ -293,6 +293,8 @@ There are #266 articles
 - [Domain Decomposition](./languages/hpc/domain-decomposition.md)
 - [GPU Acceleration](./languages/hpc/gpu-acceleration.md)
 - [OpenMP](./languages/hpc/openmp.md)
+- [ASIC](./languages/hpc/asic.md)
+- [FPGA](./languages/hpc/fpga.md)
 
 #### Perl
 
@@ -536,6 +538,10 @@ There are #266 articles
 - [cURL POST](./tools/curl-post-basics.md)
 - [cURL Format](./tools/curl-post-format.md)
 
+### dc
+
+- [DC Calculator](./tools/dc.md)
+
 #### dd
 
 - [dd](./tools/dd.md)
@@ -555,6 +561,10 @@ There are #266 articles
 #### hexdump
 
 - [Hexdump](./tools/hexdump.md)
+
+### jot
+
+- [jot](./tools/jot.md)
 
 #### Lynx
 
@@ -584,6 +594,14 @@ There are #266 articles
 
 - [ppm](./tools/ppm.md)
 
+#### rs
+
+- [rs](./tools/rs.md)
+
+#### seq
+
+- [seq](./tools/seq.md)
+
 #### tmux
 
 - [tmux copy pane content](./tools/tmux-copy-pane-content.md)
@@ -592,6 +610,16 @@ There are #266 articles
 #### wget
 
 - [wget](./tools/wget.md)
+
+---
+
+### Unicode
+
+- [Block elements](./unicode/block-elements.md)
+- [Box drawing](./unicode/box-drawing.md)
+- [Dingbat](./unicode/dingbat.md)
+- [Geometric Shapes](./unicode/geometric-shapes.md)
+- [Mathematical Operations](./unicode/mathematical-operators.md)
 
 ---
 
@@ -614,7 +642,6 @@ There are #266 articles
 - [IO Uring](./unix/io-uring.md)
 - [SSH key creation and sharing](./unix/ssh_keygen.md)
 - [Static IP in local network](unix/static-ip-dhcp.md)
-- [DC Calculator](./unix/dc.md)
 - [Mach O](./unix/mach-o.md)
 - [tid and pid](./unix/tid-pid.md)
 - [Cpu Info](./unix/cpu-info.md)
