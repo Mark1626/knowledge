@@ -54,7 +54,7 @@ There are #276 articles
 
 ---
 
-### Algorithm{#algo}
+### Algorithm {#algo}
 
 - [Boyer–Moore algorithm](./algo/bm.md)
 - [Boyer–Moore–Horspool algorithm](./algo/bmh.md)
@@ -65,7 +65,7 @@ There are #276 articles
 
 ---
 
-### Astronomy{#astro}
+### Astronomy {#astro}
 
 - [Jansky(Jy)](./astro/jansky.md)
 - [uv plane](./astro/uv.md)
