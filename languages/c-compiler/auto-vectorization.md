@@ -1,6 +1,6 @@
 # Auto Vectorization
 
-[Back](../../index.md)
+[Back](../../index.md#c-cpp-compilers){: .button}
 
 ## Categories of loop vectorization
 

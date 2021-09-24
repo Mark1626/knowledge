@@ -246,6 +246,7 @@ There are #276 articles
 - [IRA algorithm](./languages/c-compiler/ira-algorithm.md)
 - [Loop Distribution](./languages/c-compiler/loop-distribution.md)
 - [Profile Guided Optimization](./languages/c-compiler/profile-guided-optimization.md)
+- [Output ASM](./languages/c-compiler/output-asm.md)
 
 ##### Clang
 
@@ -645,6 +646,7 @@ There are #276 articles
 - [Mach O](./unix/mach-o.md)
 - [tid and pid](./unix/tid-pid.md)
 - [Cpu Info](./unix/cpu-info.md)
+- [SSH Disable password login](./ssh-disable-password-login.md)
 
 ---
 

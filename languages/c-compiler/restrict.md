@@ -1,5 +1,7 @@
 # __restrict__ keyword
 
+[Back](../../index.md#c-cpp-compilers){: .button}
+
 `__restrict__` is to mention to the complier that for the scope of the pointer the target will only be accessed through that pointer
 
 ```cpp
