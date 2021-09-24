@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #276 articles
+There are #279 articles
 
 ---
 
@@ -247,6 +247,7 @@ There are #276 articles
 - [Loop Distribution](./languages/c-compiler/loop-distribution.md)
 - [Profile Guided Optimization](./languages/c-compiler/profile-guided-optimization.md)
 - [Output ASM](./languages/c-compiler/output-asm.md)
+- [Pragmas in define](./languages/c-compiler/pragmas-in-define.md)
 
 ##### Clang
 
