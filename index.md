@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #279 articles
+There are #282 articles
 
 ---
 
@@ -82,6 +82,10 @@ There are #279 articles
 - [Pointer Registers](./assembler/asm/pointer-registers.md)
 - [Index Registers](./assembler/asm/index-registers.md)
 - [Flags / Control Registers](./assembler/asm/control-registers.md)
+
+#### PTX
+
+- [PTX](./assembler/ptx/ptx.md)
 
 #### NASM
 
@@ -564,6 +568,10 @@ There are #279 articles
 
 - [Hexdump](./tools/hexdump.md)
 
+### i3
+
+- [i3wm](./tools/i3.md)
+
 ### jot
 
 - [jot](./tools/jot.md)
@@ -603,6 +611,10 @@ There are #279 articles
 #### seq
 
 - [seq](./tools/seq.md)
+
+### snap
+
+- [snap](./tools/snap.md)
 
 #### tmux
 

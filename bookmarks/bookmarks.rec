@@ -103,3 +103,7 @@ Description: Quick DSP 101
 Url: https://fredrikj.net/blog/
 Type: blog
 Description: Fredrik Johansson Blog
+
+Url: https://daltonprogram.org/
+Type: bench
+Description: Dalton suite programs
