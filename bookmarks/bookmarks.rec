@@ -101,9 +101,25 @@ Type: blog, dsp
 Description: Quick DSP 101
 
 Url: https://fredrikj.net/blog/
-Type: blog
+Type: blog, hpc
 Description: Fredrik Johansson Blog
 
 Url: https://daltonprogram.org/
 Type: bench
 Description: Dalton suite programs
+
+Url: http://tdc-www.harvard.edu/catalogs/bsc5.html
+Type: astro
+Description: Yale bright stars catalog
+
+Url: https://asd.gsfc.nasa.gov/Craig.Markwardt/bary/
+Type: astro
+Description: How to read the JPL Ephemeris and Perform Barycentering
+
+Url: https://bookdown.org/ltupper/340f21_notes/the-normal-equations.html
+Type: stats
+Description: Stats 340 - Normal Equations
+
+Url: https://www.indilib.org/
+Type: astro
+Description: INDI Library, open source astronomy

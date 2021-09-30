@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #282 articles
+There are #283 articles
 
 ---
 
@@ -659,7 +659,8 @@ There are #282 articles
 - [Mach O](./unix/mach-o.md)
 - [tid and pid](./unix/tid-pid.md)
 - [Cpu Info](./unix/cpu-info.md)
-- [SSH Disable password login](./ssh-disable-password-login.md)
+- [SSH Disable password login](./unix/ssh-disable-password-login.md)
+- [shm](./unix/shm.md)
 
 ---
 
