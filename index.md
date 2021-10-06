@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #284 articles
+There are #287 articles
 
 ---
 
@@ -30,6 +30,7 @@ There are #284 articles
 + [Graphics](#graphics)
 + [HPC](#hpc)
 + [IRC](#irc)
++ [Kernel](#kernel)
 + [Languages](#languages)
 + [Math](#math)
 + [Network](#network)
@@ -208,6 +209,13 @@ There are #284 articles
 
 ---
 
+### Kernel
+
+- [namespaces](./kernel/namespaces.md)
+- [sched_yield](./kernel/sched_yield.md)
+
+---
+
 ### Languages
 
 #### Bash
@@ -307,6 +315,10 @@ There are #284 articles
 
 - [Read line by line](./languages/perl/read-line-by-line.md)
 - [Perl run modes](./languages/perl/perlrun-modes.md)
+
+#### Tex
+
+- [MathJax](./languages/tex/mathjax.md)
 
 #### TS
 

@@ -123,3 +123,7 @@ Description: Stats 340 - Normal Equations
 Url: https://www.indilib.org/
 Type: astro
 Description: INDI Library, open source astronomy
+
+Url: http://plv.mpi-sws.org/rustbelt/ghostcell/
+Type: rust, ds
+Description: Rust GhostCell
