@@ -22,7 +22,6 @@ O4  `1  1  1  1  2  2  2  3  4  4  5  7  8  9 12 15`
 
 This can be written as a matrix difference equation
 
-```
 - For Fn = Fn-1 + Fn-2
 $$
   \begin{bmatrix}
@@ -82,16 +81,11 @@ $$
 
 $$
 
-```
-
-
 
 ## Reducing complexity of computation
 
 A property of this sequence
 
-```
-  1            2           3           4
 
 $$
 N_{1}
@@ -225,6 +219,5 @@ x[n*n - 2] & x[n*n - 3] & x[n*n - 4] & ..... & x[n-1] & x[0] & x[1] & .....   & 
 \end{bmatrix}
 $$
 
-```
-
 It is enough to track only $$ (N*N - 1) $$ elements, reducing the complexity from $$ N ^ 3 $$ to $$ N^2 $$
+
