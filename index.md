@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #283 articles
+There are #284 articles
 
 ---
 
@@ -252,6 +252,7 @@ There are #283 articles
 - [Profile Guided Optimization](./languages/c-compiler/profile-guided-optimization.md)
 - [Output ASM](./languages/c-compiler/output-asm.md)
 - [Pragmas in define](./languages/c-compiler/pragmas-in-define.md)
+- [Struct Packing](./languages/c-compiler/struct-packing.md)
 
 ##### Clang
 

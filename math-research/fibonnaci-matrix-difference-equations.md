@@ -23,6 +23,7 @@ O4  `1  1  1  1  2  2  2  3  4  4  5  7  8  9 12 15`
 This can be written as a matrix difference equation
 
 - For Fn = Fn-1 + Fn-2
+
 $$
   \begin{bmatrix}
   1 & 1 \\
