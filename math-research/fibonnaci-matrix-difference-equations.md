@@ -22,7 +22,7 @@ O4  `1  1  1  1  2  2  2  3  4  4  5  7  8  9 12 15`
 
 This can be written as a matrix difference equation
 
-- For Fn = Fn-1 + Fn-2
+- For $ F_{n} = F_{n-1} + F_{n-2} $
 
 $$
   \begin{bmatrix}
@@ -31,7 +31,8 @@ $$
   \end{bmatrix}
 $$
 
-- For Fn = Fn-2 + Fn-3
+- For $ F_{n} = F_{n-2} + F_{n-3} $
+
 $$
   \begin{bmatrix}
   1 & 1 & 0 \\
@@ -40,7 +41,7 @@ $$
   \end{bmatrix}
 $$
 
-- For Fn = Fn-3 + Fn-4
+- For $ F_{n} = F_{n-3} + F_{n-4} $
 $$
   \begin{bmatrix}
   1 & 1 & 0 & 0 \\
@@ -124,6 +125,8 @@ N_{4}
 3 & 3 & 2 & 1 \\
 1 & 3 & 3 & 1
 \end{bmatrix}
+
+\\
 
 N_{5}
 =
