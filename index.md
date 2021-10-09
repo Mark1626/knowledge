@@ -35,6 +35,7 @@ There are #287 articles
 + [Math](#math)
 + [Network](#network)
 + [Origami](#origami)
++ [Papers](#papers)
 + [Philosophy](#philosophy)
 + [Postgresql](#postgresql)
 + [Platforms](#platforms)
@@ -261,6 +262,8 @@ There are #287 articles
 - [Output ASM](./languages/c-compiler/output-asm.md)
 - [Pragmas in define](./languages/c-compiler/pragmas-in-define.md)
 - [Struct Packing](./languages/c-compiler/struct-packing.md)
+- [Inline ASM](./languages/c-compiler/inline-asm.md)
+- [Offloading PTX](./languages/c-compiler/offloading-ptx.md)
 
 ##### Clang
 
@@ -414,6 +417,12 @@ There are #287 articles
 ##### Curlicue
 
 - [Curlicue](./origami/curlicue/curlicue.md)
+
+---
+
+### Papers
+
+- [The Design and Implementation of FFTW3](./papers/the-design-and-implementation-of-fftw3.md)
 
 ---
 

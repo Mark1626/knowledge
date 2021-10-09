@@ -127,3 +127,11 @@ Description: INDI Library, open source astronomy
 Url: http://plv.mpi-sws.org/rustbelt/ghostcell/
 Type: rust, ds
 Description: Rust GhostCell
+
+Url: https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html
+Type: gcc, asm
+Description: Inline ASM tutorial
+
+Url: https://www.delorie.com/djgpp/
+Type: gcc, compiler
+Description: 32bit compiler for 80386, DOS
