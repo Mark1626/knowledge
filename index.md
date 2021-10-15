@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #287 articles
+There are #293 articles
 
 ---
 
@@ -34,6 +34,7 @@ There are #287 articles
 + [Languages](#languages)
 + [Math](#math)
 + [Network](#network)
++ [Notebooks](#notebooks)
 + [Origami](#origami)
 + [Papers](#papers)
 + [Philosophy](#philosophy)
@@ -375,6 +376,13 @@ There are #287 articles
 
 ---
 
+### Notebooks
+
+- [Visualising FFT](./notebooks/Effects%20of%20Fourier%20Transform.ipynb)
+- [Normal Equations](./notebooks/Normal%20Equations.ipynb)
+
+---
+
 ### Origami
 
 #### Origami Units
@@ -446,6 +454,10 @@ There are #287 articles
 - [Stellation](./math/geometry/stellation.md)
 - [Affine Transform](./math/geometry/affine.md)
 - [3D Rotation](./math/geometry/3d-rotation.md)
+
+#### Linear Algebra
+
+- [Normal Equations](./math/linear-algebra/normal-equations.md)
 
 #### Number Theory
 

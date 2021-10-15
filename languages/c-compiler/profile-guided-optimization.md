@@ -23,3 +23,8 @@ gcc -omain main.c -O3 -fprofile-use=<dir>
 - [PGO in Chrome](https://ddmler.github.io/compiler/2018/06/29/profile-guided-optimization.html)
 - [GCC PGO on IBM AIX to improve zstd](https://developer.ibm.com/articles/gcc-profile-guided-optimization-to-accelerate-aix-applications/)
 
+## Case Studies
+
+- [CPU Caches and Why You Care](https://www.aristeia.com/TalkNotes/codedive-CPUCachesHandouts.pdf)
+- [Profile Guided Optimization](https://www.stickyminds.com/article/future-code-coverage-tools)
+- [Build faster and high performing native applications using PGO](https://devblogs.microsoft.com/cppblog/build-faster-and-high-performing-native-applications-using-pgo/)

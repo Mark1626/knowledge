@@ -35,3 +35,5 @@ Atomic can only be used for `++x;`, `--x;`, `x++;`, `x--;`, `x binop= expr;`, `x
 
 - [OpenMP Environment Variables](https://gcc.gnu.org/onlinedocs/libgomp/Environment-Variables.html#Environment-Variables)
 - [OpenMP Cancel](http://jakascorner.com/blog/2016/08/omp-cancel.html)
+
+- [OpenMP Tutorial](https://bisqwit.iki.fi/story/howto/openmp/#Abstract)

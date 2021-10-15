@@ -135,3 +135,7 @@ Description: Inline ASM tutorial
 Url: https://www.delorie.com/djgpp/
 Type: gcc, compiler
 Description: 32bit compiler for 80386, DOS
+
+Url: https://kristerw.blogspot.com/
+Type: blog
+Description: Krister Walfridsson’s blog

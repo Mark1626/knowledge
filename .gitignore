@@ -1,5 +1,5 @@
 .vscode
 _site
-.jekyll-cache
-.ipynb_checkpoints
 *.ms
+.jekyll-cache
+.ipynb_checkpoints/
