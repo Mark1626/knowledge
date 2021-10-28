@@ -2,31 +2,40 @@
 
 Url: https://github.com/indutny/asn1.js
 Description: ASN1
-Tags: asn1,js,encoding
+Tags: asn1
+Tags: js
+Tags: encoding
 
 Url: https://www.postgresql.org/docs/9.5/ddl-rowsecurity.html
 Description: Postgres RLS
-Tags: postgres,db,multitenant
+Tags: postgres
+Tags: db
+Tags: multitenant
 
 Url: http://jasonku.mit.edu/index.html
 Description: Jason Ku
-Tags: blog,origami
+Tags: origami
+Tags: blog
 
 Url: https://book.famicom.party/chapters/02-fundamentalconcepts.html
 Description: Assembly Gaming
-Tags: assembly,game
+Tags: assembly
+Tags: game
 
 Url: https://www.fefe.de/dietlibc/
 Description: Diet Libc
-Tags: libc,c
+Tags: libc
+Tags: c
 
 Url: https://cupheadnotes.com/
 Description: Cuphead Sheet Music
-Tags: music,game
+Tags: music
+Tags: game
 
 Url: https://luckpaperscissors.wordpress.com/
 Description: Luck Paper Scissors
-Tags: origami,blog
+Tags: origami
+Tags: blog
 
 Url: https://www.micah.soy/posts/setting-up-git-identities/
 Description: Git Identity
@@ -34,67 +43,92 @@ Tags: git
 
 Url: http://home.hccnet.nl/r.helderman/adventures/htpataic01.html
 Description: C Text Adventure
-Tags: c,game,text
+Tags: c
+Tags: game
+Tags: text
 
 Url: http://fabiensanglard.net/doom_psx/index.html
 Description: Doom Graphics
-Tags: game,gl
+Tags: game
+Tags: gl
 
 Url: https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html?m=1
 Description: Pencil effect SVG
-Tags: svg,frontend
+Tags: svg
+Tags: frontend
 
 Url: https://github.com/choojs/choo-notification
 Description: Choo Notifications
-Tags: web,notifications
+Tags: web
+Tags: notifications
 
 Url: https://css-doodle.com/
 Description: CSS Doodle
-Tags: css,web
+Tags: css
+Tags: web
 
 Url: https://www.alexedwards.net/blog/serving-static-sites-with-go
 Description: Go Static Server
-Tags: go,web,server
+Tags: go
+Tags: web
+Tags: server
 
 Url: https://www.gnu.org/software/recutils/
 Description: GNU Recutils
-Tags: gnu,db
+Tags: gnu
+Tags: db
 
 Url: https://leafo.net/lua-enet/
 Description: Lua Enet
-Tags: lua,net,enet
+Tags: lua
+Tags: net
+Tags: enet
 
 Url: https://nodemcu.readthedocs.io/en/master/
 Description: NodeMCU Docs
-Tags: iot,doc,nodemcu
+Tags: iot
+Tags: doc
+Tags: nodemcu
 
 Url: https://tech.davis-hansson.com/p/make/
 Description: Alternative Make
-Tags: make,c
+Tags: make
+Tags: c
 
 Url: https://mcuhacker.wordpress.com/2018/02/22/forsta-blogginlagget/
 Description: ESP PC-XT
-Tags: iot,esp,retro,os
+Tags: iot
+Tags: esp
+Tags: retro
+Tags: os
 
 Url: https://keleshev.com/my-book-writing-setup/
 Description: Book with Vim
-Tags: vim,make,tex
+Tags: vim
+Tags: make
+Tags: tex
 
 Url: https://scarybeastsecurity.blogspot.com/2020/04/clocking-6502-to-15ghz.html?m=1
 Description: Over Clocking 6502
-Tags: iot,os,retro
+Tags: iot
+Tags: os
+Tags: retro
 
 Url: https://arcadehacker.blogspot.com/2020/04/deconstructing-segas-system-16-security-part2.html?m=1
 Description: Sega Security
-Tags: retro,security
+Tags: retro
+Tags: security
 
 Url: https://sigmaris.info/blog/2019/02/cross-compiling-rust-on-mac-os-for-an-arm-linux-router/
 Description: ARM Cross Compilation Rust
-Tags: rust,arm,pi
+Tags: rust
+Tags: arm
+Tags: pi
 
 Url: https://reactjs.org/docs/forwarding-refs.html
 Description: React Forward Ref
-Tags: react,frontend
+Tags: react
+Tags: frontend
 
 Url: http://redsymbol.net/articles/unofficial-bash-strict-mode/
 Description: Bash Strict Mode
@@ -102,11 +136,13 @@ Tags: bash
 
 Url: https://tools.ietf.org/html/rfc6455
 Description: RFC of Socket
-Tags: rfc,socket
+Tags: rfc
+Tags: socket
 
 Url: https://tools.ietf.org/html/rfc4287
 Description: RFC of Atom
-Tags: rfc,atom
+Tags: rfc
+Tags: atom
 
 Url: https://www.gnu.org/software/make/manual/html_node/Loaded-Object-Example.html#Loaded-Object-Example
 Description: Loading Object Make
@@ -118,7 +154,8 @@ Tags: webgl
 
 Url: https://github.com/jdan/98.css
 Description: Windows 98 CSS
-Tags: css,retro
+Tags: css
+Tags: retro
 
 Url: https://wiki.installgentoo.com/wiki/Main_Page
 Description: Install Gentoo
@@ -126,7 +163,8 @@ Tags: wiki
 
 Url: http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html?m=1
 Description: Fibonacci Monoid
-Tags: haskell,math
+Tags: haskell
+Tags: math
 
 Url: https://www.beholder.uk/dwindle/
 Description: Tapir Story
@@ -134,15 +172,18 @@ Tags: story
 
 Url: https://astrolog.org/labyrnth/algrithm.htm
 Description: Maze Gen
-Tags: game,maze
+Tags: game
+Tags: maze
 
 Url: http://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking
 Description: Maze Gen Bloog
-Tags: blog,maze
+Tags: blog
+Tags: maze
 
 Url: https://www.sqlite.org/loadext.html
 Description: Sqlite Extension
-Tags: sqlite,c
+Tags: sqlite
+Tags: c
 
 Url: https://www.w3.org/TR/webrtc/
 Description: WebRTC Specifications
@@ -150,7 +191,8 @@ Tags: web
 
 Url: https://askubuntu.com/questions/115940/how-can-i-setup-ssh-so-that-it-is-restricted-to-my-local-network
 Description: SSH Restriction
-Tags: ssh,network
+Tags: ssh
+Tags: network
 
 Url: https://www.iquilezles.org/
 Description: Inigo Quilez
@@ -158,23 +200,28 @@ Tags: blog
 
 Url: http://hughsk.io/
 Description: Hugh Kennedy
-Tags: blog,webgl
+Tags: blog
+Tags: webgl
 
 Url: http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
 Description: Signed Distance Function
-Tags: webgl,blog
+Tags: webgl
+Tags: blog
 
 Url: https://thebookofshaders.com/
 Description: Book of Shaders
-Tags: webgl,shader
+Tags: webgl
+Tags: shader
 
 Url: https://archive.org/details/handbookoforname00meyeuoft/page/n6/mode/2up
 Description: Handbook of ornaments
-Tags: design,book
+Tags: design
+Tags: book
 
 Url: https://blog.golang.org/cgo
 Description: C Go
-Tags: c,go
+Tags: c
+Tags: go
 
 Url: https://asmtutor.com/
 Description: ASM tutorial
@@ -182,35 +229,46 @@ Tags: asm
 
 Url: http://www.sizecoding.org/wiki/Main_Page
 Description: Size Coding
-Tags: asm,art
+Tags: asm
+Tags: art
 
 Url: https://www.origami-resource-center.com/
 Description: Origami Resource
-Tags: origami,blog,art
+Tags: origami
+Tags: blog
+Tags: art
 
 Url: https://unixism.net/2020/04/io-uring-by-example-article-series/
 Description: uring
-Tags: linux,net,blog
+Tags: linux
+Tags: net
+Tags: blog
 
 Url: https://github.com/google/AFL
 Description: AFL
-Tags: security,testing
+Tags: security
+Tags: testing
 
 Url: http://www.linux-m68k.org/faq/glibcinfo.html
 Description: GLibc
-Tags: libc,c,linux
+Tags: libc
+Tags: c
+Tags: linux
 
 Url: https://pink-dragon.surge.sh/
 Description: Legend of Pink Dragon
-Tags: dnd,irc
+Tags: dnd
+Tags: irc
 
 Url: http://www.textfiles.com/uploads/
 Description: Text Files
-Tags: txt,blog
+Tags: txt
+Tags: blog
 
 Url: http://jepsen.io/
 Description: Jespen
-Tags: db,security
+Tags: db
+Tags: security
 
 Url: http://www.avabodh.com/cin/cin.html
 Description: C Internals
@@ -218,15 +276,18 @@ Tags: c
 
 Url: https://jvns.ca/blog/2017/01/31/whats-tls/
 Description: SSL certificate
-Tags: ssl,network
+Tags: ssl
+Tags: network
 
 Url: https://ils.unc.edu/callee/gopherpaper.htm
 Description: Gopher
-Tags: gopher,network
+Tags: gopher
+Tags: network
 
 Url: https://en.m.wikipedia.org/wiki/Girih_tiles
 Description: Girih Tiles
-Tags: art,geometry
+Tags: art
+Tags: geometry
 
 Url: https://zserge.com/posts/jvm/
 Description: Mini JVM
@@ -234,39 +295,53 @@ Tags: jvm
 
 Url: https://unixism.net/
 Description: Unixism
-Tags: unix,blog
+Tags: unix
+Tags: blog
 
 Url: https://docs.qmk.fm/#/
 Description: QMK Firmware
-Tags: qmk,keyboard,firmware
+Tags: qmk
+Tags: keyboard
+Tags: firmware
 
 Url: https://www.raspberrypi.org/documentation/configuration/device-tree.md
 Description: PI Device Tree
-Tags: pi,hardware
+Tags: pi
+Tags: hardware
 
 Url: http://www.voja.rs/PROJECTS/npr.htm
 Description: IOT Project ideas
-Tags: iot,project,fun
+Tags: iot
+Tags: project
+Tags: fun
 
 Url: https://www.riyas.org/
 Description: Arduino Blog
-Tags: blog,iot
+Tags: blog
+Tags: iot
 
 Url: https://www.instructables.com/id/Tiny-Game-Console/
 Description: Tiny Console
-Tags: iot,game
+Tags: iot
+Tags: game
 
 Url: http://jborza.com/emulation/2020/09/05/mcpu-emulator.html
 Description: MCPC Emulator
-Tags: iot,avr,attiny
+Tags: iot
+Tags: avr
+Tags: attiny
 
 Url: https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking
 Description: ESP32 Tamagotchi
-Tags: iot,esp32
+Tags: iot
+Tags: esp32
 
 Url: https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html
 Description: Stack monoid
-Tags: haskell,stack,monoid,functional
+Tags: haskell
+Tags: stack
+Tags: monoid
+Tags: functional
 
 Url: https://www.fprintf.net/vimCheatSheet.html
 Description: Vim Cheet Sheet
@@ -278,15 +353,20 @@ Tags: pet
 
 Url: https://hackaday.io/
 Description: Hackaday
-Tags: iot,hack
+Tags: iot
+Tags: hack
 
 Url: https://hackaday.io/list/28866-video-games
 Description: Hackaday Console
-Tags: iot,game,hack
+Tags: iot
+Tags: game
+Tags: hack
 
 Url: https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/
 Description: JIT BF Case study
-Tags: jit,bf,blog
+Tags: jit
+Tags: bf
+Tags: blog
 
 Url: https://compilers.iecc.com/crenshaw/
 Description: Building a compiler
@@ -298,67 +378,87 @@ Tags: image
 
 Url: https://eli.thegreenplace.net/
 Description: Eli blog
-Tags: blog,unix
+Tags: blog
+Tags: unix
 
 Url: http://www.tpc.org/information/who/whoweare5.asp
 Description: TPC
-Tags: sql,std
+Tags: sql
+Tags: std
 
 Url: https://0xc45.com/blog/4x4-macro-pad/
 Description: Macro pad
-Tags: mech, keyboard
+Tags: mech
+Tags:  keyboard
 
 Url: http://www.nongnu.org/fastcgi/
 Description: FastCGI
-Tags: net,fastcgi
+Tags: net
+Tags: fastcgi
 
 Url: https://www.grymoire.com/Unix/Awk.html
 Description: Awk Tutorial
-Tags: awk,unix
+Tags: awk
+Tags: unix
 
 Url: http://rdb.fnordig.de/file_format.html
 Description: RDB File Format
-Tags: rdb,redis,bin
+Tags: rdb
+Tags: redis
+Tags: bin
 
 Url: http://www.pouet.net/
 Description: Byte Coding
-Tags: retro,bin
+Tags: retro
+Tags: bin
 
 Url: https://blog.mrhaki.com/
 Description: Mrhaki JVM Blog
-Tags: jvm,blog
+Tags: jvm
+Tags: blog
 
 Url: http://c9x.me/x86/
 Description: X86 Instructions
-Tags: x86,assembly
+Tags: x86
+Tags: assembly
 
 Url: https://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/
 Description: 8088 Demo Scene Blog
-Tags: asm,8088,demoscene
+Tags: asm
+Tags: 8088
+Tags: demoscene
 
 Url: https://gossipsweb.net/
 Description: Gossip Web
-Tags: art,html
+Tags: art
+Tags: html
 
 Url: http://wingolog.org/projects/
 Description: Wingolog Blog
-Tags: blog,lua,js,node
+Tags: blog
+Tags: lua
+Tags: js
+Tags: node
 
 Url: https://pgl.yoyo.org/luai/i/_
 Description: Lua Blog
-Tags: lua,blog
+Tags: lua
+Tags: blog
 
 Url: https://www.openldap.org/
 Description: Open LDAP
-Tags: network,ldap
+Tags: network
+Tags: ldap
 
 Url: https://iota-beginners-guide.com/iota-basics/what-is-iota/
 Description: IOTA
-Tags: crpto,iot
+Tags: crpto
+Tags: iot
 
 Url: http://jakascorner.com/blog/
 Description: Open MP Content
-Tags: openmp,blog
+Tags: openmp
+Tags: blog
 
 Url: https://en.wikipedia.org/wiki/XXTEA
 Description: XXTEA
@@ -366,23 +466,30 @@ Tags: crypto
 
 Url: https://www.pixelships.com/
 Description: DOS Game Designer
-Tags: dos,retro,art
+Tags: dos
+Tags: retro
+Tags: art
 
 Url: https://bisqwit.iki.fi/story/howto/openmp/
 Description: Open MP Tutorial
-Tags: openmp,tutorial
+Tags: openmp
+Tags: tutorial
 
 Url: http://www.mazelog.com/
 Description: Maze puzzles
-Tags: puzzle,maze
+Tags: puzzle
+Tags: maze
 
 Url: https://huguesjohnson.com/
 Description: Hugeus Johnson Pouet
-Tags: retro,art,asm
+Tags: retro
+Tags: art
+Tags: asm
 
 Url: http://chara.gsu.edu/public/basics-of-interferometry
 Description: Basics of Interferometry
-Tags: astro,research
+Tags: astro
+Tags: research
 
 Url: https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html
 Description: Builtins
@@ -398,7 +505,8 @@ Tags: astro
 
 Url: https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
 Description: Flex + Bison + LLVM Tutorial
-Tags: llvm,parser
+Tags: llvm
+Tags: parser
 
 Url: https://www.usna.edu/Users/cs/lmcdowel/courses/si413/F10/labs/L04/calc1/ex1.html
 Description: Flex Bison example
@@ -406,28 +514,43 @@ Tags: parser
 
 Url: http://blog.llvm.org/
 Description: LLVM Blog
-Tags: llvm,blog
+Tags: llvm
+Tags: blog
 
 Url: https://google.github.io/styleguide/cppguide.html#Doing_Work_in_Constructors
 Description: Google C++ Styleguide
-Tags: cpp,styleguide
+Tags: cpp
+Tags: styleguide
 
 Url: https://llvm.org/docs/Vectorizers.html#the-loop-vectorizer
 Description: LLVM Loop Vectorization
-Tags: llvm,optimization
+Tags: llvm
+Tags: optimization
 
 Url: https://cellperformance.beyond3d.com/articles/index.html
 Description: Cell Performance Blog
-Tags: blog,cpp,c
+Tags: blog
+Tags: cpp
+Tags: c
 
 Url: https://abrashiorigami.com/
 Description: Origami Design Blog
-Tags: origami,art
+Tags: origami
+Tags: art
 
 Url: https://nanochess.org/
 Description: Code Golf Blog
-Tags: art,blog
+Tags: art
+Tags: blog
 
 Url: https://mattround.com/
 Description: MattRound Blog
 Tags: blog
+
+Url: https://www.make-origami.com/HelenaVerrill/home.php
+Description: Modular Origami Blog
+Tags: origami
+
+Url: https://www.make-origami.com/HelenaVerrill/quilts.php
+Description: Origami Quills
+Tags: origami

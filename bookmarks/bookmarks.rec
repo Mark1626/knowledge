@@ -2,54 +2,71 @@
 
 Url: http://cbloomrants.blogspot.com/
 Description: Blog on compression
-Tags: blog,compression
+Tags: blog
+Tags: compression
 
 Url: https://eli.thegreenplace.net/2011/02/07/how-debuggers-work-part-3-debugging-information/
 Description: How Debuggers Work
-Tags: debug,blog
+Tags: debug
+Tags: blog
 
 Url: https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html
 Description: ncurses tutorial
-Tags: ncurses,tutorial
+Tags: ncurses
+Tags: tutorial
 
 Url: https://tldp.org/docs.html\#howto
 Description: linux howtos
-Tags: linux,tutorial
+Tags: linux
+Tags: tutorial
 
 Url: https://www.brendangregg.com/perf.html
 Description: perf tutorial Brendangregg
-Tags: linux,blog,perf,tutorial
+Tags: linux
+Tags: blog
+Tags: perf
+Tags: tutorial
 
 Url: http://www.cri.ensmp.fr/classement/doc/E-279.pdf
 Description: GCC Loop Distribution Case Study
-Tags: casestudy,ppt
+Tags: casestudy
+Tags: ppt
 
 Url: https://www.cs.utexas.edu/\~pingali/CS380C/2013/lectures/graphite.pdf
-Type: gcc,compiler
+Type: gcc
+Tags: compiler
 Description: GCC Graphite
 
 Url: https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html
-Type: gcc,compiler
+Type: gcc
+Tags: compiler
 Description: GCC Gimple
 
 Url: https://www.officedaytime.com/simd512e/
-Type: intrinsics,reference
+Type: intrinsics
+Tags: reference
 Description: Vector instructions reference
 
 Url: https://multun.net/obscure-c-features.html
-Type: c,article
+Type: c
+Tags: article
 Description: Obscure C Features
 
 Url: http://perltraining.com.au/tips/
-Type: perl,wiki
+Type: perl
+Tags: wiki
 Description: Perl Tips
 
 Url: https://lwn.net/Kernel/LDD3/
-Type: linux,kernel,book
+Type: linux
+Tags: kernel
+Tags: book
 Description: Linux Device Drivers
 
 Url: http://www.kroah.com/lkn/
-Type: linux,kernel,book
+Type: linux
+Tags: kernel
+Tags: book
 Description: Linux Kernel in a Nutshell
 
 Url: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
@@ -65,7 +82,9 @@ Type: paper
 Description: ACM SIGPLAN Conference Selected Papers by Year
 
 Url: https://www.realworldtech.com/
-Type: blog,cpu,gpu
+Type: blog
+Tags: cpu
+Tags: gpu
 Description: Real World Tech
 
 Url: https://invisible-island.net/home.html
@@ -73,7 +92,8 @@ Type: blog
 Description: Invisible Island Thomas E. Dickey
 
 Url: https://www.linuxjournal.com/
-Type: site,media
+Type: site
+Tags: media
 Description: Linux Journel
 
 Url: https://www.agner.org/optimize/microarchitecture.pdf
@@ -82,26 +102,32 @@ Description: Intel Microarchitecture
 
 Url: https://mosh.org/
 Type: shell
-Description: Remote Shell, alternative to SSH
+Description: Remote Shell
+Tags:  alternative to SSH
 
 Url: https://people.math.sc.edu/Burkardt/
 Type: blog
 Description: John Burkardt's Blog
 
 Url: https://docs.nvidia.com/cuda/samples/3_Imaging/convolutionSeparable/doc/convolutionSeparable.pdf
-Type: article, gpu, hpc
+Type: article
+Tags:  gpu
+Tags:  hpc
 Description: Image Convolution with CUDA
 
 Url: https://www.evl.uic.edu/kreda/gpu/image-convolution/
-Type: article, gpu
+Type: article
+Tags:  gpu
 Description: A study of OpenCL image convolution optimization
 
 Url: http://songho.ca/dsp/index.html
-Type: blog, dsp
+Type: blog
+Tags:  dsp
 Description: Quick DSP 101
 
 Url: https://fredrikj.net/blog/
-Type: blog, hpc
+Type: blog
+Tags:  hpc
 Description: Fredrik Johansson Blog
 
 Url: https://daltonprogram.org/
@@ -122,19 +148,24 @@ Description: Stats 340 - Normal Equations
 
 Url: https://www.indilib.org/
 Type: astro
-Description: INDI Library, open source astronomy
+Description: INDI Library
+Tags:  open source astronomy
 
 Url: http://plv.mpi-sws.org/rustbelt/ghostcell/
-Type: rust, ds
+Type: rust
+Tags:  ds
 Description: Rust GhostCell
 
 Url: https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html
-Type: gcc, asm
+Type: gcc
+Tags:  asm
 Description: Inline ASM tutorial
 
 Url: https://www.delorie.com/djgpp/
-Type: gcc, compiler
-Description: 32bit compiler for 80386, DOS
+Type: gcc
+Tags:  compiler
+Description: 32bit compiler for 80386
+Tags:  DOS
 
 Url: https://kristerw.blogspot.com/
 Type: blog
