@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #293 articles
+There are #297 articles
 
 ---
 
@@ -273,6 +273,11 @@ There are #293 articles
 - [clangd compile options](./languages/c-compiler/clang/clangd-compile-options.md)
 - [Range constraint of Multiplication and Division](./languages/c-compiler/clang/muldiv-range-constraint.md)
 
+##### LLVM
+
+- [LLVM passes](./languages/llvm/llvm-passes.md)
+- [LLVM tools](./languages/llvm/llvm-tools.md)
+
 ##### GCC
 
 - [GCC specific auto vectorization features](./languages/c-compiler/gcc/auto-vectorization.md)
@@ -284,6 +289,7 @@ There are #293 articles
 - [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
+- [Default Argument](./languages/c/default-arg.md)
 
 #### CPP
 
@@ -629,6 +635,10 @@ There are #293 articles
 #### otool
 
 - [otool](./tools/otool.md)
+
+#### pactl
+
+- [pactl](./tools/pactl.md)
 
 #### perf
 

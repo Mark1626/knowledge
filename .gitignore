@@ -3,3 +3,4 @@ _site
 *.ms
 .jekyll-cache
 .ipynb_checkpoints/
+first_image*
