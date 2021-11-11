@@ -33,162 +33,162 @@ Tags: casestudy
 Tags: ppt
 
 Url: https://www.cs.utexas.edu/\~pingali/CS380C/2013/lectures/graphite.pdf
-Type: gcc
+Tags: gcc
 Tags: compiler
 Description: GCC Graphite
 
 Url: https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html
-Type: gcc
+Tags: gcc
 Tags: compiler
 Description: GCC Gimple
 
 Url: https://www.officedaytime.com/simd512e/
-Type: intrinsics
+Tags: intrinsics
 Tags: reference
 Description: Vector instructions reference
 
 Url: https://multun.net/obscure-c-features.html
-Type: c
+Tags: c
 Tags: article
 Description: Obscure C Features
 
 Url: http://perltraining.com.au/tips/
-Type: perl
+Tags: perl
 Tags: wiki
 Description: Perl Tips
 
 Url: https://lwn.net/Kernel/LDD3/
-Type: linux
+Tags: linux
 Tags: kernel
 Tags: book
 Description: Linux Device Drivers
 
 Url: http://www.kroah.com/lkn/
-Type: linux
+Tags: linux
 Tags: kernel
 Tags: book
 Description: Linux Kernel in a Nutshell
 
 Url: https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
-Type: article
+Tags: article
 Description: What every Computer Scientist should know about floating point
 
 Url: https://people.freebsd.org/\~lstewart/articles/cpumemory.pdf
-Type: paper
+Tags: paper
 Description: What every Computer Scientist should know about Memory
 
 Url: https://www.cs.utexas.edu/users/mckinley/20-years.html
-Type: paper
+Tags: paper
 Description: ACM SIGPLAN Conference Selected Papers by Year
 
 Url: https://www.realworldtech.com/
-Type: blog
+Tags: blog
 Tags: cpu
 Tags: gpu
 Description: Real World Tech
 
 Url: https://invisible-island.net/home.html
-Type: blog
+Tags: blog
 Description: Invisible Island Thomas E. Dickey
 
 Url: https://www.linuxjournal.com/
-Type: site
+Tags: site
 Tags: media
 Description: Linux Journel
 
 Url: https://www.agner.org/optimize/microarchitecture.pdf
-Type: paper
+Tags: paper
 Description: Intel Microarchitecture
 
 Url: https://mosh.org/
-Type: shell
+Tags: shell
 Description: Remote Shell
 Tags:  alternative to SSH
 
 Url: https://people.math.sc.edu/Burkardt/
-Type: blog
+Tags: blog
 Description: John Burkardt's Blog
 
 Url: https://docs.nvidia.com/cuda/samples/3_Imaging/convolutionSeparable/doc/convolutionSeparable.pdf
-Type: article
+Tags: article
 Tags:  gpu
 Tags:  hpc
 Description: Image Convolution with CUDA
 
 Url: https://www.evl.uic.edu/kreda/gpu/image-convolution/
-Type: article
+Tags: article
 Tags:  gpu
 Description: A study of OpenCL image convolution optimization
 
 Url: http://songho.ca/dsp/index.html
-Type: blog
+Tags: blog
 Tags:  dsp
 Description: Quick DSP 101
 
 Url: https://fredrikj.net/blog/
-Type: blog
+Tags: blog
 Tags:  hpc
 Description: Fredrik Johansson Blog
 
 Url: https://daltonprogram.org/
-Type: bench
+Tags: bench
 Description: Dalton suite programs
 
 Url: http://tdc-www.harvard.edu/catalogs/bsc5.html
-Type: astro
+Tags: astro
 Description: Yale bright stars catalog
 
 Url: https://asd.gsfc.nasa.gov/Craig.Markwardt/bary/
-Type: astro
+Tags: astro
 Description: How to read the JPL Ephemeris and Perform Barycentering
 
 Url: https://bookdown.org/ltupper/340f21_notes/the-normal-equations.html
-Type: stats
+Tags: stats
 Description: Stats 340 - Normal Equations
 
 Url: https://www.indilib.org/
-Type: astro
+Tags: astro
 Description: INDI Library
 Tags:  open source astronomy
 
 Url: http://plv.mpi-sws.org/rustbelt/ghostcell/
-Type: rust
+Tags: rust
 Tags:  ds
 Description: Rust GhostCell
 
 Url: https://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html
-Type: gcc
+Tags: gcc
 Tags:  asm
 Description: Inline ASM tutorial
 
 Url: https://www.delorie.com/djgpp/
-Type: gcc
+Tags: gcc
 Tags:  compiler
 Description: 32bit compiler for 80386
 Tags:  DOS
 
 Url: https://kristerw.blogspot.com/
-Type: blog
+Tags: blog
 Description: Krister Walfridsson’s blog
 
 Url: https://terboven.com/?p=61
-Type: blog
-Type: hpc
-Type: openmp
+Tags: blog
+Tags: hpc
+Tags: openmp
 Description: OpenMP in cling
 
 Url: https://terboven.com/
-Type: blog
-Type: hpc
+Tags: blog
+Tags: hpc
 Description: Christian Terboven's blog
 
 Url: http://aosabook.org/en/index.html
-Type: book
+Tags: book
 Description: Architecture of Open Source Applications
 
-Url: http://blog.thetelegraphic.com/
-Type: blog
-Type: astronomy
+Url:http://blog.thetelegraphic.com/
+Tags: blog
+Tags: astronomy
 Description: Danny Price's blog
 
 Url: https://platane.github.io/js13k-2017/postmortem/image-processing
