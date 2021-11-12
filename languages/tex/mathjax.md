@@ -2,6 +2,7 @@
 
 [Back](../../index.md#tex){: .button}
 
+[Symbols Reference](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm)
 
 ## Matrix
 

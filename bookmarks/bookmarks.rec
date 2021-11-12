@@ -190,3 +190,8 @@ Url:http://blog.thetelegraphic.com/
 Type: blog
 Type: astronomy
 Description: Danny Price's blog
+
+Url: https://platane.github.io/js13k-2017/postmortem/image-processing
+Tags: blog
+Tags: compression
+Description: Genetic Compression Algorithm
