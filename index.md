@@ -8,14 +8,14 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #299 articles
+There are #301 articles
 
 ---
 
 ## Categories
 
 + [ARM](#arm)
-+ [Algorithm](#algorithm)
++ [Algorithm](#algo)
 + [Astronomy](#astro)
 + [Books](#books)
 + [Build Tools](#build-tools)
@@ -65,6 +65,7 @@ There are #299 articles
 - [Kadane](./algo/kadane.md)
 - [Chaitin-Briggs coloring](./algo/chaitin-briggs-coloring.md)
 - [Chow’s priority coloring](./algo/chow-coloring.md)
+- [Bresenham's line algorithm](./algo/bresenham.md)
 
 ---
 
@@ -645,6 +646,10 @@ There are #299 articles
 #### perf
 
 - [perf](./tools/perf.md)
+
+#### pkg-config
+
+- [pkg-config](./tools/pkg-config.md)
 
 #### ppm
 
