@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #301 articles
+There are #302 articles
 
 ---
 
@@ -440,6 +440,7 @@ There are #301 articles
 - [The Design and Implementation of FFTW3](./papers/the-design-and-implementation-of-fftw3.md)
 - [Source Finding](./papers/astronomy-source-finding.md)
 - [H1 21cm Absorption](./papers/astronomy-h1-21cm-absorption.md)
+- [MG-J0414+0534](./papers/MG_J0414_0534.md)
 
 ---
 
