@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #303 articles
+There are #304 articles
 
 ---
 
@@ -659,6 +659,10 @@ There are #303 articles
 #### ppm
 
 - [ppm](./tools/ppm.md)
+
+#### rlwrap
+
+- [rlwrap](./tools/rlwrap.md)
 
 #### rs
 
