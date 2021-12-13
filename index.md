@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #304 articles
+There are #305 articles
 
 ---
 
@@ -66,6 +66,7 @@ There are #304 articles
 - [Chaitin-Briggs coloring](./algo/chaitin-briggs-coloring.md)
 - [Chow’s priority coloring](./algo/chow-coloring.md)
 - [Bresenham's line algorithm](./algo/bresenham.md)
+- [Cooley–Tukey FFT Algorithm](./algo/cooley-tukey.md)
 
 ---
 
