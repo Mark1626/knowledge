@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #305 articles
+There are #327 articles
 
 ---
 
@@ -38,9 +38,11 @@ There are #305 articles
 + [Origami](#origami)
 + [Papers](#papers)
 + [Philosophy](#philosophy)
++ [Posix](#posix)
 + [Postgresql](#postgresql)
 + [Platforms](#platforms)
 + [Psychology](#psychology)
++ [Quantum](#quantum)
 + [RFC](#rfc)
 + [SIMD](#simd)
 + [Sqlite](#sqlite)
@@ -233,6 +235,7 @@ There are #305 articles
 - [Bash subcommand](./languages/bash/bash-subcommand.md)
 - [Bash convert to upper case](./languages/bash/bash-uppercase.md)
 - [Bash check platform](./languages/bash/bash-check-platform.md)
+- [Bash declare](./languages/bash/bash-declare.md)
 
 #### Common
 
@@ -386,8 +389,17 @@ There are #305 articles
 
 ### Notebooks
 
-- [Visualising FFT](./notebooks/Effects%20of%20Fourier%20Transform.ipynb)
-- [Normal Equations](./notebooks/Normal%20Equations.ipynb)
+- [Clean](https://github.com/Mark1626/knowledge/blob/master/notebooks/Clean.ipynb)
+- [Visualising FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/Effects%20of%20Fourier%20Transform.ipynb)
+- [Normal Equations](https://github.com/Mark1626/knowledge/blob/master/notebooks/Normal%20Equations.ipynb)
+- [Searching the Sky](https://github.com/Mark1626/knowledge/blob/master/notebooks/Searching%20the%20Sky.ipynb)
+- [Sky Coordinates](https://github.com/Mark1626/knowledge/blob/master/notebooks/Sky%20Coordinates.ipynb)
+- [Measurement Set](https://github.com/Mark1626/knowledge/blob/master/notebooks/Measurement%20Set.ipynb)
+<!-- - [2D Guassian Fitting](https://github.com/Mark1626/knowledge/blob/master/notebooks/Gaussian%20Fitting.ipynb) -->
+- [Understanding W-Sampling](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20w%20sampling.ipynb)
+- [Reading FITS Header cfitsio](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.a%20Reading%20FITS%20Header%20cfitsio.ipynb)
+- [Reading FITS Header astropy](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.b%20Reading%20FITS%20Header%20-%20Astropy.ipynb)
+- [WCS](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.2.a%20WCS.ipynb)
 
 ---
 
@@ -505,6 +517,12 @@ There are #305 articles
 
 ---
 
+### POSIX
+
+[regex](./posix/regex.md)
+
+---
+
 ### Physics
 
 - [Barycenter](./physics/barycenter.md)
@@ -539,6 +557,24 @@ There are #305 articles
 - [Job File Table](./platforms/dos/job-file-table.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 - [Check for input](./platforms/dos/reading-input.md)
+
+---
+
+### Quantum
+
+- [cnot gate](./quantum/cnot-gate.md)
+- [entanglement](./quantum/entanglement.md)
+- [quantum-circuit](./quantum/quantum-circuit.md)
+- [qubit](./quantum/qubit.md)
+- [quantum teleportation](./quantum/teleportation.md)
+- [toffoli gates](./quantum/toffoli-gate)
+
+#### Notebooks
+
+- [Bell State](https://github.com/Mark1626/knowledge/blob/master/quantum/Bell%20State.ipynb)
+- [Full Adder](https://github.com/Mark1626/knowledge/blob/master/quantum/Full%20Adder.ipynb)
+- [GHZ State](https://github.com/Mark1626/knowledge/blob/master/quantum/GHZ%20State.ipynb)
+- [W State](https://github.com/Mark1626/knowledge/blob/master/quantum/W%20State.ipynb)
 
 ---
 
