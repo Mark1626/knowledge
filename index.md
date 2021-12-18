@@ -389,7 +389,7 @@ There are #327 articles
 
 ### Notebooks
 
-- [Clean](https://github.com/Mark1626/knowledge/blob/master/notebooks/Clean.ipynb)
+- [CASA Imaging](https://github.com/Mark1626/knowledge/blob/master/notebooks/CASA%20Imaging.ipynb)
 - [Visualising FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/Effects%20of%20Fourier%20Transform.ipynb)
 - [Normal Equations](https://github.com/Mark1626/knowledge/blob/master/notebooks/Normal%20Equations.ipynb)
 - [Searching the Sky](https://github.com/Mark1626/knowledge/blob/master/notebooks/Searching%20the%20Sky.ipynb)
