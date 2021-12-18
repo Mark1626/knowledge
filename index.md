@@ -395,7 +395,7 @@ There are #327 articles
 - [Searching the Sky](https://github.com/Mark1626/knowledge/blob/master/notebooks/Searching%20the%20Sky.ipynb)
 - [Sky Coordinates](https://github.com/Mark1626/knowledge/blob/master/notebooks/Sky%20Coordinates.ipynb)
 - [Measurement Set](https://github.com/Mark1626/knowledge/blob/master/notebooks/Measurement%20Set.ipynb)
-<!-- - [2D Guassian Fitting](https://github.com/Mark1626/knowledge/blob/master/notebooks/Gaussian%20Fitting.ipynb) -->
+- [2D Guassian Fitting](https://github.com/Mark1626/knowledge/blob/master/notebooks/Fitting%202D%20Gaussian.ipynb)
 - [Understanding W-Sampling](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20w%20sampling.ipynb)
 - [Reading FITS Header cfitsio](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.a%20Reading%20FITS%20Header%20cfitsio.ipynb)
 - [Reading FITS Header astropy](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.b%20Reading%20FITS%20Header%20-%20Astropy.ipynb)
