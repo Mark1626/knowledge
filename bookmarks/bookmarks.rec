@@ -107,6 +107,7 @@ Tags:  alternative to SSH
 
 Url: https://people.math.sc.edu/Burkardt/
 Tags: blog
+Tags: hpc
 Description: John Burkardt's Blog
 
 Url: https://docs.nvidia.com/cuda/samples/3_Imaging/convolutionSeparable/doc/convolutionSeparable.pdf
@@ -208,4 +209,9 @@ Description: Astronomy Picture of the Day
 Url: https://www.coranac.com/tonc/text/toc.htm
 Tags: retro
 Description: GBA Tutorial
+
+Url: https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf
+Tags: hpc
+Tags: openmp
+Description: OpenMP Examples
 
