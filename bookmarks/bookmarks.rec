@@ -215,3 +215,8 @@ Tags: hpc
 Tags: openmp
 Description: OpenMP Examples
 
+Url: http://www.netlib.org/utk/papers/practical-hetro/paper.html
+Tags: hpc
+Tags: mpi
+Description: LAPACK Heterogeneous Computing
+

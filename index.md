@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #327 articles
+There are #328 articles
 
 ---
 
@@ -660,6 +660,10 @@ There are #327 articles
 ### jot
 
 - [jot](./tools/jot.md)
+
+### locate
+
+- [locate](./tools/locate.md)
 
 #### Lynx
 
