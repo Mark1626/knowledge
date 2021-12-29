@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #328 articles
+There are #329 articles
 
 ---
 
@@ -614,6 +614,10 @@ There are #328 articles
 #### ab
 
 - [Apache Benchmark](./tools/ab.md)
+
+### apropos
+
+- [apropos](./tools/apropos.md)
 
 #### Clang Format {#clang-format}
 
