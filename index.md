@@ -302,6 +302,7 @@ There are #330 articles
 - [Optargs for cli arg parsing](./languages/c/opt-arg.md)
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
 - [Default Argument](./languages/c/default-arg.md)
+- [Static Method](./languages/c/static-function.md)
 
 #### CPP
 
