@@ -1,5 +1,5 @@
 ---
-author: Nimalan
+author: Nimalan aka mark1626
 title: SQLite Extension for computing quantiles based on t-digest
 abstract: This article outlines an idea for creating a t-digest SQLite extension for computing quantiles.
 ---
@@ -10,7 +10,7 @@ The efficiency of t-digest has been seen in Elasticsearch, Apache Lucene. SQLite
 
 [^1]: [https://www.sqlite.org/loadext.html](https://www.sqlite.org/loadext.html)
 
-## Previous Work
+# Previous Work
 
 Reference implementations of T-Digest include the original Ted Dunning's version and the Derrick Burns's C++ implementation.
 

@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #329 articles
+There are #330 articles
 
 ---
 
@@ -212,6 +212,13 @@ There are #329 articles
 
 - [IRC Cheatsheet](./irc/irc-cheat-sheet.md)
 - [IRC Relay](./irc/relay.md)
+
+---
+
+### Ideas
+
+- [sqlite t-digest](./ideas/sqlite-tdigest.md)
+- [busybox httpd](./ideas/busybox-httpd.md)
 
 ---
 
