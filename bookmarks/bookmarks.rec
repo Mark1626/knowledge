@@ -220,3 +220,21 @@ Tags: hpc
 Tags: mpi
 Description: LAPACK Heterogeneous Computing
 
+Url: https://enccs.github.io/intermediate-mpi/mpi-and-threads-pt1/#
+Tags: hpc
+Tags: openmp
+Tags: openmpi
+Description: Intermediate MPI
+
+Url: https://wgropp.cs.illinois.edu/courses/cs598-s15/lectures/lecture36.pdf
+Tags: hpc
+Tags: openmp
+Tags: openmpi
+Tags: lecture
+Description: MPI and Threads
+
+Url: https://cseweb.ucsd.edu/classes/wi15/cse262-a/static/Lec03-slides.pdf
+Tags: hpc
+Tags: gpu
+Tags: vectorization
+Description: GPU vectorization

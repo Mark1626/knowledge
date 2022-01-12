@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #330 articles
+There are #334 articles
 
 ---
 
@@ -29,6 +29,7 @@ There are #330 articles
 + [Git](#git)
 + [Graphics](#graphics)
 + [HPC](#hpc)
++ [Ideas](#ideas)
 + [IRC](#irc)
 + [Kernel](#kernel)
 + [Languages](#languages)
@@ -226,6 +227,7 @@ There are #330 articles
 
 - [namespaces](./kernel/namespaces.md)
 - [sched_yield](./kernel/sched_yield.md)
+- [menuconfig](./kernel/menuconfig.md)
 
 ---
 
@@ -334,6 +336,10 @@ There are #330 articles
 - [ASIC](./languages/hpc/asic.md)
 - [FPGA](./languages/hpc/fpga.md)
 
+#### Ideas
+
+- [t-digest sqlite](./ideas/sqlite-tdigest.md)
+
 #### Perl
 
 - [Read line by line](./languages/perl/read-line-by-line.md)
@@ -374,6 +380,7 @@ There are #330 articles
 - [Make parallel builds](./buildtools/makefile/make-parallel.md)
 - [Make reading shell output](./buildtools/makefile/make-shell.md)
 - [Make string functions](./buildtools/makefile/make-string-functions.md)
+- [Echoing commands](./buildtools/makefile/makefile-echo.md)
 
 #### CMake {#cmake}
 
@@ -527,7 +534,7 @@ There are #330 articles
 
 ### POSIX
 
-[regex](./posix/regex.md)
+- [regex](./posix/regex.md)
 
 ---
 
