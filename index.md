@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #334 articles
+There are #339 articles
 
 ---
 
@@ -27,6 +27,7 @@ There are #334 articles
 + [Data Structure](#datastructures)
 + [Frontend](#frontend)
 + [Git](#git)
++ [GNU](#gnu)
 + [Graphics](#graphics)
 + [HPC](#hpc)
 + [Ideas](#ideas)
@@ -199,6 +200,15 @@ There are #334 articles
 - [Delete git submodule](./git/delete-submodule.md)
 - [Git bisect](./git/git-bisect.md)
 - [Git tag types](./git/git-tag.md)
+
+---
+
+### GNU
+
+- [dejagnu](./gnu/dejagnu.md)
+- [gperf](./gnu/gperf.md)
+- [recutils](./gnu/recutils.md)
+- [texinfo](./gnu/texinfo.md)
 
 ---
 
@@ -759,6 +769,7 @@ There are #334 articles
 
 ### Unix
 
+- [ar](./unix/ar.md)
 - [Cron](./unix/cron.md)
 - [Difference between glibc and libc6](./unix/diff-libgc-and-libc6.md)
 - [Difference between guneabi vs gnueabihf](./unix/gnueabi-vs-gnueabihf.md)

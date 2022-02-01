@@ -237,10 +237,27 @@ Url: https://cseweb.ucsd.edu/classes/wi15/cse262-a/static/Lec03-slides.pdf
 Tags: hpc
 Tags: gpu
 Tags: vectorization
-Description: GPU vectorization
+Description: GPU, vectorization
 
 Url: https://www.admin-magazine.com/mobile/HPC/Articles/Processor-Affinity-for-OpenMP-and-MPI
 Tags: hpc
 Tags: openmp
 Tags: mpi
+Description: CPU Affinity
+
+Url: https://kristerw.github.io/
+Tags: blog
+Tags: compiler
+Description: Krister Walfridsson's blog
+
+Url: http://0x80.pl/
+Tags: blog
+Tags: intrincs
+Tags: hpc
+Description: Wojciech Muła — website
+
+Url: https://nekodaemon.com/2021/02/05/Understanding-MPI-map-by-and-bind-to-option/
+Tags: hpc
+Tags: openmpi
+Description: MPI CPU Bind
 
