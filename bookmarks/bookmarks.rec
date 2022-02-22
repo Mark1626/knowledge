@@ -261,3 +261,37 @@ Tags: hpc
 Tags: openmpi
 Description: MPI CPU Bind
 
+Url: https://on-demand.gputechconf.com/gtc/2016/presentation/s6810-swapna-matwankar-optimizing-application-performance-cuda-tools.pdf
+Tags: cuda
+Tags: performance
+Description: Cuda Performance
+
+Url: https://developer.nvidia.com/blog/maximizing-unified-memory-performance-cuda/
+Tags: cuda
+Tags: performance
+Description: Unified Memory Performance
+
+Url: http://maverick.inria.fr/Members/Cyril.Crassin/
+Tags: cuda
+Tags: performance
+Description: Cyril Crassin's blog
+
+Url: https://developer.nvidia.com/blog/transitioning-nsight-systems-nvidia-visual-profiler-nvprof/
+Tags: cuda
+Tags: performance
+Description: Nvidia Tools Summary
+
+Url: https://www.nvidia.com/content/GTC-2010/pdfs/2238_GTC2010.pdf
+Tags: cuda
+Tags: performance
+Description: Better Performance at Lower Occupancy
+
+Url: https://www.glennklockwood.com/
+Tags: hpc
+Tags: blog
+Description: Glenn Lockwood's blog
+
+Url: https://developer.nvidia.com/blog/cuda-pro-tip-optimized-filtering-warp-aggregated-atomics/
+Tags: cuda
+Description: Optimized filtering warp aggregated atomics
+
