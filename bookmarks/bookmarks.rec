@@ -295,3 +295,15 @@ Url: https://developer.nvidia.com/blog/cuda-pro-tip-optimized-filtering-warp-agg
 Tags: cuda
 Description: Optimized filtering warp aggregated atomics
 
+Url: https://on-demand.gputechconf.com/gtc/2014/presentations/S4158-cuda-streams-best-practices-common-pitfalls.pdf
+Tags: cuda
+Description: Cuda Streams Pitfalls
+
+Url: https://developer.nvidia.com/blog/how-access-global-memory-efficiently-cuda-c-kernels/
+Tags: cuda
+Description: Cuda Global Memory Access
+
+Url: https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/
+Tags: cuda
+Description: Cuda Shared Memory
+
