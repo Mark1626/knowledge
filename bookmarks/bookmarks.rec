@@ -307,3 +307,13 @@ Url: https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/
 Tags: cuda
 Description: Cuda Shared Memory
 
+Url: https://thinkingeek.com/arm-assembler-raspberry-pi/
+Tags: arm
+Tags: pi
+Description: ARM assembly tutorial in Raspberry PI
+
+Url: https://developer.arm.com/documentation/ihi0042/f/
+Tags: arm
+Tags: standard
+Description: AAPCS - Arm Assembly Procedure Call Standard
+

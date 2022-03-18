@@ -91,6 +91,7 @@ There are #339 articles
 - [Pointer Registers](./assembler/asm/pointer-registers.md)
 - [Index Registers](./assembler/asm/index-registers.md)
 - [Flags / Control Registers](./assembler/asm/control-registers.md)
+- [gdb debugging](./assembler/asm/gdb.md)
 
 #### PTX
 
