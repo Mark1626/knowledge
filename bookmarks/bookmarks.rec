@@ -317,3 +317,14 @@ Tags: arm
 Tags: standard
 Description: AAPCS - Arm Assembly Procedure Call Standard
 
+Url: https://developer.nvidia.com/blog/cuda-pro-tip-increase-performance-with-vectorized-memory-access/
+Tags: cuda
+Description: Vector Memory Access
+
+Url: https://developer.nvidia.com/blog/cooperative-groups
+Tags: cuda
+Description: Coorperative Groups
+
+Url: https://docs.nvidia.com/deploy/mps/index.html
+Tags: cuda
+Description: Nvidia MPS

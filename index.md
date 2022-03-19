@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #339 articles
+There are #343 articles
 
 ---
 
@@ -239,6 +239,7 @@ There are #339 articles
 - [namespaces](./kernel/namespaces.md)
 - [sched_yield](./kernel/sched_yield.md)
 - [menuconfig](./kernel/menuconfig.md)
+- [vfs](./kernel/vfs.md)
 
 ---
 
@@ -332,6 +333,7 @@ There are #339 articles
 - [C++ Modules](./languages/cplusplus/modules.md)
 - [C++ override ostream](./languages/cplusplus/overide-ostream-cout.md)
 - [Likely Attribute](./languages/cplusplus/likely_attribute.md)
+- [Inline](./languages/cplusplus/inline.md)
 
 #### Go
 
@@ -793,6 +795,7 @@ There are #339 articles
 - [Cpu Info](./unix/cpu-info.md)
 - [SSH Disable password login](./unix/ssh-disable-password-login.md)
 - [shm](./unix/shm.md)
+- [sshfs](./unix/sshfs.md)
 
 ---
 
