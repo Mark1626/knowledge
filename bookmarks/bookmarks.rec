@@ -328,3 +328,35 @@ Description: Coorperative Groups
 Url: https://docs.nvidia.com/deploy/mps/index.html
 Tags: cuda
 Description: Nvidia MPS
+
+Url: https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+Tags: asm
+Tags: x86
+Description: x86 Assembly Guide
+
+Url: http://www.numberworld.org/
+Tags: asm
+Tags: blog
+Description: Alex Yee's website.
+
+Url: http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
+Tags: article
+Tags: linux
+Tags: kernel
+Description: Linux x86 Program Start Up
+
+Url: https://tetzank.github.io/
+Tags: asm
+Tags: blog
+Description: Frank Tetzel's blog
+
+Url: https://tetzank.github.io/posts/static-machine-code-analysis/
+Tags: blog
+Tags: asm
+Tags: performance
+Description: Static Machine Code Analysis
+
+Url: https://llvm.org/docs/CommandGuide/llvm-mca.html
+Tags: asm
+Tags: performance
+Description: LLVM Machine Code Analysis Tools

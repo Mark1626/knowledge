@@ -1,6 +1,6 @@
 # GNU Assembler (GAS)
 
-[Back](../index.md#gas){: .button}
+[Back](../../index.md#gas){: .button}
 
 > Order of calling instructions is opposite to what you would typically do 
 

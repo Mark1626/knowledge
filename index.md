@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #343 articles
+There are #346 articles
 
 ---
 
@@ -103,7 +103,8 @@ There are #343 articles
 
 #### GAS
 
-- [NASM](./assembler/gnu-asm.md)
+- [GNU Assembler](./assembler/gas/gnu-asm.md)
+- [asciz vs string](./assembler/gas/asciz-vs-string.md)
 
 ### Crypto
 
@@ -291,6 +292,8 @@ There are #343 articles
 - [Struct Packing](./languages/c-compiler/struct-packing.md)
 - [Inline ASM](./languages/c-compiler/inline-asm.md)
 - [Offloading PTX](./languages/c-compiler/offloading-ptx.md)
+- [AVX](./languages/c-compiler/avx.md)
+- [POD](./languages/c-compiler/pod.md)
 
 ##### Clang
 
