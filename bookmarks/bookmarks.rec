@@ -360,3 +360,18 @@ Url: https://llvm.org/docs/CommandGuide/llvm-mca.html
 Tags: asm
 Tags: performance
 Description: LLVM Machine Code Analysis Tools
+
+Url: https://legacy.netdevconf.info/2.1/papers/netdev.pdf
+Tags: paper
+Tags: kernel
+Description: sendmsg copy avoidance with MSG_ZEROCOPY
+
+Url: https://lwn.net/Articles/726917/
+Tags: kernel
+Description: Zero copy networking
+
+Url: https://www.sandpile.org/index.htm
+Tags: x86
+Tags: reference
+Description: x86 reference
+
