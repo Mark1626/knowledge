@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #346 articles
+There are #347 articles
 
 ---
 
@@ -351,6 +351,7 @@ There are #346 articles
 - [OpenMP](./languages/hpc/openmp.md)
 - [ASIC](./languages/hpc/asic.md)
 - [FPGA](./languages/hpc/fpga.md)
+- [Cuda](./languages/hpc/cuda.md)
 
 #### Ideas
 
