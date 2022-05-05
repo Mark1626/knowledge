@@ -375,3 +375,19 @@ Tags: x86
 Tags: reference
 Description: x86 reference
 
+Url: https://graphics.stanford.edu/~seander/bithacks.html
+Tags: asm
+Tags: bitwise
+Description: Bitwise tricks
+
+Url: https://www.agner.org/optimize/#manuals
+Tags: asm
+Tags: performance
+Tags: x86
+Description: Software optimization resources
+
+Url: https://www.agner.org/forum/
+Tags: blog
+Tags: performance
+Tags: x86
+Description: Agner's CPU blog
