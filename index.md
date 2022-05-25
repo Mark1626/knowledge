@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #347 articles
+There are #348 articles
 
 ---
 
@@ -266,6 +266,7 @@ There are #347 articles
 - [BLAS](./languages/generic/blas.md)
 - [ABI](./languages/generic/abi.md)
 - [Alias Analysis](./languages/generic/alias-analysis.md)
+- [Bitwise Tricks](./languages/generic/bitwise-tricks.md)
 
 #### C/CPP Compilers {#c-cpp-compilers}
 

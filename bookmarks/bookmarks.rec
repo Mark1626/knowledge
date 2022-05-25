@@ -391,13 +391,19 @@ Tags: blog
 Tags: performance
 Tags: x86
 Description: Agner's CPU blog
+
 Url: https://www.officedaytime.com/simd512e/
 Tags: x86
 Tags: intrinsic
 Description: instrinsic reference
 
-https://www.felixcloutier.com/x86/
+Url: https://www.felixcloutier.com/x86/
 Tags: x86
 Tags: reference
 Description: x86 reference
+
+Url: http://www.bnikolic.co.uk/blog/linux-ld-debug.html
+Tags: debug
+Tags: linux
+Description: LD_DEBUG
 
