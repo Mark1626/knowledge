@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #348 articles
+There are #349 articles
 
 ---
 
@@ -302,6 +302,7 @@ There are #348 articles
 - [Clang specific flags](./languages/c-compiler/clang/clang-specific-flags.md)
 - [clangd compile options](./languages/c-compiler/clang/clangd-compile-options.md)
 - [Range constraint of Multiplication and Division](./languages/c-compiler/clang/muldiv-range-constraint.md)
+- [Clang time trace](./languages/c-compiler/clang/time-trace.md)
 
 ##### LLVM
 

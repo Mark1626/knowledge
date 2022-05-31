@@ -407,3 +407,14 @@ Tags: debug
 Tags: linux
 Description: LD_DEBUG
 
+Url: https://www.inwap.com/pdp10/hbaker/hakmem/
+Tags: memo
+Tags: reference
+Description: 1972 Hacker's Memo
+Quote: Beeler, M., Gosper, R.W., and Schroeppel, R. HAKMEM. MIT AI Memo 239, Feb. 29, 1972
+
+Url: https://therealmjp.github.io/posts/
+Tags: blog
+Tags: gpu
+Description: MJP's blog
+
