@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #349 articles
+There are #351 articles
 
 ---
 
@@ -150,6 +150,7 @@ There are #349 articles
 - [Segment Tree](./ds/segment-tree.md)
 
 ---
+
 ### Design
 
 - [Covariance and Contravariance](./design/covariance-and-contravariance.md)
@@ -157,10 +158,9 @@ There are #349 articles
 
 ---
 
-### Math Research
+### FPGA
 
-- [Heighway Dragon](./math-research/heighway-dragon.md)
-- [Fibonnaci Matrix Difference Equation](./math-research/fibonnaci-matrix-difference-equations.md)
+- [Getting started](./fpga/fpga.md)
 
 ---
 
@@ -411,6 +411,13 @@ There are #349 articles
 
 ---
 
+### Math Research
+
+- [Heighway Dragon](./math-research/heighway-dragon.md)
+- [Fibonnaci Matrix Difference Equation](./math-research/fibonnaci-matrix-difference-equations.md)
+
+---
+
 ### Network
 
 - [Gopher Protocol](./network/gopher.md)
@@ -624,10 +631,11 @@ There are #349 articles
 
 ### SIMD
 
-#### Intel
+#### x86
 
-- [SSE Learning Resources and Blogs](./simd/intel/learning-resources-blogs.md)
-- [SSE2](./simd/intel/sse2.md)
+- [AVX Cmp](./simd/x86/avx-cmp.md)
+- [SSE Learning Resources and Blogs](./simd/x86/learning-resources-blogs.md)
+- [SSE2](./simd/x86/sse2.md)
 
 ---
 
