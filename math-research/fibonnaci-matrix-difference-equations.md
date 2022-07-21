@@ -2,11 +2,6 @@
 
 [Back](../../index.md){: .button}
 
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-
 An nth order fibonnaci series can be defined as
 
 ```
