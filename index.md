@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #351 articles
+There are #353 articles
 
 ---
 
@@ -400,6 +400,7 @@ There are #351 articles
 - [Make reading shell output](./buildtools/makefile/make-shell.md)
 - [Make string functions](./buildtools/makefile/make-string-functions.md)
 - [Echoing commands](./buildtools/makefile/makefile-echo.md)
+- [Include other makefile](./buildtools/makefile/make-include.md)
 
 #### CMake {#cmake}
 
@@ -810,6 +811,7 @@ There are #351 articles
 - [SSH Disable password login](./unix/ssh-disable-password-login.md)
 - [shm](./unix/shm.md)
 - [sshfs](./unix/sshfs.md)
+- [Energy Consumption](./unix/energy-consumption.md)
 
 ---
 

@@ -424,3 +424,8 @@ Tags: c99
 Tags: c
 Description: zpl
 
+Url: https://sourceware.org/glibc/wiki/MallocInternals
+Tags: malloc
+Tags: libc
+Description: Malloc internals
+

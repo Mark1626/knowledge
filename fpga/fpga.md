@@ -20,6 +20,13 @@ Tiny FPGA https://tinyfpga.com/
 
 Open Source Verilog compiler https://github.com/steveicarus/iverilog
 
+**Tutorials:**
+
+1. http://asic-world.com/verilog/veritut.html
+2. https://nandland.com/introduction-to-verilog-for-beginners-with-code-examples/
+3. https://www.fpga4fun.com/
+4. https://zipcpu.com/tutorial/
+
 ### Vitis
 
 https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html
