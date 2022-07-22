@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #353 articles
+There are #356 articles
 
 ---
 
@@ -158,9 +158,16 @@ There are #353 articles
 
 ---
 
+### DSP
+
+- [Random Signals](./dsp/random-signal.md)
+
+---
+
 ### FPGA
 
 - [Getting started](./fpga/fpga.md)
+- [Verilog](./fpga/verilog.md)
 
 ---
 
@@ -632,11 +639,16 @@ There are #353 articles
 
 ### SIMD
 
+- [Intrinsics reference](./simd/reference.md)
+- [Intrinsics Learning Resources and Blogs](./simd/learning-resources-blogs.md)
+
 #### x86
 
 - [AVX Cmp](./simd/x86/avx-cmp.md)
-- [SSE Learning Resources and Blogs](./simd/x86/learning-resources-blogs.md)
 - [SSE2](./simd/x86/sse2.md)
+
+#### Neon
+
 
 ---
 
