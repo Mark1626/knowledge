@@ -429,3 +429,8 @@ Tags: malloc
 Tags: libc
 Description: Malloc internals
 
+Url: https://people.eecs.berkeley.edu/~wkahan/
+Tags: blog
+Tags: float
+Description: William Kahan's blog
+

@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #356 articles
+There are #364 articles
 
 ---
 
@@ -106,6 +106,12 @@ There are #356 articles
 - [GNU Assembler](./assembler/gas/gnu-asm.md)
 - [asciz vs string](./assembler/gas/asciz-vs-string.md)
 
+#### ARM
+
+- [ARM Thumb](./assembler/arm/thumb.md)
+
+---
+
 ### Crypto
 
 - [Constant time cryptography](./crypto/constant-time.md)
@@ -151,6 +157,15 @@ There are #356 articles
 
 ---
 
+### Digital Design
+
+#### Bus
+
+- [AXI](./digital-design/bus/axi.md)
+- [Wishbone](./digital-design/bus/wishbone.md)
+
+---
+
 ### Design
 
 - [Covariance and Contravariance](./design/covariance-and-contravariance.md)
@@ -168,6 +183,7 @@ There are #356 articles
 
 - [Getting started](./fpga/fpga.md)
 - [Verilog](./fpga/verilog.md)
+- [HLS](./fpga/hsl.md)
 
 ---
 
@@ -302,6 +318,7 @@ There are #356 articles
 - [Offloading PTX](./languages/c-compiler/offloading-ptx.md)
 - [AVX](./languages/c-compiler/avx.md)
 - [POD](./languages/c-compiler/pod.md)
+- [C Compiler fast math](./languages/c-compiler/fast-math.md)
 
 ##### Clang
 
@@ -361,6 +378,9 @@ There are #356 articles
 - [ASIC](./languages/hpc/asic.md)
 - [FPGA](./languages/hpc/fpga.md)
 - [Cuda](./languages/hpc/cuda.md)
+- [Optimizing x86 code](./languages/hpc/optimizing-x86.md)
+- [LLVM MCA](./languages/hpc/machine-code-analysis.md)
+- [MPI Bindings](./languages/hpc/mpi-bindings.md)
 
 #### Ideas
 
