@@ -434,3 +434,8 @@ Tags: blog
 Tags: float
 Description: William Kahan's blog
 
+Url: https://gcc.gnu.org/onlinedocs/libquadmath/
+Tags: gcc
+Tags: float
+Description: Lib quad math
+
