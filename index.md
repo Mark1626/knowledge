@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #364 articles
+There are #367 articles
 
 ---
 
@@ -92,6 +92,8 @@ There are #364 articles
 - [Index Registers](./assembler/asm/index-registers.md)
 - [Flags / Control Registers](./assembler/asm/control-registers.md)
 - [gdb debugging](./assembler/asm/gdb.md)
+- [Interrupt](./assembler/asm/interrupt.md)
+- [Interrupt Vector Table](./assembler/asm/interrupt-vector-table.md)
 
 #### PTX
 
@@ -844,6 +846,7 @@ There are #364 articles
 - [shm](./unix/shm.md)
 - [sshfs](./unix/sshfs.md)
 - [Energy Consumption](./unix/energy-consumption.md)
+- [Protection rings](./unix/protection-ring.md)
 
 ---
 
