@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #367 articles
+There are #368 articles
 
 ---
 
@@ -847,6 +847,7 @@ There are #367 articles
 - [sshfs](./unix/sshfs.md)
 - [Energy Consumption](./unix/energy-consumption.md)
 - [Protection rings](./unix/protection-ring.md)
+- [List devices](./unix/list-devices.md)
 
 ---
 
