@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #368 articles
+There are #369 articles
 
 ---
 
@@ -471,6 +471,7 @@ There are #368 articles
 - [Reading FITS Header cfitsio](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.a%20Reading%20FITS%20Header%20cfitsio.ipynb)
 - [Reading FITS Header astropy](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.b%20Reading%20FITS%20Header%20-%20Astropy.ipynb)
 - [WCS](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.2.a%20WCS.ipynb)
+- [Understanding Random Forest](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20Random%20Forest%20Classification.ipynb)
 
 ---
 

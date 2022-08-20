@@ -410,8 +410,7 @@ Description: LD_DEBUG
 Url: https://www.inwap.com/pdp10/hbaker/hakmem/
 Tags: memo
 Tags: reference
-Description: 1972 Hacker's Memo
-Quote: Beeler, M., Gosper, R.W., and Schroeppel, R. HAKMEM. MIT AI Memo 239, Feb. 29, 1972
+Description: 1972 Hacker's Memo Quote: Beeler, M., Gosper, R.W., and Schroeppel, R. HAKMEM. MIT AI Memo 239, Feb. 29, 1972
 
 Url: https://therealmjp.github.io/posts/
 Tags: blog
@@ -429,13 +428,14 @@ Tags: malloc
 Tags: libc
 Description: Malloc internals
 
-Url: https://people.eecs.berkeley.edu/~wkahan/
-Tags: blog
-Tags: float
-Description: William Kahan's blog
-
 Url: https://gcc.gnu.org/onlinedocs/libquadmath/
 Tags: gcc
 Tags: float
 Description: Lib quad math
+
+Url: https://www.1024cores.net/home/parallel-computing/cache-oblivious-algorithms
+Tags: cache
+Tags: performance
+Tags: parallel
+Description: Cache Oblivious Algorithms
 
