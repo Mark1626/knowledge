@@ -439,3 +439,11 @@ Tags: performance
 Tags: parallel
 Description: Cache Oblivious Algorithms
 
+Url: https://distill.pub/2021/gnn-intro/
+Tags: ml
+Description: Graph Neural Network
+
+Url: https://gcc.gnu.org/onlinedocs/gcc/Spec-Files.html
+Tags: gcc
+Description: GCC Spec files
+
