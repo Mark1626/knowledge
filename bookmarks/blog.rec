@@ -20,3 +20,21 @@ Url: https://gvanrossum.github.io/
 Tags: blog
 Tags: python
 Description: Guido van Rossum's blog
+
+Url: http://fpgalanguages.com/
+Tags: blog
+Tags: fpga
+Tags: hardware
+Description: David Stanford's blog
+
+Url: https://nanxiao.me/en/
+Desc: Nan Xiao's Blog
+Tags: blog
+Tags: perf
+Tags: performance
+
+Url: https://www.brendangregg.com/
+Description: Brendangregg's blog
+Tags: blog
+Tags: perf
+Tags: performance
