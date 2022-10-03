@@ -5,3 +5,18 @@ Tags: scheme
 Tags: compiler
 Tags: lisp
 
+Url: https://arxiv.org/pdf/1502.01237.pdf
+Title: Running Identical Threads in C-Slow Retiming based Designs for Functional Failure Detection
+Tags: fpga
+
+Url: https://dl.acm.org/doi/10.1145/968280.968312
+Title: Time and area efficient pattern matching on FPGAs
+Tags: fpga
+
+Url: https://www.semanticscholar.org/paper/Simple-Symmetric-Multithreading-in-Xilinx-FPGAs-Markovskiy-Patel/45ff7965e849addf3781aabc41974913a3355fa6
+Title: Simple Symmetric Multithreading in Xilinx FPGAs
+Tags: fpga
+
+Url: https://www.semanticscholar.org/paper/Dynamic-C-Slow-Pipelining-for-HLS-Cheng-Wickerson/8a3fc0b2adbee448761be28a25e8c22eb1c43a49
+Title: Dynamic C-Slow Pipelining for HLS
+Tags: fpga
