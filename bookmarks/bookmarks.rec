@@ -447,3 +447,7 @@ Url: https://gcc.gnu.org/onlinedocs/gcc/Spec-Files.html
 Tags: gcc
 Description: GCC Spec files
 
+Url: https://www.hdfgroup.org/wp-content/uploads/2020/10/GPU_Direct_IO_with_HDF5-_John_Ravi.pdf
+Tags: gpu
+Description: GPU Direct on HDF5
+
