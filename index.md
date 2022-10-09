@@ -321,6 +321,7 @@ There are #369 articles
 - [AVX](./languages/c-compiler/avx.md)
 - [POD](./languages/c-compiler/pod.md)
 - [C Compiler fast math](./languages/c-compiler/fast-math.md)
+- [C Compiler FORTIFY\_SOURCE](./languages-c-compiler/fortify-source.md)
 
 ##### Clang
 
