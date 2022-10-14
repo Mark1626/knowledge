@@ -22,6 +22,7 @@ There are #378 articles
 + [Crypto](#crypto)
 + [Code Art](#codeart)
 + [Computer Architecture](#cparch)
++ [Computer Science Research](#csres)
 + [Containers](#containers)
 + [Data](#data)
 + [Data Structure](#datastructures)
@@ -139,6 +140,12 @@ There are #378 articles
 
 ---
 
+### Computer Science Research {#csres}
+
+- [Sorting Networks](./cs-research/sorting-networks.md)
+
+---
+
 ### Containers
 
 - [Using perf within containers](./containers/perf-within-container.md)
@@ -178,6 +185,7 @@ There are #378 articles
 ### DSP
 
 - [Random Signals](./dsp/random-signal.md)
+- [Filters](./dsp/filters.md)
 
 ---
 

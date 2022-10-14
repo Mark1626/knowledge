@@ -451,3 +451,7 @@ Url: https://www.hdfgroup.org/wp-content/uploads/2020/10/GPU_Direct_IO_with_HDF5
 Tags: gpu
 Description: GPU Direct on HDF5
 
+Url: https://kristerw.blogspot.com/2017/04/building-gcc-with-support-for-nvidia.html
+Tags: gpu
+Description: Building GCC with offload support
+
