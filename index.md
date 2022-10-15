@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #369 articles
+There are #378 articles
 
 ---
 
@@ -322,6 +322,9 @@ There are #369 articles
 - [POD](./languages/c-compiler/pod.md)
 - [C Compiler fast math](./languages/c-compiler/fast-math.md)
 - [C Compiler FORTIFY\_SOURCE](./languages-c-compiler/fortify-source.md)
+- [Cost of integer division](./languages/c-compiler/integer-division.md)
+- [FFTW libraries](./languages/c-compiler/fftw-libraries.md)
+- [Offloading](./languages/c-compiler/offloading.md)
 
 ##### Clang
 
@@ -367,6 +370,10 @@ There are #369 articles
 - [Likely Attribute](./languages/cplusplus/likely_attribute.md)
 - [Inline](./languages/cplusplus/inline.md)
 
+#### Fortran
+
+- [GPU Fortran](./languages/fortran/gpu-fortran.md)
+
 #### Go
 
 - [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
@@ -384,6 +391,8 @@ There are #369 articles
 - [Optimizing x86 code](./languages/hpc/optimizing-x86.md)
 - [LLVM MCA](./languages/hpc/machine-code-analysis.md)
 - [MPI Bindings](./languages/hpc/mpi-bindings.md)
+- [CUDA Direct](./languages/hpc/cuda-direct.md)
+- [Thrust](./languages/hpc/thrust.md)
 
 #### Ideas
 
@@ -670,6 +679,7 @@ There are #369 articles
 
 - [AVX Cmp](./simd/x86/avx-cmp.md)
 - [SSE2](./simd/x86/sse2.md)
+- [AVX512](./simd/x86/avx512.md)
 
 #### Neon
 
@@ -850,6 +860,7 @@ There are #369 articles
 - [Energy Consumption](./unix/energy-consumption.md)
 - [Protection rings](./unix/protection-ring.md)
 - [List devices](./unix/list-devices.md)
+- [Reading Serial Port](./unix/reading-serial.md)
 
 ---
 
