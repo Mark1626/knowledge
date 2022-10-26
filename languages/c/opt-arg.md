@@ -66,13 +66,23 @@ int main(int argc, char** argv) {
   int c;
   while ((c = getopt_long(argc, argv, "n:v", long_option, &option_index)) != -1) {
     switch (c) {
+      case 0: break; // Scenario of argument without parameter
       case 'n':
         name = optarg;
         break;
-   }
-   
+      case '?': // getopt error 
+      default:
+        print_help();
+        return 1;
+    }
+  }
 
   if (verbose_flag) printf("Printing name");
+
+  if (optind < argc) { // Note: optind is used here
+    printf("No args\n");
+    return 1;
+  }
 
   printf("Hello %s\n", name);
 

@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #378 articles
+There are #383 articles
 
 ---
 
@@ -291,6 +291,8 @@ There are #378 articles
 - [Bash convert to upper case](./languages/bash/bash-uppercase.md)
 - [Bash check platform](./languages/bash/bash-check-platform.md)
 - [Bash declare](./languages/bash/bash-declare.md)
+- [Bash array](./languages/bash/bash-array.md)
+- [Bash for loop](./languages/bash/bash-forloop.md)
 
 #### Common
 
@@ -333,6 +335,7 @@ There are #378 articles
 - [Cost of integer division](./languages/c-compiler/integer-division.md)
 - [FFTW libraries](./languages/c-compiler/fftw-libraries.md)
 - [Offloading](./languages/c-compiler/offloading.md)
+- [CPP Dialect](./languages/c-compiler/cpp-dialect.md)
 
 ##### Clang
 
