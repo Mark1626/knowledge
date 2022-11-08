@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #383 articles
+There are #384 articles
 
 ---
 
@@ -407,10 +407,6 @@ There are #383 articles
 - [CUDA Direct](./languages/hpc/cuda-direct.md)
 - [Thrust](./languages/hpc/thrust.md)
 
-#### Ideas
-
-- [t-digest sqlite](./ideas/sqlite-tdigest.md)
-
 #### Perl
 
 - [Read line by line](./languages/perl/read-line-by-line.md)
@@ -704,6 +700,8 @@ There are #383 articles
 - [Execute Single Query In Sqlite Cli](./sqlite/sqlite-cli-command.md)
 - [Change default separator](./sqlite/change-default-separator.md)
 - [Output Queries to File](./sqlite/output-queries-to-file.md)
+- [sqlite import csv](.sqlite/sqlite-import-csv.md)
+- [Run script on sqlite DB](.sqlite/sqlite-script.md)
 
 ---
 
