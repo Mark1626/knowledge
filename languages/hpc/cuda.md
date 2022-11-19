@@ -28,6 +28,18 @@
 
 [Coorperative Groups](https://developer.nvidia.com/blog/cooperative-groups/)
 
+## Reductions
+
+[Faster parallel reductions in kepler](https://developer.nvidia.com/blog/faster-parallel-reductions-kepler/)
+
+## Warp Instrinsics
+
+[Warp Shuffle and Warp Vote Instrinsics](https://tschmidt23.github.io/cse599i/CSE%20599%20I%20Accelerated%20Computing%20-%20Programming%20GPUs%20Lecture%2018.pdf)
+
+## CUB
+
+[Reusable primitives](https://nvlabs.github.io/cub/)
+
 ## Cuda Streams
 
 By default all cuda kernels use stream 0.

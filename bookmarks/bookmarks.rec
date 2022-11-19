@@ -459,3 +459,13 @@ Url: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/ht
 Tags: perf
 Description: Monitoring and Managing System Status and Performance
 
+Url: https://enccs.github.io/openmp-gpu/introduction/
+Tags: gpu
+Tags: offloading
+Description: OpenMP Offloading Introduction
+
+Url: https://tschmidt23.github.io/cse599i/CSE%20599%20I%20Accelerated%20Computing%20-%20Programming%20GPUs%20Lecture%2018.pdf
+Tags: gpu
+Tags: cuda
+Description: Warp Shuffle and Warp Vote Instructions
+
