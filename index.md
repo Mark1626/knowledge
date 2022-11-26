@@ -194,6 +194,8 @@ There are #383 articles
 - [Getting started](./fpga/fpga.md)
 - [Verilog](./fpga/verilog.md)
 - [HLS](./fpga/hsl.md)
+- [AXI Stream](./fpga/axi-stream.md)
+- [LUT](./fpga/lut.md)
 
 ---
 
