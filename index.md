@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #384 articles
+There are #389 articles
 
 ---
 
@@ -29,6 +29,7 @@ There are #384 articles
 + [Frontend](#frontend)
 + [Git](#git)
 + [GNU](#gnu)
++ [GNU Plot](#gnuplot)
 + [Graphics](#graphics)
 + [HPC](#hpc)
 + [Ideas](#ideas)
@@ -246,6 +247,13 @@ There are #384 articles
 - [gperf](./gnu/gperf.md)
 - [recutils](./gnu/recutils.md)
 - [texinfo](./gnu/texinfo.md)
+
+---
+
+### GNUPlot
+
+- [gnuplot color theme](./gnuplot/color-theme.md)
+- [gnuplot output terminals](./gnuplot/terminal.md)
 
 ---
 
@@ -491,6 +499,7 @@ There are #384 articles
 - [Reading FITS Header astropy](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.1.b%20Reading%20FITS%20Header%20-%20Astropy.ipynb)
 - [WCS](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.2.a%20WCS.ipynb)
 - [Understanding Random Forest](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20Random%20Forest%20Classification.ipynb)
+- [Power Spectral Density](https://github.com/Mark1626/knowledge/blob/master/notebooks/Power%20Spectral%20Density.ipynb)
 
 ---
 
