@@ -32,3 +32,9 @@ Url: https://www.youtube.com/watch?v=kPR8h4-qZdk
 Description: std::string at Facebook
 Tags: compiler
 Tags: optimization
+
+Url: https://www.mersenneforum.org/showthread.php?p=614191
+Description: AMD Zen4 AVX512
+Tags: simd
+Tags: optimization
+
