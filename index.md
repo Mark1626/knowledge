@@ -359,6 +359,7 @@ There are #389 articles
 
 - [LLVM passes](./languages/llvm/llvm-passes.md)
 - [LLVM tools](./languages/llvm/llvm-tools.md)
+- [LLVM IR](./languages/llvm/llvm-ir.md)
 
 ##### GCC
 

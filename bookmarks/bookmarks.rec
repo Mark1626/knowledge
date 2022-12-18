@@ -469,3 +469,23 @@ Tags: gpu
 Tags: cuda
 Description: Warp Shuffle and Warp Vote Instructions
 
+Url: https://www.stroustrup.com/bs_faq2.html
+Tags: c++
+Description: Bjarne Stroustrup's C++ Style and Technique FAQ
+
+Url: https://www.nersc.gov/assets/Uploads/Tutorial-ISC2019-Intro-v2.pdf
+Tags: cs
+Tags: performance
+Description: Introduction to roofline model
+
+Url: https://crd.lbl.gov/assets/Uploads/ECP20-Roofline-1-intro.pdf
+Tags: cs
+Tags: performance
+Description: Roofline model
+
+Url: https://wgropp.cs.illinois.edu/courses/cs598-s16/lectures/lecture32.pdf
+Tags: cs
+Tags: mpi
+Tags: io
+Description: Independent I/O with MPI-IO
+
