@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #389 articles
+There are #392 articles
 
 ---
 
@@ -240,6 +240,7 @@ There are #389 articles
 - [Delete git submodule](./git/delete-submodule.md)
 - [Git bisect](./git/git-bisect.md)
 - [Git tag types](./git/git-tag.md)
+- [Git submodule Update](./git/submodule-update.md)
 
 ---
 
