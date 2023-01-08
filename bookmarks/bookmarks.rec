@@ -252,7 +252,7 @@ Description: Krister Walfridsson's blog
 
 Url: http://0x80.pl/
 Tags: blog
-Tags: intrincs
+Tags: intrinsics
 Tags: hpc
 Description: Wojciech Muła — website
 
@@ -488,4 +488,11 @@ Tags: cs
 Tags: mpi
 Tags: io
 Description: Independent I/O with MPI-IO
+
+Url: https://www.fpga4fun.com/PCI-Express1.html
+Tags: pcie
+Tags: fpga
+Tags: design
+Tags: hardware
+Description: PCI-Express
 
