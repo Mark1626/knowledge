@@ -883,6 +883,7 @@ There are #389 articles
 - [Protection rings](./unix/protection-ring.md)
 - [List devices](./unix/list-devices.md)
 - [Reading Serial Port](./unix/reading-serial.md)
+- [Ghost Script](./unix/gs.md)
 
 ---
 
