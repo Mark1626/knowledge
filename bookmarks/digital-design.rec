@@ -3,3 +3,16 @@ Tags: fpga
 Tags: digital-design
 Description: C slowing
 
+Url: https://www.youtube.com/watch?v=8bw80LiCl7g
+Tags: pcb-design
+Description: FPGA + PCIe Hardware Accelerator Design
+
+Url: https://www.xilinx.com/video/fpga/7-series-memory-controllers.html
+Tags: fpga
+Tags: memory
+Description: 7-Series Memory Controller
+
+Url: https://www.xilinx.com/video/fpga/7-series-slice-flip-flops.html
+Tags: fpga
+Tags: luts
+Description: 7-Series Slice Flip Flops

@@ -198,6 +198,7 @@ There are #389 articles
 - [AXI Stream](./fpga/axi-stream.md)
 - [LUT](./fpga/lut.md)
 - [PCI-Express](./fpga/pcie.md)
+- [DDR](./fpga/dram.md)
 
 ---
 
