@@ -16,3 +16,9 @@ Url: https://www.xilinx.com/video/fpga/7-series-slice-flip-flops.html
 Tags: fpga
 Tags: luts
 Description: 7-Series Slice Flip Flops
+
+Url: https://zipcpu.com/blog/2019/07/17/crossbar.html
+Tags: fpga
+Tags: wishbone
+Description: Lessons learned while building crossbar interconnects
+
