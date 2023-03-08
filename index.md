@@ -584,6 +584,7 @@ There are #389 articles
 #### Linear Algebra
 
 - [Normal Equations](./math/linear-algebra/normal-equations.md)
+- [Einstein Notation](./math/linear-algebra/einsum.md)
 
 #### Number Theory
 
