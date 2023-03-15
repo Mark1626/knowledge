@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #392 articles
+There are #398 articles
 
 ---
 
@@ -257,6 +257,7 @@ There are #392 articles
 
 - [gnuplot color theme](./gnuplot/color-theme.md)
 - [gnuplot output terminals](./gnuplot/terminal.md)
+- [gnuplot fitting](./gnuplot/fit.md)
 
 ---
 
@@ -504,6 +505,7 @@ There are #392 articles
 - [WCS](https://github.com/Mark1626/knowledge/blob/master/notebooks/1.2.a%20WCS.ipynb)
 - [Understanding Random Forest](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20Random%20Forest%20Classification.ipynb)
 - [Power Spectral Density](https://github.com/Mark1626/knowledge/blob/master/notebooks/Power%20Spectral%20Density.ipynb)
+- [R2C FFT, C2C FFT, IFFT through FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/R2C%20FFT%2C%20C2C%20FFT%2C%20IFFT%20through%20FFT.ipynb)
 
 ---
 
