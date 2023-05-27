@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #398 articles
+There are #404 articles
 
 ---
 
@@ -36,6 +36,7 @@ There are #398 articles
 + [IRC](#irc)
 + [Kernel](#kernel)
 + [Languages](#languages)
++ [LLM](#llm)
 + [Math](#math)
 + [Network](#network)
 + [Notebooks](#notebooks)
@@ -144,6 +145,7 @@ There are #398 articles
 ### Computer Science Research {#csres}
 
 - [Sorting Networks](./cs-research/sorting-networks.md)
+- [Vectorizing Complex Multiplication](./cs-research/vectorisation.md)
 
 ---
 
@@ -157,6 +159,7 @@ There are #398 articles
 ### Data
 
 - [k means](./data/k-means.md)
+- [Quantization](./data/quantization.md)
 
 ---
 
@@ -450,6 +453,14 @@ There are #398 articles
 
 ---
 
+### LLM
+
+- [Embedding](./llm/embedding.md)
+- [Vector Stores](./llm/vector_store.md)
+- [LLM](./llm/llm.md)
+
+---
+
 ### Build tools {#build-tools}
 
 #### Makefile {#makefile}
@@ -613,6 +624,8 @@ There are #398 articles
 #### Statistics
 
 - [Kuiper Test](./math/statistics/kuiper.md)
+- [Chi-squared test](./math/statistics/chi-squared-test.md)
+- [Kullback Leibler Divergence](./math/statistics/kullback-leibler-divergence.md)
 
 ---
 
