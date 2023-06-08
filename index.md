@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #404 articles
+There are #407 articles
 
 ---
 
@@ -26,6 +26,8 @@ There are #404 articles
 + [Containers](#containers)
 + [Data](#data)
 + [Data Structure](#datastructures)
++ [Digital Design](#digital-design)
++ [DSP](#dsp)
 + [Frontend](#frontend)
 + [Git](#git)
 + [GNU](#gnu)
@@ -176,6 +178,16 @@ There are #404 articles
 
 - [AXI](./digital-design/bus/axi.md)
 - [Wishbone](./digital-design/bus/wishbone.md)
+- [Getting started](./digital-design/fpga.md)
+- [Verilog](./digital-design/verilog.md)
+- [HLS](./digital-design/hsl.md)
+- [AXI Stream](./digital-design/axi-stream.md)
+- [LUT](./digital-design/lut.md)
+- [PCI-Express](./digital-design/pcie.md)
+- [DDR](./digital-design/dram.md)
+- [JTAG](./digital-design/jtag.md)
+- [Litex](./digital-design/litex.md)
+- [OpenOCD](./digital-design/openocd.md)
 
 ---
 
@@ -190,18 +202,6 @@ There are #404 articles
 
 - [Random Signals](./dsp/random-signal.md)
 - [Filters](./dsp/filters.md)
-
----
-
-### FPGA
-
-- [Getting started](./fpga/fpga.md)
-- [Verilog](./fpga/verilog.md)
-- [HLS](./fpga/hsl.md)
-- [AXI Stream](./fpga/axi-stream.md)
-- [LUT](./fpga/lut.md)
-- [PCI-Express](./fpga/pcie.md)
-- [DDR](./fpga/dram.md)
 
 ---
 
