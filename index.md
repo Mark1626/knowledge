@@ -162,6 +162,7 @@ There are #407 articles
 
 - [k means](./data/k-means.md)
 - [Quantization](./data/quantization.md)
+- [CNN](./data/cnn.md)
 
 ---
 
@@ -428,6 +429,10 @@ There are #407 articles
 - [Read line by line](./languages/perl/read-line-by-line.md)
 - [Perl run modes](./languages/perl/perlrun-modes.md)
 
+#### Python
+
+- [Closing plots in matplotlib](.languages/py/matplotlib-closing-figure.md )
+
 #### Tex
 
 - [MathJax](./languages/tex/mathjax.md)
@@ -458,6 +463,8 @@ There are #407 articles
 - [Embedding](./llm/embedding.md)
 - [Vector Stores](./llm/vector_store.md)
 - [LLM](./llm/llm.md)
+- [LLM Glue Benchmark](./llm/glue_benchmark.md)
+- [LLM for TDD](llm/llm-for-tdd.md)
 
 ---
 
@@ -846,9 +853,13 @@ There are #407 articles
 
 - [seq](./tools/seq.md)
 
-### snap
+#### snap
 
 - [snap](./tools/snap.md)
+
+#### tar
+
+- [tar](./tools/tar.md)
 
 #### tmux
 
