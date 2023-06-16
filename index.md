@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #407 articles
+There are #419 articles
 
 ---
 
@@ -86,6 +86,7 @@ There are #407 articles
 - [TaQL](./astro/taql.md)
 - [ephemerides](./astro/ephemerides.md)
 - [Astronomical unit](./astro/au.md)
+- [Fanaroff Riley Classification](./astro/FR.md)
 
 ---
 
@@ -163,6 +164,7 @@ There are #407 articles
 - [k means](./data/k-means.md)
 - [Quantization](./data/quantization.md)
 - [CNN](./data/cnn.md)
+- [RNN](./data/rnn.md)
 
 ---
 
@@ -189,6 +191,11 @@ There are #407 articles
 - [JTAG](./digital-design/jtag.md)
 - [Litex](./digital-design/litex.md)
 - [OpenOCD](./digital-design/openocd.md)
+- [Memory Controller](./digital-design/memory-controller.md)
+- [NoC](./digital-design/noc.md)
+- [GTKWave](./digital-design/gtkwave.md)
+- [Open Hardware](./digital-design/open-hardware.md)
+- [OpenOCD Chipyard](./digital-design/openocd-chipyard.md)
 
 ---
 
