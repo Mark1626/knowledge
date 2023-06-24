@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #419 articles
+There are #424 articles
 
 ---
 
@@ -196,6 +196,11 @@ There are #419 articles
 - [GTKWave](./digital-design/gtkwave.md)
 - [Open Hardware](./digital-design/open-hardware.md)
 - [OpenOCD Chipyard](./digital-design/openocd-chipyard.md)
+- [Decoupling](./digital-design/decoupling.md)
+- [Differential Signalling](./digital-design/differential-signalling.md)
+- [KiCad](./digital-design/kicad.md)
+- [Power On Reset](./digital-design/power-on-reset.md)
+- [Sync and Async Reset](./digital-design/sync-async-reset.md)
 
 ---
 
