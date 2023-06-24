@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #424 articles
+There are #426 articles
 
 ---
 
@@ -201,6 +201,8 @@ There are #424 articles
 - [KiCad](./digital-design/kicad.md)
 - [Power On Reset](./digital-design/power-on-reset.md)
 - [Sync and Async Reset](./digital-design/sync-async-reset.md)
+- [DDR](./digital-design/ddr.md)
+- [Bambu HLS](./digital-design/bambu-hls.md)
 
 ---
 
