@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #426 articles
+There are #427 articles
 
 ---
 
@@ -538,6 +538,7 @@ There are #426 articles
 - [Understanding Random Forest](https://github.com/Mark1626/knowledge/blob/master/notebooks/Understanding%20Random%20Forest%20Classification.ipynb)
 - [Power Spectral Density](https://github.com/Mark1626/knowledge/blob/master/notebooks/Power%20Spectral%20Density.ipynb)
 - [R2C FFT, C2C FFT, IFFT through FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/R2C%20FFT%2C%20C2C%20FFT%2C%20IFFT%20through%20FFT.ipynb)
+- [Analysing Linear Polarisation](https://github.com/Mark1626/knowledge/blob/master/notebooks/Analyzing%20Linear%20Polarisation.ipynb)
 
 ---
 
