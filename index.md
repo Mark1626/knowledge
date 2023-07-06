@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #427 articles
+There are #428 articles
 
 ---
 
@@ -445,7 +445,8 @@ There are #427 articles
 
 #### Python
 
-- [Closing plots in matplotlib](.languages/py/matplotlib-closing-figure.md )
+- [Closing plots in matplotlib](./languages/py/matplotlib-closing-figure.md )
+- [Downloading from Google Collab](./languages/py/download-from-google-collab.md)
 
 #### Tex
 
