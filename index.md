@@ -29,6 +29,7 @@ There are #428 articles
 + [Digital Design](#digital-design)
 + [DSP](#dsp)
 + [Frontend](#frontend)
++ [Filesystem](#fs)
 + [Git](#git)
 + [GNU](#gnu)
 + [GNU Plot](#gnuplot)
@@ -203,6 +204,7 @@ There are #428 articles
 - [Sync and Async Reset](./digital-design/sync-async-reset.md)
 - [DDR](./digital-design/ddr.md)
 - [Bambu HLS](./digital-design/bambu-hls.md)
+- [8b10b encoding](./digital-design/8b10_encoding.md)
 
 ---
 
@@ -246,6 +248,12 @@ There are #428 articles
 #### CSS Tricks
 
 - [Pure CSS Triangles](./frontend/css/pure-css-triangles.md)
+
+---
+
+### Filesystem {#fs}
+
+- [FAT Filesystem](./fs/fat.md)
 
 ---
 

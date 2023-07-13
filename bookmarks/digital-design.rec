@@ -58,3 +58,8 @@ Url: https://blog.oshpark.com/
 Tags: blog
 Description: Hardware Blog
 
+Url: https://www.martinhubacek.cz/blog/riscv-with-tinyfpga-bx-and-litex/
+Tags: blog
+Tags: litex
+Description: Blog on adding WS2812 peripheral
+
