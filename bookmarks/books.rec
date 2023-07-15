@@ -7,3 +7,8 @@ Url: http://www.imm.dtu.dk/~masca/chisel-book.pdf
 Desc: Chisel book
 Tags: fpga
 Tags: design
+
+Url: https://www.xml.com/ldd/chapter/book/index.html
+Desc: Linux Device Drivers
+Tags: device-driver
+
