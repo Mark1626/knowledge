@@ -63,3 +63,18 @@ Tags: blog
 Tags: litex
 Description: Blog on adding WS2812 peripheral
 
+Url: https://pwmarcz.github.io/fpga-tutorial/fpga.html
+Tags: blog
+Tags: FPGA
+Description: FPGA Tutorial
+
+Url: https://knielsen.github.io/ice40_viewer/ice40_viewer.html
+Tags: Ice40
+Tags: Visualisation
+Tags: FPGA
+Description: Ice40 Viewer
+
+Url: https://www.youtube.com/watch?v=3FGNw28xBr0
+Tags: pcb
+Description: KiCAD 7 PCB Layout
+
