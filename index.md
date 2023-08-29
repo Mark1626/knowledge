@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #434 articles
+There are #436 articles
 
 ---
 
@@ -207,6 +207,8 @@ There are #434 articles
 - [Bambu HLS](./digital-design/bambu-hls.md)
 - [8b10b encoding](./digital-design/8b10_encoding.md)
 - [Formal Verification](./digital-design/formal-verification.md)
+- [DFI Controller](./digital-design/dfi-controller.md)
+- [MIG 7 series](./digital-design/mig-7series.md)
 
 ---
 

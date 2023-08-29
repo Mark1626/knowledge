@@ -101,4 +101,12 @@ Url: https://learn.sparkfun.com/tutorials/pcb-basics
 Tags: blog
 Tags: pcb design
 Description: PCB Basics
+Url: https://fpgaemu.readthedocs.io/en/latest/index.html
+Tags: fpga
+Description: FPGAEmu: An Introduction to FPGA Emulation
+
+Url: https://jia-je.translate.goog/kb/networking/ethernet.html
+Tags: ethernet
+Tags: ip
+Description: Ethernet Jia's blog
 
