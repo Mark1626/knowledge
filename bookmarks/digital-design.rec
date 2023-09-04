@@ -78,3 +78,15 @@ Url: https://www.youtube.com/watch?v=3FGNw28xBr0
 Tags: pcb
 Description: KiCAD 7 PCB Layout
 
+Url: http://www.freerouting.net/
+Tags: pcb
+Description: KiCAD Free Routing
+
+Url: https://msyksphinz-self.github.io/riscv-isadoc/html/rvi.html#lui
+Tags: riscv
+Description: RISC-V Instruction Set Documentation
+
+Url: http://johngustafson.net/pdfs/BeatingFloatingPoint.pdf
+Tags: posit
+Description: POSIT Number System
+
