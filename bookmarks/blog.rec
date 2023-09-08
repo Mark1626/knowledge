@@ -75,3 +75,182 @@ Tags: gnuplot
 Tags: graph
 Tags: visualisation
 
+Url: https://www-cs-faculty.stanford.edu/~knuth/programs.html
+Tags: knuth
+Tags: blog
+Description: Donald Knuth's page
+
+Url: https://eli.thegreenplace.net/
+Description: Eli blog
+Tags: blog
+Tags: unix
+
+Url: https://www.realworldtech.com/
+Tags: blog
+Tags: cpu
+Tags: gpu
+Description: Real World Tech
+
+Url: https://invisible-island.net/home.html
+Tags: blog
+Description: Invisible Island Thomas E. Dickey
+
+Url: https://people.math.sc.edu/Burkardt/
+Tags: blog
+Tags: hpc
+Description: John Burkardt's Blog
+
+Url: http://songho.ca/dsp/index.html
+Tags: blog
+Tags:  dsp
+Description: Quick DSP 101
+
+Url: https://fredrikj.net/blog/
+Tags: blog
+Tags:  hpc
+Description: Fredrik Johansson Blog
+
+Url: https://kristerw.blogspot.com/
+Tags: blog
+Description: Krister Walfridsson’s blog
+
+Url: https://terboven.com/?p=61
+Tags: blog
+Tags: hpc
+Tags: openmp
+Description: OpenMP in cling
+
+Url: https://terboven.com/
+Tags: blog
+Tags: hpc
+Description: Christian Terboven's blog
+
+Url:http://blog.thetelegraphic.com/
+Tags: blog
+Tags: astronomy
+Description: Danny Price's blog
+
+Url: https://platane.github.io/js13k-2017/postmortem/image-processing
+Tags: blog
+Tags: compression
+Description: Genetic Compression Algorithm
+
+Url: https://pythonic.nl/about/
+Tags: blog
+Tags: astronomy
+Description: Gijs Molenaar's blog
+
+Url: https://kristerw.github.io/
+Tags: blog
+Tags: compiler
+Description: Krister Walfridsson's blog
+
+Url: http://0x80.pl/
+Tags: blog
+Tags: intrinsics
+Tags: hpc
+Description: Wojciech Muła — website
+
+Url: http://maverick.inria.fr/Members/Cyril.Crassin/
+Tags: cuda
+Tags: performance
+Description: Cyril Crassin's blog
+
+Url: https://www.glennklockwood.com/
+Tags: hpc
+Tags: blog
+Description: Glenn Lockwood's blog
+
+Url: http://www.numberworld.org/
+Tags: asm
+Tags: blog
+Description: Alex Yee's website.
+
+Url: https://tetzank.github.io/
+Tags: asm
+Tags: blog
+Description: Frank Tetzel's blog
+
+Url: https://www.agner.org/forum/
+Tags: blog
+Tags: performance
+Tags: x86
+Description: Agner's CPU blog
+
+Url: https://bnikolic.co.uk/blog/
+Tags: blog
+Tags: debug
+Description: B. Nikolic's blog
+
+Url: https://therealmjp.github.io/posts/
+Tags: blog
+Tags: gpu
+Description: MJP's blog
+
+Url: https://blog.zpl.pw/
+Tags: blog
+Tags: c99
+Tags: c
+Description: zpl
+
+Url: https://blog.mrhaki.com/
+Description: Mrhaki JVM Blog
+Tags: jvm
+Tags: blog
+
+Url: https://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/
+Description: 8088 Demo Scene Blog
+Tags: asm
+Tags: 8088
+Tags: demoscene
+
+Url: http://wingolog.org/projects/
+Description: Wingolog Blog
+Tags: blog
+Tags: lua
+Tags: js
+Tags: node
+
+Url: https://pgl.yoyo.org/luai/i/_
+Description: Lua Blog
+Tags: lua
+Tags: blog
+
+Url: http://jakascorner.com/blog/
+Description: Open MP Content
+Tags: openmp
+Tags: blog
+
+Url: http://blog.llvm.org/
+Description: LLVM Blog
+Tags: llvm
+Tags: blog
+
+Url: https://cellperformance.beyond3d.com/articles/index.html
+Description: Cell Performance Blog
+Tags: blog
+Tags: cpp
+Tags: c
+
+Url: https://abrashiorigami.com/
+Description: Origami Design Blog
+Tags: origami
+Tags: art
+
+Url: https://nanochess.org/
+Description: Code Golf Blog
+Tags: art
+Tags: blog
+
+Url: https://mattround.com/
+Description: MattRound Blog
+Tags: blog
+
+Url: https://www.make-origami.com/HelenaVerrill/home.php
+Description: Modular Origami Blog
+Tags: origami
+
+Url: http://erikdemaine.org/
+Description: Origami 3D and figurine
+Tags: origami
+Tags: blog

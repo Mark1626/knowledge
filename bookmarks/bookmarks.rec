@@ -81,16 +81,6 @@ Url: https://www.cs.utexas.edu/users/mckinley/20-years.html
 Tags: paper
 Description: ACM SIGPLAN Conference Selected Papers by Year
 
-Url: https://www.realworldtech.com/
-Tags: blog
-Tags: cpu
-Tags: gpu
-Description: Real World Tech
-
-Url: https://invisible-island.net/home.html
-Tags: blog
-Description: Invisible Island Thomas E. Dickey
-
 Url: https://www.linuxjournal.com/
 Tags: site
 Tags: media
@@ -105,11 +95,6 @@ Tags: shell
 Description: Remote Shell
 Tags:  alternative to SSH
 
-Url: https://people.math.sc.edu/Burkardt/
-Tags: blog
-Tags: hpc
-Description: John Burkardt's Blog
-
 Url: https://docs.nvidia.com/cuda/samples/3_Imaging/convolutionSeparable/doc/convolutionSeparable.pdf
 Tags: article
 Tags:  gpu
@@ -120,16 +105,6 @@ Url: https://www.evl.uic.edu/kreda/gpu/image-convolution/
 Tags: article
 Tags:  gpu
 Description: A study of OpenCL image convolution optimization
-
-Url: http://songho.ca/dsp/index.html
-Tags: blog
-Tags:  dsp
-Description: Quick DSP 101
-
-Url: https://fredrikj.net/blog/
-Tags: blog
-Tags:  hpc
-Description: Fredrik Johansson Blog
 
 Url: https://daltonprogram.org/
 Tags: bench
@@ -168,39 +143,9 @@ Tags:  compiler
 Description: 32bit compiler for 80386
 Tags:  DOS
 
-Url: https://kristerw.blogspot.com/
-Tags: blog
-Description: Krister Walfridsson’s blog
-
-Url: https://terboven.com/?p=61
-Tags: blog
-Tags: hpc
-Tags: openmp
-Description: OpenMP in cling
-
-Url: https://terboven.com/
-Tags: blog
-Tags: hpc
-Description: Christian Terboven's blog
-
 Url: http://aosabook.org/en/index.html
 Tags: book
 Description: Architecture of Open Source Applications
-
-Url:http://blog.thetelegraphic.com/
-Tags: blog
-Tags: astronomy
-Description: Danny Price's blog
-
-Url: https://platane.github.io/js13k-2017/postmortem/image-processing
-Tags: blog
-Tags: compression
-Description: Genetic Compression Algorithm
-
-Url: https://pythonic.nl/about/
-Tags: blog
-Tags: astronomy
-Description: Gijs Molenaar's blog
 
 Url: https://apod.nasa.gov/apod/astropix.html
 Tags: astronomy
@@ -245,17 +190,6 @@ Tags: openmp
 Tags: mpi
 Description: CPU Affinity
 
-Url: https://kristerw.github.io/
-Tags: blog
-Tags: compiler
-Description: Krister Walfridsson's blog
-
-Url: http://0x80.pl/
-Tags: blog
-Tags: intrinsics
-Tags: hpc
-Description: Wojciech Muła — website
-
 Url: https://nekodaemon.com/2021/02/05/Understanding-MPI-map-by-and-bind-to-option/
 Tags: hpc
 Tags: openmpi
@@ -271,11 +205,6 @@ Tags: cuda
 Tags: performance
 Description: Unified Memory Performance
 
-Url: http://maverick.inria.fr/Members/Cyril.Crassin/
-Tags: cuda
-Tags: performance
-Description: Cyril Crassin's blog
-
 Url: https://developer.nvidia.com/blog/transitioning-nsight-systems-nvidia-visual-profiler-nvprof/
 Tags: cuda
 Tags: performance
@@ -285,11 +214,6 @@ Url: https://www.nvidia.com/content/GTC-2010/pdfs/2238_GTC2010.pdf
 Tags: cuda
 Tags: performance
 Description: Better Performance at Lower Occupancy
-
-Url: https://www.glennklockwood.com/
-Tags: hpc
-Tags: blog
-Description: Glenn Lockwood's blog
 
 Url: https://developer.nvidia.com/blog/cuda-pro-tip-optimized-filtering-warp-aggregated-atomics/
 Tags: cuda
@@ -334,21 +258,11 @@ Tags: asm
 Tags: x86
 Description: x86 Assembly Guide
 
-Url: http://www.numberworld.org/
-Tags: asm
-Tags: blog
-Description: Alex Yee's website.
-
 Url: http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 Tags: article
 Tags: linux
 Tags: kernel
 Description: Linux x86 Program Start Up
-
-Url: https://tetzank.github.io/
-Tags: asm
-Tags: blog
-Description: Frank Tetzel's blog
 
 Url: https://tetzank.github.io/posts/static-machine-code-analysis/
 Tags: blog
@@ -386,12 +300,6 @@ Tags: performance
 Tags: x86
 Description: Software optimization resources
 
-Url: https://www.agner.org/forum/
-Tags: blog
-Tags: performance
-Tags: x86
-Description: Agner's CPU blog
-
 Url: https://www.officedaytime.com/simd512e/
 Tags: x86
 Tags: intrinsic
@@ -411,17 +319,6 @@ Url: https://www.inwap.com/pdp10/hbaker/hakmem/
 Tags: memo
 Tags: reference
 Description: 1972 Hacker's Memo Quote: Beeler, M., Gosper, R.W., and Schroeppel, R. HAKMEM. MIT AI Memo 239, Feb. 29, 1972
-
-Url: https://therealmjp.github.io/posts/
-Tags: blog
-Tags: gpu
-Description: MJP's blog
-
-Url: https://blog.zpl.pw/
-Tags: blog
-Tags: c99
-Tags: c
-Description: zpl
 
 Url: https://sourceware.org/glibc/wiki/MallocInternals
 Tags: malloc

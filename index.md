@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #428 articles
+There are #434 articles
 
 ---
 
@@ -150,6 +150,7 @@ There are #428 articles
 
 - [Sorting Networks](./cs-research/sorting-networks.md)
 - [Vectorizing Complex Multiplication](./cs-research/vectorisation.md)
+- [Z3 Theorm Prover](./cs-research/z3.md)
 
 ---
 
@@ -205,6 +206,7 @@ There are #428 articles
 - [DDR](./digital-design/ddr.md)
 - [Bambu HLS](./digital-design/bambu-hls.md)
 - [8b10b encoding](./digital-design/8b10_encoding.md)
+- [Formal Verification](./digital-design/formal-verification.md)
 
 ---
 
@@ -404,6 +406,7 @@ There are #428 articles
 - [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
 - [Default Argument](./languages/c/default-arg.md)
 - [Static Method](./languages/c/static-function.md)
+- [CWeb](./languages/c/cweb.md)
 
 #### CPP
 
