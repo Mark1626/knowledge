@@ -1,3 +1,5 @@
+%rec: Bookmarks
+
 Url: https://nanxiao.gitbooks.io/perf-little-book/content/
 Desc: Perf book
 Tags: perf
@@ -12,3 +14,18 @@ Url: https://www.xml.com/ldd/chapter/book/index.html
 Desc: Linux Device Drivers
 Tags: device-driver
 
+Url: https://lwn.net/Kernel/LDD3/
+Tags: linux
+Tags: kernel
+Tags: book
+Description: Linux Device Drivers
+
+Url: http://www.kroah.com/lkn/
+Tags: linux
+Tags: kernel
+Tags: book
+Description: Linux Kernel in a Nutshell
+
+Url: http://aosabook.org/en/index.html
+Tags: book
+Description: Architecture of Open Source Applications
