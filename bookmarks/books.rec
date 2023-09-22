@@ -1,17 +1,17 @@
 %rec: Bookmarks
 
 Url: https://nanxiao.gitbooks.io/perf-little-book/content/
-Desc: Perf book
+Description: Perf book
 Tags: perf
 Tags: book
 
 Url: http://www.imm.dtu.dk/~masca/chisel-book.pdf
-Desc: Chisel book
+Description: Chisel book
 Tags: fpga
 Tags: design
 
 Url: https://www.xml.com/ldd/chapter/book/index.html
-Desc: Linux Device Drivers
+Description: Linux Device Drivers
 Tags: device-driver
 
 Url: https://lwn.net/Kernel/LDD3/

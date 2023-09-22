@@ -1,0 +1,80 @@
+%rec: item
+%key: id
+%auto: id
+%mandatory: name
+
+id: 0
+size: 250
+name: Formal Methods
+description: Formal Methods use mathematical techniques to verify algorithms
+
+id: 1
+size: 250
+name: Boolean satisfiability problem (SAT)
+description: SAT applies to Boolean types
+parent: 0
+
+id: 2
+size: 250
+name: Satisfiability Modulo Theory (SMT)
+description: Satisfiability Modulo Theory
+parent: 0
+
+id: 3
+size: 250
+name: SMT Lib
+description: SMT lib is a lisp like language used to decribe theories
+parent: 2
+
+size: 250
+name: Scala generating SMT Lib
+description: The expressive nature of Scala and it's ability to build DSLs \
+can be used to generate SMT Lib
+parent: 3
+
+id: 4
+size: 250
+name: SMT Solvers
+description: SMT solvers solve theories descriped in SMT Lib
+parent: 2
+
+id: 5
+size: 250
+name: z3
+description: SMT solver from Microsoft Research
+url: https://github.com/Z3Prover/z3
+parent: 4
+
+id: 10
+size: 250
+name: STP
+description: Simple Theorm Prover
+url: https://github.com/stp/stp
+parent: 4
+
+id: 9
+size: 250
+name: ScalaZ3
+description: z3 bindings for Scala
+parent: 5
+url: https://github.com/epfl-lara/ScalaZ3
+
+id: 6
+size: 250
+name: yices
+description: SMT Solver from SRI-CSL
+url: https://github.com/SRI-CSL/yices2
+parent: 4
+
+id: 7
+size: 250
+name: Dependently Typed Programming
+description: Dependently Typed Programming languages use type information to formally solve theories
+parent: 0
+
+id: 8
+size: 250
+name: agda
+description: agda is a proof assistance on top of Haskell. It is a dependently typed language
+url: https://github.com/agda/agda
+parent: 7

@@ -29,7 +29,7 @@ Tags: hardware
 Description: David Stanford's blog
 
 Url: https://nanxiao.me/en/
-Desc: Nan Xiao's Blog
+Description: Nan Xiao's Blog
 Tags: blog
 Tags: perf
 Tags: performance
@@ -103,12 +103,12 @@ Description: John Burkardt's Blog
 
 Url: http://songho.ca/dsp/index.html
 Tags: blog
-Tags:  dsp
+Tags: dsp
 Description: Quick DSP 101
 
 Url: https://fredrikj.net/blog/
 Tags: blog
-Tags:  hpc
+Tags: hpc
 Description: Fredrik Johansson Blog
 
 Url: https://kristerw.blogspot.com/
