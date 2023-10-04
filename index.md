@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #436 articles
+There are #438 articles
 
 ---
 
@@ -617,6 +617,10 @@ There are #436 articles
 - [Abelian Sandpile](./math/automata/abelian-sandpile.md)
 - [Game of Life](./math/automata/game-of-life.md)
 
+#### Category Theory
+
+- [Category Theory](./math/category_theory/category_theory.md)
+
 #### Engineering Math {#eng}
 
 #### Fractals
@@ -825,6 +829,10 @@ There are #436 articles
 ### i3
 
 - [i3wm](./tools/i3.md)
+
+### imagemagik
+
+- [mogrify compress image](./tools/compress-image.md)
 
 ### jot
 
