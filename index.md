@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #438 articles
+There are #439 articles
 
 ---
 
@@ -951,6 +951,7 @@ There are #438 articles
 - [Reading Serial Port](./unix/reading-serial.md)
 - [Ghost Script](./unix/gs.md)
 - [TFPT](./unix/tftp.md)
+- [Kernel Modules](./unix/kernel-modules.md)
 
 ---
 
