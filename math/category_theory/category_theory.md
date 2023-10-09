@@ -1,5 +1,7 @@
 # Category Theory
 
+[Back](../../index.md#category-theory)
+
 ## Duality of categories
 
 1. Product - Coproduct

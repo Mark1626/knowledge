@@ -8,7 +8,7 @@ A collection of tidbits on things I learn
 
 ## Contents
 
-There are #439 articles
+There are #441 articles
 
 ---
 
@@ -620,6 +620,8 @@ There are #439 articles
 #### Category Theory
 
 - [Category Theory](./math/category_theory/category_theory.md)
+- [Catesian Closed Categories](./math/category_theory/ccc.md)
+- [Curry Howard Isomorphism](./math/category_theory/curry_howard_isomorphism.md)
 
 #### Engineering Math {#eng}
 
