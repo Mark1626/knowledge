@@ -1,6 +1,6 @@
 # Iterated Function Systems
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Iterated Function Systems are means to construct fractals
 

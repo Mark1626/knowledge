@@ -1,6 +1,6 @@
 # Stellation
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Stellation is the process of extending a polygon to form a new figure. The name is derived from stella meaning star
 

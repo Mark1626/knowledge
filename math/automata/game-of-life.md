@@ -1,6 +1,6 @@
 # Game of Life
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 ## References
 

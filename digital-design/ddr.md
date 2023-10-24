@@ -1,6 +1,6 @@
 # DDR
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 DDR `double data rate`, a byte is transferred on the rising edge of 
 the clock and on the falling edge. The clock of the system runs at half of the

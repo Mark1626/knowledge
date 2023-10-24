@@ -1,6 +1,6 @@
 # DDR3 RAM
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Reading
 

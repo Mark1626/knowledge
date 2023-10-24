@@ -1,6 +1,6 @@
 # FPGA
 
-[Back](../index.md#fpga){: .button}
+[Back](./digital-design.md){: .button}
 
 ## Xilinx FPGAs
 

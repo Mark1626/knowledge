@@ -1,6 +1,6 @@
 # PCI-Express 
 
-[Back](../index.md#pcie)
+[Back](./digital-design.md)
 
 PCI-E is point to point
 

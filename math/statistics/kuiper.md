@@ -1,6 +1,6 @@
 # Kuiper's test
 
-[Back](../../index.md#statistics)
+[Back](../math.md)
 
 Kuiper's test is used to test if a given distribution is contradicted by evidence from a sample of data
 

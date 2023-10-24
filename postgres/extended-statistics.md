@@ -1,6 +1,6 @@
 # Postgres Extended Statistics
 
-[Back](../index.md#postgresql){: .button}
+[Back](./postgres.md){: .button}
 
 Refer to my blog [here](https://mark1626.github.io/posts/2020/08/29/extended-statistics) for a much detailed example
 

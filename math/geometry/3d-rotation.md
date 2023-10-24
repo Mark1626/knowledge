@@ -1,6 +1,6 @@
 # 3D Rotation
 
-[Back](../../index.md#geometry){: .button}
+[Back](../math.md{: .button}
 
 In certain cases rotation of the axis with rotate was not possible.
 This was because of `Gimbal lock`, Gimbal lock is the loss of one degree of freedom. In that case we need to rely on 3D rotation

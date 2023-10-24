@@ -1,6 +1,6 @@
 # Wishbone
 
-[Back](../../index.md#bus){: .button}
+[Back](./digital-design.md){: .button}
 
 The Wishbone Bus is an open source hardware computer bus intended to let the parts of an integrated circuit communicate with each other
 

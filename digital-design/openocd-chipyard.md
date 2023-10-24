@@ -1,6 +1,6 @@
 # OpenOCD on Chipyard Designs
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Reading
 

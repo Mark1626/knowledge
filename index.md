@@ -22,12 +22,12 @@ There are #441 articles
 + [Build Tools](./buildtools/buildtools.md)
 + [Crypto](./crypto/cryptography.md)
 + [Code Art](./code-art/code-art.md)
-+ [Computer Architecture](#cparch)
-+ [Computer Science Research](#csres)
-+ [Containers](#containers)
-+ [Data](#data)
-+ [Data Structure](#datastructures)
-+ [Digital Design](#digital-design)
++ [Computer Architecture](./computer-architecture/computer-architecture.md)
++ [Computer Science Research](./cs-research/cs-research.md)
++ [Containers](./containers/containers.md)
++ [Data](./data/ds.md)
++ [Data Structure](./ds/data-structures.md)
++ [Digital Design](./digital-design/digital-design.md)
 + [DSP](#dsp)
 + [Embedded](./embedded/embedded.md)
 + [Frontend](#frontend)
@@ -42,14 +42,14 @@ There are #441 articles
 + [Kernel](#kernel)
 + [Languages](#languages)
 + [LLM](#llm)
-+ [Math](#math)
++ [Math](./math/math.md)
 + [Network](#network)
 + [Notebooks](#notebooks)
-+ [Origami](#origami)
-+ [Papers](#papers)
++ [Origami](./origami/origami.md)
++ [Papers](./papers/papers.md)
 + [Philosophy](#philosophy)
 + [Posix](#posix)
-+ [Postgresql](#postgresql)
++ [Postgresql](./postgres/postgres.md)
 + [Platforms](#platforms)
 + [Psychology](#psychology)
 + [Quantum](#quantum)
@@ -63,79 +63,6 @@ There are #441 articles
 
 ---
 
-### Computer Architecture {#cparch}
-
-- [CPU Features](./computer-architecture/cpu-features.md)
-- [Branch Prediction](./computer-architecture/branch-prediction.md)
-- [Resident Set Size](./computer-architecture/resident-memory.md)
-- [Cache Coherence](./computer-architecture/cache-coherence.md)
-- [Sandy Bridge Pipeline](./computer-architecture/sandy-bridge-pipeline.md)
-
----
-
-### Computer Science Research {#csres}
-
-- [Sorting Networks](./cs-research/sorting-networks.md)
-- [Vectorizing Complex Multiplication](./cs-research/vectorisation.md)
-- [Z3 Theorm Prover](./cs-research/z3.md)
-
----
-
-### Containers
-
-- [Using perf within containers](./containers/perf-within-container.md)
-- [Docker prevent permission issue with files created inside container](./containers/permission-issue-in-container.md)
-
----
-
-### Data
-
-- [k means](./data/k-means.md)
-- [Quantization](./data/quantization.md)
-- [CNN](./data/cnn.md)
-- [RNN](./data/rnn.md)
-
----
-
-### DataStructures
-
-- [Disjoint Set](./ds/disjoint-set.md)
-- [Segment Tree](./ds/segment-tree.md)
-
----
-
-### Digital Design
-
-#### Bus
-
-- [AXI](./digital-design/bus/axi.md)
-- [Wishbone](./digital-design/bus/wishbone.md)
-- [Getting started](./digital-design/fpga.md)
-- [Verilog](./digital-design/verilog.md)
-- [HLS](./digital-design/hsl.md)
-- [AXI Stream](./digital-design/axi-stream.md)
-- [LUT](./digital-design/lut.md)
-- [PCI-Express](./digital-design/pcie.md)
-- [DDR](./digital-design/dram.md)
-- [JTAG](./digital-design/jtag.md)
-- [Litex](./digital-design/litex.md)
-- [OpenOCD](./digital-design/openocd.md)
-- [Memory Controller](./digital-design/memory-controller.md)
-- [NoC](./digital-design/noc.md)
-- [GTKWave](./digital-design/gtkwave.md)
-- [Open Hardware](./digital-design/open-hardware.md)
-- [OpenOCD Chipyard](./digital-design/openocd-chipyard.md)
-- [Decoupling](./digital-design/decoupling.md)
-- [Differential Signalling](./digital-design/differential-signalling.md)
-- [KiCad](./digital-design/kicad.md)
-- [Power On Reset](./digital-design/power-on-reset.md)
-- [Sync and Async Reset](./digital-design/sync-async-reset.md)
-- [DDR](./digital-design/ddr.md)
-- [Bambu HLS](./digital-design/bambu-hls.md)
-- [8b10b encoding](./digital-design/8b10_encoding.md)
-- [Formal Verification](./digital-design/formal-verification.md)
-- [DFI Controller](./digital-design/dfi-controller.md)
-- [MIG 7 series](./digital-design/mig-7series.md)
 
 ---
 
@@ -461,121 +388,6 @@ There are #441 articles
 
 ---
 
-### Origami
-
-#### Origami Units
-
-##### Units
-
-- [Litte Unit](./origami/units/little-unit.md)
-- [Nick Robinson's Trimodule](./origami/units/nick-trimodule.md)
-- [Oxi Unit](./origami/units/oxi.md)
-- [Sonobe Unit](./origami/units/sonobe.md)
-- [TSU Unit](./origami/units/tsu.md)
-
-##### Cubes
-
-- [Gyroscope](./origami/cubes/gyroscope.md)
-
-##### Intersectional planes
-
-- [XYZ](./origami/intersectional/planes/xyz.md)
-
-##### Fractals
-
-- [Menger Sponge](./origami/fractals/menger-sponge.md)
-
-##### Icosahedron
-
-- [Gallery](./origami/icosahedron/index.md)
-- [Sonobe Icosahedron](./origami/icosahedron/sonobe.md)
-- [Trimodule Icosahedron](./origami/icosahedron/trimodule.md)
-
-##### Tesslations
-
-- [Clover Tesslation](./origami/tesslation/clover.md)
-- [Square Interlace Tesslation](./origami/tesslation/square_interlace.md)
-
-##### Spiral
-
-- [Navel Shell](./origami/spiral/navel.md)
-
-##### Curlicue
-
-- [Curlicue](./origami/curlicue/curlicue.md)
-
----
-
-### Papers
-
-- [The Design and Implementation of FFTW3](./papers/the-design-and-implementation-of-fftw3.md)
-- [Source Finding](./papers/astronomy-source-finding.md)
-- [H1 21cm Absorption](./papers/astronomy-h1-21cm-absorption.md)
-- [MG-J0414+0534](./papers/MG_J0414_0534.md)
-
----
-
-### Math
-
-#### Automata
-
-- [Abelian Sandpile](./math/automata/abelian-sandpile.md)
-- [Game of Life](./math/automata/game-of-life.md)
-
-#### Category Theory
-
-- [Category Theory](./math/category_theory/category_theory.md)
-- [Catesian Closed Categories](./math/category_theory/ccc.md)
-- [Curry Howard Isomorphism](./math/category_theory/curry_howard_isomorphism.md)
-
-#### Engineering Math {#eng}
-
-#### Fractals
-
-- [Chaos Game](./math/fractals/chaos_game.md)
-- [Iterated Function Systems](./math/fractals/ifs.md)
-
-#### Geometry
-
-- [Rhombile Tiling](./math/geometry/rhombile_tiling.md)
-- [Stellation](./math/geometry/stellation.md)
-- [Affine Transform](./math/geometry/affine.md)
-- [3D Rotation](./math/geometry/3d-rotation.md)
-
-#### Linear Algebra
-
-- [Normal Equations](./math/linear-algebra/normal-equations.md)
-- [Einstein Notation](./math/linear-algebra/einsum.md)
-
-#### Number Theory
-
-- [Ortho Latin Square](./math/number_theory/ortho-latin-square.md)
-- [Perlin Noise](./math/number_theory/perlin-noise.md)
-- [Kummer's Theorm](./math/number_theory/kummer.md)
-- [Wilson's Theorm](./math/number_theory/wilson.md)
-- [Pisano period](./math/number_theory/pisano-period.md)
-- [Zeckendorf's Theorm](./math/number_theory/zeckendorf-theorm.md)
-- [De Bruijn sequence](./math/number_theory/de-bruijn-sequence.md)
-- [Chinese remainder theorem](./math/number_theory/chinese-reminder-theorm.md)
-- [Euler's theorm](./math/number_theory/euler-theorm.md)
-- [Euler's totient function](./math/number_theory/euler-totient-function.md)
-- [Farey Sequence](./math/number_theory/farey-sequence.md)
-- [Stern Brocot Tree](./math/number_theory/stern-brocot-tree.md)
-- [Extended Euclidean Algorithm](./math/number_theory/extended-euclidean.md)
-- [Euclidean Algorithm](./math/number_theory/euclidean-algorithm.md)
-- [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
-- [Mobius Function](./math/number_theory/mobius-function.md)
-- [Chakravala Method](./math/number_theory/chakravala.md)
-- [Fibonnaci Matrix](./math/number_theory/fibonnaci-matrix.md)
-
-#### Statistics
-
-- [Kuiper Test](./math/statistics/kuiper.md)
-- [Chi-squared test](./math/statistics/chi-squared-test.md)
-- [Kullback Leibler Divergence](./math/statistics/kullback-leibler-divergence.md)
-
----
-
 ### Philosophy
 
 - [Mu](./philosophy/mu.md)
@@ -600,19 +412,6 @@ There are #441 articles
 ### Psychology
 
 - [Pygmalion Effect](./psychology/pygmalion-effect.md)
-
----
-
-### Postgresql
-
-- [References and Blogs](./postgres/index.md)
-- [pg_ctl](./postgres/pgctl.md)
-- [Template Databases](./postgres/template_databases.md)
-- [Explain on sort](./postgres/explain-sort.md)
-- [Explain on Join](./postgres/explain-join.md)
-- [Extended Statistics](./postgres/extended-statistics.md)
-- [Trust Authentication](./postgres/trust-authentication.md)
-- [Count of Tuples and Pages](./postgres/postgres-page-tuples.md)
 
 ---
 

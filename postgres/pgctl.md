@@ -1,6 +1,6 @@
 # PG CTL
 
-[Back](../index.md#postgresql){: .button}
+[Back](./postgres.md){: .button}
 
 `pg_ctl` is a utility to start, stop postgres
 

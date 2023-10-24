@@ -1,6 +1,6 @@
 # Branch Prediction
 
-[Back](../index.md#cparch){: .button}
+[Back](./computer-architecture.md){: .button}
 
 
 - [Cloudflare Benchmarks on Branch Prediction](https://blog.cloudflare.com/branch-predictor/)

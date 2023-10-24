@@ -1,6 +1,6 @@
 # Litex
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Resources
 

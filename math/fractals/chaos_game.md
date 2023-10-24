@@ -1,6 +1,6 @@
 # Chaos Game
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Chaos game is an algorithm for generating fractals from IFS
 

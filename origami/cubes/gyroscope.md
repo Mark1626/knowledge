@@ -1,5 +1,5 @@
 # Gyroscope
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 Difficulty: easy
 

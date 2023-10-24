@@ -1,6 +1,6 @@
 # Affine Transform
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Affine transform is a geometric transform that preserves lines and parallelism.
 IFS utilize affine transforms to create fractals

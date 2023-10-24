@@ -1,6 +1,6 @@
 # Bambu HLS
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Usage
 

@@ -1,5 +1,5 @@
 # Chi-squared test
 
-[Back](../../index.md)
+[Back](../math.md)
 
 

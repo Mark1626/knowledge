@@ -1,6 +1,6 @@
 # KiCad
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Schematic Editor
 

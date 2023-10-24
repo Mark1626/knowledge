@@ -1,6 +1,6 @@
 # Preventing permission issue in Docker created files
 
-[Back](../index.md#containers){: .button}
+[Back](./containers.md){: .button}
 
 ```Dockerfile
 # Dockerfile

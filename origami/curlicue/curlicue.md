@@ -1,5 +1,5 @@
 # Curliecue
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 Author - `Assia Brill`
 

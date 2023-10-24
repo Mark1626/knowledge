@@ -1,6 +1,6 @@
 # Chinese remainder theorem
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 ```
 given:

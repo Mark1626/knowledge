@@ -1,6 +1,6 @@
 # Category Theory
 
-[Back](../../index.md#category-theory)
+[Back](../math.md)
 
 ## Duality of categories
 

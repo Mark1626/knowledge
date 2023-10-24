@@ -1,6 +1,6 @@
 # Menger Sponge
 
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 ### Menger Sponge with Sonobe Unit
 

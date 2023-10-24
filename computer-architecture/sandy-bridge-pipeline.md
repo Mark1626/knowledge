@@ -1,6 +1,6 @@
 # Intel Sandy Bridge Pipeline
 
-[Back](../index.md#cparch){: .button}
+[Back](./computer-architecture.md){: .button}
 
 ## Reading
 

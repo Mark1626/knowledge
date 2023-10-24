@@ -1,6 +1,6 @@
 # Segment Tree
 
-[Back](../index.md){: .button}
+[Back](./data-structures.md){: .button}
 
 A segment tree will is a data structure used to store information about intervals.  
 The worst case estimate of the number of vertices is `4*N` 

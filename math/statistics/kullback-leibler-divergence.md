@@ -1,6 +1,6 @@
 # Kullback Leibler Divergence
 
-[Back](../index.md)
+[Back](../math.md)
 
 Kullback Leibler Divergence is used to distinguish how one probability distribution P is different from another probability distribution Q.
 

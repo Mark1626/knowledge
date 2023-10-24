@@ -1,6 +1,6 @@
 # k means
 
-[Back](../index.md#data)
+[Back](./ds.md)
 
 k-means clustering is a method of splitting n observations into k clusters, with each observation belonging to the cluster with the nearest mean
 

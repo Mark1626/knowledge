@@ -1,6 +1,6 @@
 # AXI Stream
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 AXI Stream is a protocol used for transferring stream data around a chip. Stream data has no address associated with it.
 

@@ -1,7 +1,7 @@
 
 # CPU Features
 
-[Back](../index.md#cparch){: .button}
+[Back](./computer-architecture.md){: .button}
 
 [FPU](https://en.wikipedia.org/wiki/Floating-point_unit): Floating Processing Unit
 [VME](https://en.wikipedia.org/wiki/Virtual_8086_mode#VME): Virtual Mode Extension

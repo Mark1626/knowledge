@@ -1,6 +1,6 @@
 # Network on Chip
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 Based on the Github issue https://github.com/hughperkins/VeriGPU/issues/5 , pasting here for my reference
 

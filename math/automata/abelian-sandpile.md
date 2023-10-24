@@ -1,6 +1,6 @@
 # Abelian Sandpile Model
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 ## References
 

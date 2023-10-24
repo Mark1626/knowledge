@@ -1,6 +1,6 @@
 ### Astronomy {#astro}
 
-[Back](./astronomy.md)
+[Back](../index.md)
 
 - [Jansky(Jy)](./jansky.md)
 - [uv plane](./uv.md)

@@ -1,6 +1,6 @@
 # Disjoint Set
 
-[Back](../index.md){: .button}
+[Back](./data-structures.md){: .button}
 
 A disjoint set data structure stores a correction of disjoint sets.
 

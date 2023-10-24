@@ -1,6 +1,6 @@
 # Curry-Howard isomorphism
 
-[Back](../../index.md#category-theory)
+[Back](../math.md)
 
 Every type can be interpreted as a proposition - a 
 statement or a judgment that may be true or false.

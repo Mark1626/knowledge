@@ -1,6 +1,6 @@
 # Open hardware boards
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Sites to check
 

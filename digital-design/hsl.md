@@ -1,6 +1,6 @@
 # High level synthesis
 
-[Back](../index.md#fpga){: .button}
+[Back](./digital-design.md){: .button}
 
 ```
 

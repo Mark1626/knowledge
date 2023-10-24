@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-[Back](../index.md)
+[Back](./ds.md)
 
 ## Structure
 

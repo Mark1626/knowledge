@@ -1,5 +1,5 @@
 # Nick Robinson's trimodule
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 Link to the design in his website
 

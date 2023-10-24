@@ -1,6 +1,6 @@
 # Octahedron Skeleton
 
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 ### Instructions
 

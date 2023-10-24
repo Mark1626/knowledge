@@ -1,6 +1,6 @@
 # Memory Controller
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 Google has continued to work heavily with Antmicro to push forward the state of open source memory controller solutions. Our current focus has been around making sure we are able to explore current issues around RowHammer. See the following links;
 

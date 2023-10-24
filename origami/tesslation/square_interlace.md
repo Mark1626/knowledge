@@ -1,6 +1,6 @@
 # Square Interlace Tesslation
 
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 Designer - Michał Kosmulski
 

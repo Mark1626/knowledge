@@ -1,6 +1,6 @@
 # Farey Sequence
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 The Farey sequence of order n is a sequence of completely reduced fractions between 0 and 1
 

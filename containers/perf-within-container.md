@@ -1,6 +1,6 @@
 # perf within container
 
-[Back](../index.md#containers){: .button}
+[Back](./containers.md){: .button}
 
 By default Docker uses `seccomp` to prevent some calls being run inside a container.
 

@@ -1,6 +1,6 @@
 # Mobius Function
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 `μ(n) = 1` if n is square-free with even number of prime factors
 `μ(n) = -1` if n is square-free with odd number of prime factors

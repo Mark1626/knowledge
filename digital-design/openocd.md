@@ -1,6 +1,6 @@
 # OpenOCD
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 OpenOCD provides onchip debugging support. When invoking OpenOCD we define what we are debugging in the config
 

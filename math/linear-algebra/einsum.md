@@ -1,6 +1,6 @@
 # Einstein Notation
 
-[Back](../../index.md)
+[Back](../math.md)
 
 
 The Einstein notation is available in numpy as `np.einsum`

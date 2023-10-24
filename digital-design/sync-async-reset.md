@@ -1,6 +1,6 @@
 # Synchronous Reset
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 ## Synchronous Reset
 

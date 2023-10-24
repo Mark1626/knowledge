@@ -1,6 +1,6 @@
 # Decoupling
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 Decoupling is the prevention of undesired electrical energy transfer (coupling) between subsystems.
 

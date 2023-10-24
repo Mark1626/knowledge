@@ -1,6 +1,6 @@
 # Clover and Hydrangea Tesslation
 
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 There are #22 images here
 

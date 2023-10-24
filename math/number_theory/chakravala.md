@@ -1,6 +1,6 @@
 # Chakravala Method
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Chakravala is a cyclic algorithm to solve Pell's equation
 

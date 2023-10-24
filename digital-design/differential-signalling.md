@@ -1,6 +1,6 @@
 # Differential signal
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 Differential signalling is a method for electrically transmitting information using two complementary signals.
 

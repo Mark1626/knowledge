@@ -1,6 +1,6 @@
 # Explain on Join
 
-[Back](../index.md#postgresql){: .button}
+[Back](./postgres.md){: .button}
 
 ## Hash Join
 

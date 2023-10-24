@@ -1,6 +1,6 @@
 # Cartesian Closed Category
 
-[Back](../../index.md#category-theory)
+[Back](../math.md)
 
 1. http://conal.net/blog/posts/overloading-lambda
 2. http://conal.net/blog/posts/optimizing-cccs

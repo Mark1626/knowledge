@@ -1,6 +1,6 @@
 # Generaling the Fibonnaci Q Matrix
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 Complexity of computing the nth number is N^3 from the matrix multiplication
 

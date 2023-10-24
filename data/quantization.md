@@ -1,6 +1,6 @@
 # Quantization
 
-[Back](../index.md)
+[Back](./ds.md)
 
 ## Reading
 

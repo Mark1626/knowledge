@@ -1,6 +1,6 @@
 # Look Up Table (LUT)
 
-[Back](../index.md#fpga)
+[Back](./digital-design.md)
 
 Using a LUT any logic can be created as long as the logic does not exceed the number of elements in the LUT.
 

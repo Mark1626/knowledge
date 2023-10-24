@@ -1,6 +1,6 @@
 # JTAG
 
-[Back](../index.md)
+[Back](./digital-design.md)
 
 JTAG is a standard for verifying designs and testing boards
 

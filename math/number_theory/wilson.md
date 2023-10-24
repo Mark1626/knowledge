@@ -1,6 +1,6 @@
 # Wilson's Theorm
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 If n is a prime number then 
 

@@ -1,6 +1,6 @@
 # Ortho Latin Square
 
-[Back](../../index.md){: .button}
+[Back](../math.md){: .button}
 
 https://en.wikipedia.org/wiki/Graeco-Latin_square
 

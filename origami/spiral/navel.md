@@ -1,5 +1,5 @@
 # Navel Shell
-[Back](../../index.md){: .button}
+[Back](../origami.md){: .button}
 
 Author - `Tomoko Fuse`
 

@@ -1,6 +1,6 @@
 # Resident Set Size
 
-[Back](../index.md#cparch){: .button}
+[Back](./computer-architecture.md){: .button}
 
 Resident Set Size(RSS) is the memory occupied by a process that is held in main memory(RAM)
 
