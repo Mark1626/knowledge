@@ -1,6 +1,6 @@
 # Basic Linear Algebra Subprograms (BLAS)
 
-[Back](../../index.md){: .button}
+[Back](./common.md){: .button}
 
 BLAS are routines that provide standard building blocks for performing basic vector and matrix operations
 

@@ -1,6 +1,6 @@
 # perlrun modes
 
-[Back](../../index.md#perl){: .button}
+[Back](./perl.md){: .button}
 
 ## Modes
 

@@ -1,6 +1,6 @@
 # CWeb
 
-[Back](../../index.md)
+[Back](./c.md)
 
 C Web is a literate programming version of C from Donald E. Knuth and Silvio Levy.
 

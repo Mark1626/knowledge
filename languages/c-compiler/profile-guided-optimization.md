@@ -1,6 +1,6 @@
 # Profile Guided Optimization
 
-[Back](../../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 ```
 # Compile with flag -fprofile-generate

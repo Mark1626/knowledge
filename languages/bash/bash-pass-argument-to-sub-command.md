@@ -1,6 +1,6 @@
 # Bash pass env variable to subcommand
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 `getopts` parses till `--`, by shifting by `$OPTIND - 1` the remaining params can be passed
 

@@ -1,6 +1,6 @@
 # Using Go Lib in C
 
-[Back](../../../index.md){: .button}
+[Back](../go.md){: .button}
 
 - Mark your functions with
 

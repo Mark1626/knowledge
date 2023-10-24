@@ -1,6 +1,6 @@
 # C++ Modules
 
-[Back](../../index.md#cpp){: .button}
+[Back](./cplusplus.md){: .button}
 
 
 ## Read More at

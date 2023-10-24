@@ -1,122 +1,101 @@
 💡 document everything
 
-## About
-
-A collection of tidbits on things I learn
-
----
-
-## Contents
-
-There are #441 articles
-
----
-
-## Categories
-
-+ [ARM](./arm/arm.md)
-+ [Algorithm](./algo/algorithms.md)
-+ [Astronomy](./astro/astronomy.md)
-+ [Assembly](./assembler/assembly.md)
-+ [Books](#books)
-+ [Build Tools](./buildtools/buildtools.md)
-+ [Crypto](./crypto/cryptography.md)
-+ [Code Art](./code-art/code-art.md)
-+ [Computer Architecture](./computer-architecture/computer-architecture.md)
-+ [Computer Science Research](./cs-research/cs-research.md)
-+ [Containers](./containers/containers.md)
-+ [Data](./data/ds.md)
-+ [Data Structure](./ds/data-structures.md)
-+ [Digital Design](./digital-design/digital-design.md)
-+ [DSP](#dsp)
-+ [Embedded](./embedded/embedded.md)
-+ [Frontend](#frontend)
-+ [Filesystem](#fs)
-+ [Git](#git)
-+ [GNU](#gnu)
-+ [GNU Plot](#gnuplot)
-+ [Graphics](#graphics)
-+ [HPC](#hpc)
-+ [Ideas](#ideas)
-+ [IRC](#irc)
-+ [Kernel](#kernel)
-+ [Languages](#languages)
-+ [LLM](#llm)
-+ [Math](./math/math.md)
-+ [Network](#network)
-+ [Notebooks](#notebooks)
-+ [Origami](./origami/origami.md)
-+ [Papers](./papers/papers.md)
-+ [Philosophy](#philosophy)
-+ [Posix](#posix)
-+ [Postgresql](./postgres/postgres.md)
-+ [Platforms](#platforms)
-+ [Psychology](#psychology)
-+ [Quantum](#quantum)
-+ [RFC](./rfc/rfc.md)
-+ [SIMD](#simd)
-+ [Sqlite](#sqlite)
-+ [Tools](#tools)
-+ [Unix](#unix)
-+ [Vim](#vim)
-+ [Web](#web)
-
----
-
-
----
-
-### Design
-
+- ## About
+  
+  A collection of tidbits on things I learn
+  
+  ---
+- ## Contents
+  
+  There are #441 articles
+  
+  ---
+- ## Categories
+  
+  + [ARM](./arm/arm.md)
+  + [Algorithm](./algo/algorithms.md)
+  + [Astronomy](./astro/astronomy.md)
+  + [Assembly](./assembler/assembly.md)
+  + [Books](#books)
+  + [Build Tools](./buildtools/buildtools.md)
+  + [Crypto](./crypto/cryptography.md)
+  + [Code Art](./code-art/code-art.md)
+  + [Computer Architecture](./computer-architecture/computer-architecture.md)
+  + [Computer Science Research](./cs-research/cs-research.md)
+  + [Containers](./containers/containers.md)
+  + [Data](./data/ds.md)
+  + [Data Structure](./ds/data-structures.md)
+  + [Digital Design](./digital-design/digital-design.md)
+  + [DSP](#dsp)
+  + [Embedded](./embedded/embedded.md)
+  + [Frontend](#frontend)
+  + [Filesystem](#fs)
+  + [Git](#git)
+  + [GNU](#gnu)
+  + [GNU Plot](#gnuplot)
+  + [Graphics](#graphics)
+  + [HPC](#hpc)
+  + [Ideas](#ideas)
+  + [IRC](#irc)
+  + [Kernel](#kernel)
+  + [Languages](./languages/languages.md)
+  + [LLM](#llm)
+  + [Math](./math/math.md)
+  + [Network](#network)
+  + [Notebooks](#notebooks)
+  + [Origami](./origami/origami.md)
+  + [Papers](./papers/papers.md)
+  + [Philosophy](#philosophy)
+  + [Posix](#posix)
+  + [Postgresql](./postgres/postgres.md)
+  + [Platforms](#platforms)
+  + [Psychology](#psychology)
+  + [Quantum](#quantum)
+  + [RFC](./rfc/rfc.md)
+  + [SIMD](#simd)
+  + [Sqlite](#sqlite)
+  + [Tools](#tools)
+  + [Unix](#unix)
+  + [Vim](#vim)
+  + [Web](#web)
+  
+  ---
+  
+  
+  ---
+- ### Design
 - [Covariance and Contravariance](./design/covariance-and-contravariance.md)
 - [Law of Demeter.md](./design/law-of-demeter.md)
-
----
-
-### DSP
-
+  
+  ---
+- ### DSP
 - [Random Signals](./dsp/random-signal.md)
 - [Filters](./dsp/filters.md)
-
----
-
-### Frontend
-
-#### React
-
+  
+  ---
+- ### Frontend
+- #### React
 - [React Froward Ref](./frontend/react/forward-ref.md)
-
-#### Core Web
-
+- #### Core Web
 - [Request Animation Frame](./frontend/browser/raf.md)
-
-### Core CSS
-
+- ### Core CSS
 - [Flex Box](./frontend/browser/flex.md)
 - [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
 - [Before After Pseudo Elements](./frontend/css/before-after-pseudo-elements.md)
 - [Linear Gradient](./frontend/css/linear-gradient.md)
 - [Multiclass Selectors](./frontend/css/multiclass-selectors.md)
 - [CSS Matrix Transforms](./frontend/css/css-matrix-transform.md)
-
-#### Frontend Tools
-
+- #### Frontend Tools
 - [Emmet Abbreviations](./frontend/tools/emmet.md)
-
-#### CSS Tricks
-
+- #### CSS Tricks
 - [Pure CSS Triangles](./frontend/css/pure-css-triangles.md)
-
----
-
-### Filesystem {#fs}
-
+  
+  ---
+- ### Filesystem {#fs}
 - [FAT Filesystem](./fs/fat.md)
-
----
-
-### Git
-
+  
+  ---
+- ### Git
 - [Co authoring Commits](./git/co-authoring-commits.md)
 - [Update branch with upstream](./git/update-branch.md)
 - [Check out a PR](./git/checkout-pr.md)
@@ -125,251 +104,60 @@ There are #441 articles
 - [Git bisect](./git/git-bisect.md)
 - [Git tag types](./git/git-tag.md)
 - [Git submodule Update](./git/submodule-update.md)
-
----
-
-### GNU
-
+  
+  ---
+- ### GNU
 - [dejagnu](./gnu/dejagnu.md)
 - [gperf](./gnu/gperf.md)
 - [recutils](./gnu/recutils.md)
 - [texinfo](./gnu/texinfo.md)
-
----
-
-### GNUPlot
-
+  
+  ---
+- ### GNUPlot
 - [gnuplot color theme](./gnuplot/color-theme.md)
 - [gnuplot output terminals](./gnuplot/terminal.md)
 - [gnuplot fitting](./gnuplot/fit.md)
-
----
-
-### Graphics
-
+  
+  ---
+- ### Graphics
 - [Three JS](./graphics/three-js.md)
 - [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
-
----
-
-### IRC
-
+  
+  ---
+- ### IRC
 - [IRC Cheatsheet](./irc/irc-cheat-sheet.md)
 - [IRC Relay](./irc/relay.md)
-
----
-
-### Ideas
-
+  
+  ---
+- ### Ideas
 - [sqlite t-digest](./ideas/sqlite-tdigest.md)
 - [busybox httpd](./ideas/busybox-httpd.md)
-
----
-
-### Kernel
-
+  
+  ---
+- ### Kernel
 - [namespaces](./kernel/namespaces.md)
 - [sched_yield](./kernel/sched_yield.md)
 - [menuconfig](./kernel/menuconfig.md)
 - [vfs](./kernel/vfs.md)
-
----
-
-### Languages
-
-#### Bash
-
-- [Bash Check if env variable present](./languages/bash/bash-check-env-variable.md)
-- [Bash getopts](./languages/bash/bash-getopts.md)
-- [Bash params](./languages/bash/bash-params.md)
-- [Bash pass env variable to subcommand](./languages/bash/bash-pass-argument-to-sub-command.md)
-- [Bash read config file and store value from config file](./languages/bash/bash-read-store-config.md)
-- [Bash get script directory](./languages/bash/bash-script-dir.md)
-- [Bash subcommand](./languages/bash/bash-subcommand.md)
-- [Bash convert to upper case](./languages/bash/bash-uppercase.md)
-- [Bash check platform](./languages/bash/bash-check-platform.md)
-- [Bash declare](./languages/bash/bash-declare.md)
-- [Bash array](./languages/bash/bash-array.md)
-- [Bash for loop](./languages/bash/bash-forloop.md)
-
-#### Common
-
-- [Data structure alignment](./languages/generic/data-structure-alignment.md)
-- [Backpressure in Streams](./languages/generic/backpressure.md)
-- [BLAS](./languages/generic/blas.md)
-- [ABI](./languages/generic/abi.md)
-- [Alias Analysis](./languages/generic/alias-analysis.md)
-- [Bitwise Tricks](./languages/generic/bitwise-tricks.md)
-
-#### C/CPP Compilers {#c-cpp-compilers}
-
-- [What is dSYM](./languages/c-compiler/what-is-dsym.md)
-- [Ignore unused var in C/C++](./languages/c-compiler/unused-variables.md)
-- [Creating a Shared Library](./languages/c-compiler/shared-library.md)
-- [Include Guards in C](./languages/c-compiler/include-guard.md)
-- [Setup for LLDB](./languages/c-compiler/setup-lldb.md)
-- [Pragma once](./languages/c-compiler/pragma-once.md)
-- [restrict](./languages/c-compiler/restrict.md)
-- [File as Flag](./languages/c-compiler/file-as-flags.md)
-- [Frame Pointer](./languages/c-compiler/frame-pointer.md)
-- [Compilation Flags](./languages/c-compiler/flags.md)
-- [Auto Vectorization](./languages/c-compiler/auto-vectorization.md)
-- [Compact Unwinding](./languages/c-compiler/compact-unwinding.md)
-- [DWARF](./languages/c-compiler/dwarf.md)
-- [Stack Unwinding](./languages/c-compiler/stack-unwinding.md)
-- [Common Subexpression Elimination](./languages/c-compiler/common-subexpression-elimination.md)
-- [IRA algorithm](./languages/c-compiler/ira-algorithm.md)
-- [Loop Distribution](./languages/c-compiler/loop-distribution.md)
-- [Profile Guided Optimization](./languages/c-compiler/profile-guided-optimization.md)
-- [Output ASM](./languages/c-compiler/output-asm.md)
-- [Pragmas in define](./languages/c-compiler/pragmas-in-define.md)
-- [Struct Packing](./languages/c-compiler/struct-packing.md)
-- [Inline ASM](./languages/c-compiler/inline-asm.md)
-- [Offloading PTX](./languages/c-compiler/offloading-ptx.md)
-- [AVX](./languages/c-compiler/avx.md)
-- [POD](./languages/c-compiler/pod.md)
-- [C Compiler fast math](./languages/c-compiler/fast-math.md)
-- [C Compiler FORTIFY\_SOURCE](./languages-c-compiler/fortify-source.md)
-- [Cost of integer division](./languages/c-compiler/integer-division.md)
-- [FFTW libraries](./languages/c-compiler/fftw-libraries.md)
-- [Offloading](./languages/c-compiler/offloading.md)
-- [CPP Dialect](./languages/c-compiler/cpp-dialect.md)
-
-##### Clang
-
-- [Clang specific auto vectorization features](./languages/c-compiler/clang/auto-vectorization.md)
-- [Clang specific flags](./languages/c-compiler/clang/clang-specific-flags.md)
-- [clangd compile options](./languages/c-compiler/clang/clangd-compile-options.md)
-- [Range constraint of Multiplication and Division](./languages/c-compiler/clang/muldiv-range-constraint.md)
-- [Clang time trace](./languages/c-compiler/clang/time-trace.md)
-
-##### LLVM
-
-- [LLVM passes](./languages/llvm/llvm-passes.md)
-- [LLVM tools](./languages/llvm/llvm-tools.md)
-- [LLVM IR](./languages/llvm/llvm-ir.md)
-
-##### GCC
-
-- [GCC specific auto vectorization features](./languages/c-compiler/gcc/auto-vectorization.md)
-- [Tree SSA](./languages/c-compiler/gcc/tree-ssa.md)
-- [Function Multiversioning](./languages/c-compiler/gcc/function-multiversioning.md)
-
-#### C
-
-- [Function as Argument with function pointer](./languages/c/function-pointer-usage.md)
-- [Optargs for cli arg parsing](./languages/c/opt-arg.md)
-- [Setting OpenSSL in Makefile](./languages/c/openssl-makefile.md)
-- [Default Argument](./languages/c/default-arg.md)
-- [Static Method](./languages/c/static-function.md)
-- [CWeb](./languages/c/cweb.md)
-
-#### CPP
-
-- [Initializer List](./languages/cplusplus/initializer-list.md)
-- [Copy Constructor](./languages/cplusplus/copy-ctor.md)
-- [Move Contructor](./languages/cplusplus/move-ctor.md)
-- [Trailing Return Type](./languages/cplusplus/trailing-return-type.md)
-- [auto and decltype](./languages/cplusplus/auto-decltype.md)
-- [Remove Reference](./languages/cplusplus/remove-reference.md)
-- [const member function](./languages/cplusplus/const-member-function.md)
-- [vectors](./languages/cplusplus/vectors.md)
-- [Run-Time Type Information](./languages/cplusplus/rtti.md)
-- [Rule of Five and One](./languages/cplusplus/rule-5-0.md)
-- [C++ Modules](./languages/cplusplus/modules.md)
-- [C++ override ostream](./languages/cplusplus/overide-ostream-cout.md)
-- [Likely Attribute](./languages/cplusplus/likely_attribute.md)
-- [Inline](./languages/cplusplus/inline.md)
-
-#### Fortran
-
-- [GPU Fortran](./languages/fortran/gpu-fortran.md)
-
-#### Go
-
-- [Using C Libraries in Go](./languages/go/cgo/using-c-libraries-in-go.md)
-- [Using Go Libraries in C](./languages/go/cgo/using-go-libraries-in-c.md)
-- [Compiling Go for ARM](./languages/go/cross-compilation/ARM.md)
-
-#### HPC
-
-- [Domain Decomposition](./languages/hpc/domain-decomposition.md)
-- [GPU Acceleration](./languages/hpc/gpu-acceleration.md)
-- [OpenMP](./languages/hpc/openmp.md)
-- [ASIC](./languages/hpc/asic.md)
-- [FPGA](./languages/hpc/fpga.md)
-- [Cuda](./languages/hpc/cuda.md)
-- [Optimizing x86 code](./languages/hpc/optimizing-x86.md)
-- [LLVM MCA](./languages/hpc/machine-code-analysis.md)
-- [MPI Bindings](./languages/hpc/mpi-bindings.md)
-- [CUDA Direct](./languages/hpc/cuda-direct.md)
-- [Thrust](./languages/hpc/thrust.md)
-
-#### Perl
-
-- [Read line by line](./languages/perl/read-line-by-line.md)
-- [Perl run modes](./languages/perl/perlrun-modes.md)
-
-#### Python
-
-- [Closing plots in matplotlib](./languages/py/matplotlib-closing-figure.md )
-- [Downloading from Google Collab](./languages/py/download-from-google-collab.md)
-
-#### Tex
-
-- [MathJax](./languages/tex/mathjax.md)
-
-#### TS
-
-- [Typescript Conditional Typing](./languages/typescript/conditional-typing.md)
-
-#### Rust
-
-- [Compiling Rust for ARM](./languages/rust/cross-compilation/ARM.md)
-- [Rust Unsafe](./languages/rust/unsafe.md)
-
-#### Java
-
-- [JAR Packing Java](./languages/java/jar-packing.md)
-
-#### JS
-
-- [Yarn Berry](./languages/js/yarn-berry.md)
-- [Convert from hex to UTF-8 in Node](./languages/js/convert-from-hex-to-utf8.md)
-- [Incresing libuv Thread pool](./languages/js/libuv_thread_increase.md)
-
----
-
-### LLM
-
+  
+  ---
+- ### LLM
 - [Embedding](./llm/embedding.md)
 - [Vector Stores](./llm/vector_store.md)
 - [LLM](./llm/llm.md)
 - [LLM Glue Benchmark](./llm/glue_benchmark.md)
 - [LLM for TDD](llm/llm-for-tdd.md)
-
-
----
-
-### Math Research
-
-- [Heighway Dragon](./math-research/heighway-dragon.md)
-- [Fibonnaci Matrix Difference Equation](./math-research/fibonnaci-matrix-difference-equations.md)
-
----
-
-### Network
-
+  
+  ---
+- ### Network
 - [Gopher Protocol](./network/gopher.md)
 - [Data URL](./network/data-url.md)
 - [Preflight Request](./network/http-preflight.md)
 - [WSDL](./network/wsdl.md)
 - [CGI Interface](./network/cgi.md)
-
----
-
-### Notebooks
-
+  
+  ---
+- ### Notebooks
 - [CASA Imaging](https://github.com/Mark1626/knowledge/blob/master/notebooks/CASA%20Imaging.ipynb)
 - [Visualising FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/Effects%20of%20Fourier%20Transform.ipynb)
 - [Normal Equations](https://github.com/Mark1626/knowledge/blob/master/notebooks/Normal%20Equations.ipynb)
@@ -385,238 +173,147 @@ There are #441 articles
 - [Power Spectral Density](https://github.com/Mark1626/knowledge/blob/master/notebooks/Power%20Spectral%20Density.ipynb)
 - [R2C FFT, C2C FFT, IFFT through FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/R2C%20FFT%2C%20C2C%20FFT%2C%20IFFT%20through%20FFT.ipynb)
 - [Analysing Linear Polarisation](https://github.com/Mark1626/knowledge/blob/master/notebooks/Analyzing%20Linear%20Polarisation.ipynb)
-
----
-
-### Philosophy
-
+  
+  ---
+- ### Philosophy
 - [Mu](./philosophy/mu.md)
 - [Absurdism](./philosophy/absurdism.md)
 - [Existentialism](./philosophy/existentialism.md)
-
----
-
-### POSIX
-
+  
+  ---
+- ### POSIX
 - [regex](./posix/regex.md)
-
----
-
-### Physics
-
+  
+  ---
+- ### Physics
 - [Barycenter](./physics/barycenter.md)
 - [Radial Velocity](./physics/radial-velocity.md)
-
----
-
-### Psychology
-
+  
+  ---
+- ### Psychology
 - [Pygmalion Effect](./psychology/pygmalion-effect.md)
-
----
-
-### Platforms
-
-#### DOS
-
+  
+  ---
+- ### Platforms
+- #### DOS
 - [Setting PATH in DOS](./platforms/dos/set-path.md)
 - [Job File Table](./platforms/dos/job-file-table.md)
 - [COM file defaults](./platforms/dos/com-file-defaults.md)
 - [Check for input](./platforms/dos/reading-input.md)
-
----
-
-### Quantum
-
+  
+  ---
+- ### Quantum
 - [cnot gate](./quantum/cnot-gate.md)
 - [entanglement](./quantum/entanglement.md)
 - [quantum-circuit](./quantum/quantum-circuit.md)
 - [qubit](./quantum/qubit.md)
 - [quantum teleportation](./quantum/teleportation.md)
 - [toffoli gates](./quantum/toffoli-gate)
-
-#### Notebooks
-
+- #### Notebooks
 - [Bell State](https://github.com/Mark1626/knowledge/blob/master/quantum/Bell%20State.ipynb)
 - [Full Adder](https://github.com/Mark1626/knowledge/blob/master/quantum/Full%20Adder.ipynb)
 - [GHZ State](https://github.com/Mark1626/knowledge/blob/master/quantum/GHZ%20State.ipynb)
 - [W State](https://github.com/Mark1626/knowledge/blob/master/quantum/W%20State.ipynb)
-
----
-
-### SIMD
-
+  
+  ---
+- ### SIMD
 - [Intrinsics reference](./simd/reference.md)
 - [Intrinsics Learning Resources and Blogs](./simd/learning-resources-blogs.md)
-
-#### x86
-
+- #### x86
 - [AVX Cmp](./simd/x86/avx-cmp.md)
 - [SSE2](./simd/x86/sse2.md)
 - [AVX512](./simd/x86/avx512.md)
-
-#### Neon
-
-
----
-
-### Sqlite
-
+- #### Neon
+  
+  
+  ---
+- ### Sqlite
 - [Execute Single Query In Sqlite Cli](./sqlite/sqlite-cli-command.md)
 - [Change default separator](./sqlite/change-default-separator.md)
 - [Output Queries to File](./sqlite/output-queries-to-file.md)
 - [sqlite import csv](.sqlite/sqlite-import-csv.md)
 - [Run script on sqlite DB](.sqlite/sqlite-script.md)
-
----
-
-### Tools
-
-#### apr
-
+  
+  ---
+- ### Tools
+- #### apr
 - [apr](./tools/apr.md)
-
-#### ab
-
+- #### ab
 - [Apache Benchmark](./tools/ab.md)
-
-### apropos
-
+- ### apropos
 - [apropos](./tools/apropos.md)
-
-#### Clang Format {#clang-format}
-
+- #### Clang Format {#clang-format}
 - [Clang Format](./tools/clang-format.md)
-
-#### convert
-
+- #### convert
 - [Resize Image with Convert](./tools/convert.md)
 - [Tint Image with Convert](./tools/convert-tint-image.md)
-
-#### cURL
-
+- #### cURL
 - [cURL POST](./tools/curl-post-basics.md)
 - [cURL Format](./tools/curl-post-format.md)
-
-### dc
-
+- ### dc
 - [DC Calculator](./tools/dc.md)
-
-#### dd
-
+- #### dd
 - [dd](./tools/dd.md)
-
-#### Dracula
-
+- #### Dracula
 - [Dracula](./tools/dracula.md)
-
-#### ffmpeg
-
+- #### ffmpeg
 - [Convert Video format with ffmpeg](./tools/ffmpeg.md)
-
-#### gpg
-
+- #### gpg
 - [gpg](./tools/gpg.md)
-
-#### hexdump
-
+- #### hexdump
 - [Hexdump](./tools/hexdump.md)
-
-### i3
-
+- ### i3
 - [i3wm](./tools/i3.md)
-
-### imagemagik
-
+- ### imagemagik
 - [mogrify compress image](./tools/compress-image.md)
-
-### jot
-
+- ### jot
 - [jot](./tools/jot.md)
-
-### locate
-
+- ### locate
 - [locate](./tools/locate.md)
-
-#### Lynx
-
+- #### Lynx
 - [Lynx Print HTML](./tools/lynx-print-html-page.md)
-
-#### m4
-
+- #### m4
 - [m4](./tools/m4.md)
-
-#### nm
-
+- #### nm
 - [nm](./tools/nm.md)
-
-#### nmap
-
+- #### nmap
 - [Scanning local network IPs with NMap](./tools/nmap.md)
-
-#### otool
-
+- #### otool
 - [otool](./tools/otool.md)
-
-#### pactl
-
+- #### pactl
 - [pactl](./tools/pactl.md)
-
-#### perf
-
+- #### perf
 - [perf](./tools/perf.md)
-
-#### pkg-config
-
+- #### pkg-config
 - [pkg-config](./tools/pkg-config.md)
-
-#### ppm
-
+- #### ppm
 - [ppm](./tools/ppm.md)
-
-#### rlwrap
-
+- #### rlwrap
 - [rlwrap](./tools/rlwrap.md)
-
-#### rs
-
+- #### rs
 - [rs](./tools/rs.md)
-
-#### seq
-
+- #### seq
 - [seq](./tools/seq.md)
-
-#### snap
-
+- #### snap
 - [snap](./tools/snap.md)
-
-#### tar
-
+- #### tar
 - [tar](./tools/tar.md)
-
-#### tmux
-
+- #### tmux
 - [tmux copy pane content](./tools/tmux-copy-pane-content.md)
 - [tmux rename window](./tools/tmux-rename.md)
-
-#### wget
-
+- #### wget
 - [wget](./tools/wget.md)
-
----
-
-### Unicode
-
+  
+  ---
+- ### Unicode
 - [Block elements](./unicode/block-elements.md)
 - [Box drawing](./unicode/box-drawing.md)
 - [Dingbat](./unicode/dingbat.md)
 - [Geometric Shapes](./unicode/geometric-shapes.md)
 - [Mathematical Operations](./unicode/mathematical-operators.md)
-
----
-
-### Unix
-
+  
+  ---
+- ### Unix
 - [ar](./unix/ar.md)
 - [Cron](./unix/cron.md)
 - [Difference between glibc and libc6](./unix/diff-libgc-and-libc6.md)
@@ -648,11 +345,9 @@ There are #441 articles
 - [Ghost Script](./unix/gs.md)
 - [TFPT](./unix/tftp.md)
 - [Kernel Modules](./unix/kernel-modules.md)
-
----
-
-### Vim
-
+  
+  ---
+- ### Vim
 - [How to exit vim](./vim/how-to-close.md)
 - [Vim packages](./vim/vim-packages.md)
 - [Find and Replace](./vim/find-and-replace.md)
@@ -661,19 +356,16 @@ There are #441 articles
 - [Paste From Clipboard in MacOS](./vim/paste-clipboard.md)
 - [Vim marks](./vim/vim-marks.md)
 - [Replace and Change](./vim/replace-change.md)
-
----
-
-### Web
-
+  
+  ---
+- ### Web
 - [Standard SubResource Integrity - SSRI](./web/ssri.md)
-
----
-
-## Credits
-
-Inspired by
-+ [yoshuawuyts](https://github.com/yoshuawuyts/knowledge)
-+ [jbranchaud](https://github.com/jbranchaud/til)
-
-You can find other similar repos in [RichardLitt](https://github.com/RichardLitt)'s [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) list
+  
+  ---
+- ## Credits
+  
+  Inspired by
+  + [yoshuawuyts](https://github.com/yoshuawuyts/knowledge)
+  + [jbranchaud](https://github.com/jbranchaud/til)
+  
+  You can find other similar repos in [RichardLitt](https://github.com/RichardLitt)'s [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) list

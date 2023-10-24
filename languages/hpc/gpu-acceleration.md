@@ -1,6 +1,6 @@
 # GPU Acceleration
 
-[Back](../../index.md#hpc){: .button}
+**From:** [Languages](../languages.md){: .button}
 
 ## OpenCL
 

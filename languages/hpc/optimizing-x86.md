@@ -1,5 +1,5 @@
 # Optimizing x86
 
-[Back](../../index.md#hpc){: .button}
+**From:** [Languages](../languages.md){: .button}
 
 https://www.agner.org/optimize/optimizing_assembly.pdf

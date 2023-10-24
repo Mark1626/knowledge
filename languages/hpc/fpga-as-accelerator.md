@@ -1,6 +1,6 @@
 # Field Programmable Gate Array - FPGA
 
-[Back](../../index.md#hpc){: .button}
+**From:** [Languages](../languages.md){: .button}
 
 Case study on offloading CPU code to FPGA
 

@@ -1,6 +1,6 @@
 # Inline ASM
 
-[Back](../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 `asm("statements" : output_registers : input_registers : clobber_registers)`
 

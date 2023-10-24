@@ -1,6 +1,6 @@
 # Bash Declare
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 ```bash
 # Get info on a variable

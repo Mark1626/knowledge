@@ -1,6 +1,6 @@
 # Read line by line
 
-[Back](../../index.md#perl){: .button}
+[Back](./perl.md){: .button}
 
 ```pl
 while(<>) {

@@ -1,8 +1,8 @@
 # Download from Jupyter Lab
 
-[Back](../../index.md)
+[Back](./py.md)
 
-```
+```py
 from google.colab import files
 files.download('example.txt')
 ```

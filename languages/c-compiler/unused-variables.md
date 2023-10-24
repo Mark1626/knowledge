@@ -1,6 +1,6 @@
 # Ignore unused variables
 
-[Back](../../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 #### In clang and GCC
 

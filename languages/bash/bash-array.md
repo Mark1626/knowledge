@@ -1,6 +1,6 @@
 # Bash array
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 ```
 declare -a arr=(1 2 3 4)

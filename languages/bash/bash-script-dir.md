@@ -1,6 +1,6 @@
 # Bash get script directory
 
-[Back](../../index.md){: .button}
+[Back](./bash.md)
 
 In Bash the current script directory can be found as follows, this is important when sourcing a script relative to the parent script into execution
 

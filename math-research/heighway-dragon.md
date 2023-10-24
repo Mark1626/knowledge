@@ -1,6 +1,6 @@
 ## Heighway Dradon
 
-[Back](../../index.md){: .button}
+[Back](./math-research.md){: .button}
 
 [Heighway Dragon](https://en.wikipedia.org/wiki/Dragon_curve)
 

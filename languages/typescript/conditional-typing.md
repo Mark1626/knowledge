@@ -1,6 +1,6 @@
 # Conditional Typing
 
-[Back](../../index.md){: .button}
+[Back](./typescript.md){: .button}
 
 ```js
 function bind<T extends Callback | ConcurrentCallback>() {

@@ -1,6 +1,6 @@
 # Auto Vectorization
 
-[Back](../../../index.md#clang){: .button}
+**From:** [LLVM](../llvm.md){: .button}
 
 - `ffast-math` - Float reduction needs this flag to be turned on
 

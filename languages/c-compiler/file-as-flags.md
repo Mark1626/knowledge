@@ -1,6 +1,6 @@
 # File as Flag
 
-[Back](../../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 
 Assuming all flags are present in a file `flags`

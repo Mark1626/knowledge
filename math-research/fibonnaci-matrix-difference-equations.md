@@ -1,6 +1,6 @@
 # Matrix Difference Equation for calculating Fibonnaci like sequences
 
-[Back](../../index.md){: .button}
+[Back](./math-research.md){: .button}
 
 An nth order fibonnaci series can be defined as
 

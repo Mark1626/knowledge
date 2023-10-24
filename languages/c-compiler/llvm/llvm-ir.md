@@ -1,6 +1,6 @@
 # LLVM IR
 
-[Back](../../../index.md)
+[Back](./llvm.md)
 
 ## Reading
 

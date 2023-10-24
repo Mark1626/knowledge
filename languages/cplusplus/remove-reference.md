@@ -1,6 +1,6 @@
 ### Remove reference
 
-[Back](../../index.md#cpp){: .button}
+[Back](./cplusplus.md){: .button}
 
 If variable is of type T then return T, else if it a reference then return the actual type
 

@@ -1,5 +1,7 @@
 ## GPU Direct Storage
 
+**From:** [Languages](../languages.md){: .button}
+
 https://docs.nvidia.com/gpudirect-storage/index.html
 
 [GPUDirect](https://developer.nvidia.com/gpudirect)

@@ -1,6 +1,6 @@
 # Bash convert to upper case
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 ```bash
 a="test"

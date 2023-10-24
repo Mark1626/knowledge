@@ -1,5 +1,5 @@
 # Applicaton Binary Interface(ABI)
 
-[Back](../../index.md){: .button}
+[Back](./common.md){: .button}
 
 ABI is an interface between two binary modules

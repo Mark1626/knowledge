@@ -1,6 +1,6 @@
 # Output Assembly
 
-[Back](../../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 Generated assembly can be outputted using the `-S` flag and mentioning the platform
 

@@ -1,6 +1,6 @@
 # Setup LLDB
 
-[Back](../../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 To be able to set breakpoints in lldb compile the program with the `-g` flag
 

@@ -1,6 +1,6 @@
 # Bash read config file and store value from config file
 
-[Back](../../index.md){: .button}
+[Back](./bash.md)
 
 ## Reading config file
 

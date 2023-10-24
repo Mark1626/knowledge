@@ -1,6 +1,6 @@
 # C Default Argument
 
-[Back](../../index.md){: .button}
+[Back](./c.md){: .button}
 
 
 ## References and Reading

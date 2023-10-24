@@ -1,6 +1,6 @@
 # Initializer list
 
-[Back](../../index.md#cpp)
+[Back](./cplusplus.md)
 
 Initializing variables can be done with Initializer list in the contructors
 

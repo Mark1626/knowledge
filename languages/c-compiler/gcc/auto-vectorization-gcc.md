@@ -1,6 +1,6 @@
 # Auto Vectorization
 
-[Back](../../../index.md#gcc){: .button}
+**From:** [GCC](./gcc.md){: .button}
 
 ## Vectorizing float operations
 

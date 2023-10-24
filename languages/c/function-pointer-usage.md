@@ -1,6 +1,6 @@
 # Function pointer to pass function as argument
 
-[Back](../../index.md){: .button}
+[Back](./c.md){: .button}
 
 Came across this example
 

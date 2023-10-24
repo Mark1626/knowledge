@@ -1,5 +1,7 @@
 # Thrust
 
+**From:** [Languages](../languages.md){: .button}
+
 ## Introduction
 
 Thrust is a C++ library that allows Cuda, and OpenMP to be used underneath. Thrust is supposed to increase productivity compared to Cuda, and it is possibility to interpolate between Cuda.

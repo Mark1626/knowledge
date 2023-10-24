@@ -1,6 +1,6 @@
 # Bash getopts
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 `getopts` in bash is similar to `getopt.h`
 

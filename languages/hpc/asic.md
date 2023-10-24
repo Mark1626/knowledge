@@ -1,6 +1,6 @@
 # ASIC
 
-[Back](../../index.md#hpc){: .button}
+**From:** [Languages](../languages.md){: .button}
 
 Application specific integrated circuit is an IC customized for a particular use
 

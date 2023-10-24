@@ -1,6 +1,6 @@
 # Const Member Function
 
-[Back](../../index.md#cpp){: .button}
+[Back](./cplusplus.md){: .button}
 
 In a const member function `this` is `const`, and cannot be altered
 

@@ -1,6 +1,6 @@
 # Offloading target to PTX
 
-[Back](../index.md#c-cpp-compilers){: .button}
+[Back](./c-compiler.md){: .button}
 
 ## Offloading
 

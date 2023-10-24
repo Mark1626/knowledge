@@ -1,6 +1,6 @@
 # Likely and Unlikely attribute
 
-[Back](../../index.md){: .button#cpp}
+[Back](./cplusplus.md){: .button#cpp}
 
 In C++20 `[[unlikely]]`, `[[likely]]` attributes can be applied to statements, they allow the compiler to paths of execution
 

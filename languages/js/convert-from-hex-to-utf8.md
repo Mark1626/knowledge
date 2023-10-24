@@ -1,6 +1,6 @@
 # Convert hex to utf
 
-[Back](../../index.md){: .button}
+[Back](./javascript.md){: .button}
 
 ```js
 

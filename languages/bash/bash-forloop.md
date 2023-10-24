@@ -1,6 +1,6 @@
 # Bash loop
 
-[Back](../../index.md#bash){: .button}
+[Back](./bash.md)
 
 ```bash
 for i in 1 2 3 4
