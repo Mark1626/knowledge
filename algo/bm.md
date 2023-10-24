@@ -1,6 +1,6 @@
 # Boyer Moore
 
-[Back](../index.md#algo){: .button}
+[Back](./algorithms.md){: .button}
 
 Boyer Moore has a good suffix rule and a bad suffix rule that allows skipping missed patterns quickly
 

@@ -1,6 +1,6 @@
 # Chow's Priority Coloring Algorithm
 
-[Back](../index.md#algo){: .button}
+[Back](./algorithms.md){: .button}
 
 Chow's Priority Coloring is a coloring algorithm for integrated register allocator
 

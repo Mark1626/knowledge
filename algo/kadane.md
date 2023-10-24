@@ -1,6 +1,6 @@
 # Kadane
 
-[Back](../index.md#algo){: .button}
+[Back](./algorithms.md){: .button}
 
 ```py
 def max_subarray(numbers):
