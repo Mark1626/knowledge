@@ -1,6 +1,6 @@
 # ephemerides
 
-[Back](../index.md#astro){: .button}
+[Back](./astronomy.md){: .button}
 
 In astronomy, an ephemerides gives the trajectory of natural astronomical objects. The oldest ephemerides is from 1st millennium BC
 

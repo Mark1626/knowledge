@@ -1,6 +1,6 @@
 # CMake Flags per Release Type
 
-[Back](../../index.md#cmake){: .button}
+[Back](../buildtools.md){: .button}
 
 ```cmake
 set(CMAKE_CXX_FLAGS "-Wall -Wextra -pedantic")

@@ -1,6 +1,6 @@
 # Glider
 
-[Back](../index.md){: .button}
+[Back](./code-art.md){: .button}
 
 A glider is a cellular automata in the Game of Life, the glider moves to the right corner
 

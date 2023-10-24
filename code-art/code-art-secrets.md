@@ -1,6 +1,6 @@
 # Code Art Secrets
 
-[Back](../index.md){: .button}
+[Back](./code-art.md){: .button}
 
 ### Ported from my old blog
 

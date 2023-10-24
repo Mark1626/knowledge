@@ -1,6 +1,6 @@
 # Index registers
 
-[Back](../../index.md#asm){: .button}
+[Back](../x86.md){: .button}
 
 - Source Index(SI) - Source index for instructions
 - Destination Index(DI) - Destination index for instructions

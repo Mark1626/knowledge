@@ -1,6 +1,6 @@
 # PTX Parallel Thread Execution
 
-[Back](../../index.md#ptx){: .button}
+[Back](../assembly.md){: .button}
 
 ```s
 

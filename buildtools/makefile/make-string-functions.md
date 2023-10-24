@@ -1,6 +1,6 @@
 # Make string functions
 
-[Back](../../index.md#make){: .button}
+[Back](../buildtools.md){: .button}
 
 ## wildcard
 

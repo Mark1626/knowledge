@@ -1,6 +1,6 @@
 # gdb usage for assembly
 
-[Back](../../index.md#asm){: .button}
+[Back](../x86.md){: .button}
 
 ```
 gdb ./app

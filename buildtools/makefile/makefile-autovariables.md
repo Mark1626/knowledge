@@ -1,6 +1,6 @@
 # Makefile Automatic Variables
 
-[Back](../../index.md#makefile){: .button}
+[Back](../buildtools.md){: .button}
 
 - **DEPS**: This is used to specify a dependency list; ie headers
 - **$@**: Tells to take the name of the file to the left of :

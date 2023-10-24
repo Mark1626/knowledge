@@ -1,6 +1,6 @@
 # Make Parallel Builds
 
-[Back](../../index.md#makefile){: .button}
+[Back](../buildtools.md){: .button}
 
 `make -j <number-of-threads>`
 

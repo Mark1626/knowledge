@@ -1,6 +1,6 @@
 # CMake Specify Compiler
 
-[Back](../../index.md#cmake){: .button}
+[Back](../buildtools.md){: .button}
 
 + `cmake -DCMAKE_C_COMPILER:FILEPATH=/path/to/gcc-11 -DCMAKE_CXX_COMPILER:FILEPATH=/path/to/g++-11 ..`
 + `export CC=/path/to/gcc-11`

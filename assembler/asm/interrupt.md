@@ -1,6 +1,6 @@
 # Interrupt
 
-[Back](../../index.md#asm){: .button}
+[Back](../x86.md){: .button}
 
 In asm `int` will interrupt and pass the control to the interrupt vector defined
 

@@ -1,6 +1,6 @@
 # Echoing Commands
 
-[Back](../../index.md#makefile){: .button}
+[Back](../buildtools.md){: .button}
 
 Prefixing a command with `@` will make it not print the command when executing it
 

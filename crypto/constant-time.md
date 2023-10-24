@@ -1,6 +1,6 @@
 # Constant Time Cryptography
 
-[Back](../index.md){: .button}
+[Back](./cryptography.md){: .button}
 
 ```
 function checkApiKey(inputKey, correctKey) {

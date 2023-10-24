@@ -1,6 +1,6 @@
 # .asciz vs .string
 
-[Back](../../index.md#gas){: .button}
+[Back](../x86.md){: .button}
 
 
 

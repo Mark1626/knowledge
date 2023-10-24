@@ -1,6 +1,6 @@
 # Include Makefile from other directory
 
-[Back](../../index.md#makefile-makefile){: .button}
+[Back](../buildtools.md-makefile){: .button}
 
 ```makefile
 # $(ROOT)/benchmark/Makefile

@@ -1,6 +1,6 @@
 # CMake Fetch
 
-[Back](../../index.md#cmake){: .button}
+[Back](../buildtools.md){: .button}
 
 ## Fetching Git Repo
 

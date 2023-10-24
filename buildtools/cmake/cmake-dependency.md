@@ -1,6 +1,6 @@
 # CMake specifying dependency as required
 
-[Back](../../index.md#cmake){: .button}
+[Back](../buildtools.md){: .button}
 
 ```
 find_package(SomePackage REQUIRED)

@@ -1,6 +1,6 @@
 # Hashcash
 
-[Back](../index.md){: .button}
+[Back](./cryptography.md){: .button}
 
 ```
 version:claimedBits:timestamp:resource:extension:randomValue:counter
