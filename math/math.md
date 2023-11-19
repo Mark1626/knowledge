@@ -31,6 +31,7 @@
 
 - [Normal Equations](./linear-algebra/normal-equations.md)
 - [Einstein Notation](./linear-algebra/einsum.md)
+- [Penrose Notation](./linear-algebra/graphical-notation.md)
 
 ## Number Theory
 

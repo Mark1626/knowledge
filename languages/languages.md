@@ -15,6 +15,7 @@
 9. [Typescript](./typescript/typescript.md)
 10. [Java](./java/java.md)
 11. [JS](./js/js.md)
+11. [Guile](./guile/guile.md)
 
 ## HPC
 
