@@ -6,3 +6,4 @@
 - [Quantization](./quantization.md)
 - [CNN](./cnn.md)
 - [RNN](./rnn.md)
+- [Fine tuning](./fine-tuning.md)

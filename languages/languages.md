@@ -34,3 +34,9 @@
 ## Compiler Tools
 
 1. [LLVM](./c-compiler/llvm/llvm.md)
+
+## MLIR
+
+1. [Dialects](./mlir/dialects.md)
+2. [Filecheck](./mlir/filecheck.md)
+3. [Tablegen](./mlir/tablegen.md)
