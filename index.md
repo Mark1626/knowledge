@@ -7,7 +7,7 @@
   ---
 - ## Contents
   
-  There are #445 articles
+  There are #446 articles
   
   ---
 - ## Categories
@@ -104,6 +104,7 @@
 - [Git bisect](./git/git-bisect.md)
 - [Git tag types](./git/git-tag.md)
 - [Git submodule Update](./git/submodule-update.md)
+- [Git force update detection](./git/git-force-push-detection.md)
   
   ---
 - ### GNU
