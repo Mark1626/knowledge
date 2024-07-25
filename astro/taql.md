@@ -1,6 +1,6 @@
 # TaQL
 
-[Back](./astronomy.md){: .button}
+[Back](../index.md#astronomy){: .button}
 
 TaQL is a query language like SQL for Measurement Sets
 

@@ -1,6 +1,6 @@
 # ARM Thumb
 
-[Back](../../arm/arm.md){: .button}
+[Back](../../index.md#arm){: .button}
 
 ARM processors can work on two modes ARM, Thumb.
 

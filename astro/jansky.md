@@ -1,6 +1,6 @@
 # Jansky
 
-[Back](./astronomy.md){: .button}
+[Back](../index.md#astronomy){: .button}
 
 Jansky is a unit of spectral flux density. It is equal to $$10^-26$$ watts per square meter per hertz
 

@@ -1,6 +1,6 @@
 # CASA
 
-[Back](./astronomy.md)
+[Back](../index.md#astronomy)
 
 ```py
 

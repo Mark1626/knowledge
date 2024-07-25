@@ -8,15 +8,15 @@
 
 # Contents
   
-  There are #447 articles
+  There are #448 articles
 
 ---
 
 # Categories
   
   + [ARM](#arm)
-  + [Algorithm](./algo/algorithms.md)
-  + [Astronomy](./astro/astronomy.md)
+  + [Algorithm](#algorithm)
+  + [Astronomy](#astronomy)
   + [Assembly](./assembler/assembly.md)
   + [Books](#books)
   + [Build Tools](./buildtools/buildtools.md)
@@ -40,7 +40,7 @@
   + [Ideas](#ideas)
   + [IRC](#irc)
   + [Kernel](#kernel)
-  + [Languages](./languages/languages.md)
+  + [Languages](#languages)
   + [LLM](#llm)
   + [Math](./math/math.md)
   + [Network](#network)
@@ -92,6 +92,121 @@
 - [Bresenham's line algorithm](./algo/bresenham.md)
 - [Cooley–Tukey FFT Algorithm](./algo/cooley-tukey.md)
 
+---
+
+## Astronomy
+
+- [Jansky(Jy)](./astro/jansky.md)
+- [uv plane](./astro/uv.md)
+- [TaQL](./astro/taql.md)
+- [ephemerides](./astro/ephemerides.md)
+- [Astronomical unit](./astro/au.md)
+- [Fanaroff Riley Classification](./astro/FR.md)
+
+---
+
+## Design
+- [Covariance and Contravariance](./design/covariance-and-contravariance.md)
+- [Law of Demeter.md](./design/law-of-demeter.md)
+
+---
+
+## DSP
+- [Random Signals](./dsp/random-signal.md)
+- [Filters](./dsp/filters.md)
+
+---
+
+## Frontend
+
+### React
+
+- [React Froward Ref](./frontend/react/forward-ref.md)
+
+#### Core Web
+
+- [Request Animation Frame](./frontend/browser/raf.md)
+
+### Core CSS
+
+- [Flex Box](./frontend/browser/flex.md)
+- [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
+- [Before After Pseudo Elements](./frontend/css/before-after-pseudo-elements.md)
+- [Linear Gradient](./frontend/css/linear-gradient.md)
+- [Multiclass Selectors](./frontend/css/multiclass-selectors.md)
+- [CSS Matrix Transforms](./frontend/css/css-matrix-transform.md)
+
+### Frontend Tools
+
+- [Emmet Abbreviations](./frontend/tools/emmet.md)
+### CSS Tricks
+- [Pure CSS Triangles](./frontend/css/pure-css-triangles.md)
+
+---
+
+## Filesystem {#fs}
+- [FAT Filesystem](./fs/fat.md)
+
+---
+
+## Git
+
+- [Co authoring Commits](./git/co-authoring-commits.md)
+- [Update branch with upstream](./git/update-branch.md)
+- [Check out a PR](./git/checkout-pr.md)
+- [Create patch from commits](./git/create-patch-from-commit.md)
+- [Delete git submodule](./git/delete-submodule.md)
+- [Git bisect](./git/git-bisect.md)
+- [Git tag types](./git/git-tag.md)
+- [Git submodule Update](./git/submodule-update.md)
+- [Git force update detection](./git/git-force-push-detection.md)
+
+---
+
+## GNU
+
+- [dejagnu](./gnu/dejagnu.md)
+- [gperf](./gnu/gperf.md)
+- [recutils](./gnu/recutils.md)
+- [texinfo](./gnu/texinfo.md)
+
+---
+
+## GNUPlot
+
+- [gnuplot color theme](./gnuplot/color-theme.md)
+- [gnuplot output terminals](./gnuplot/terminal.md)
+- [gnuplot fitting](./gnuplot/fit.md)
+
+---
+
+## Graphics
+
+- [Three JS](./graphics/three-js.md)
+- [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
+
+---
+
+## IRC
+
+- [IRC Cheatsheet](./irc/irc-cheat-sheet.md)
+- [IRC Relay](./irc/relay.md)
+
+---
+
+## Ideas
+
+- [sqlite t-digest](./ideas/sqlite-tdigest.md)
+- [busybox httpd](./ideas/busybox-httpd.md)
+
+---
+
+## Kernel
+
+- [namespaces](./kernel/namespaces.md)
+- [sched_yield](./kernel/sched_yield.md)
+- [menuconfig](./kernel/menuconfig.md)
+- [vfs](./kernel/vfs.md)
 
 ---
 
@@ -272,105 +387,6 @@
 - [Dialects](./languages/mlir/dialects.md)
 - [Filecheck](./languages/mlir/filecheck.md)
 - [Tablegen](./languages/mlir/tablegen.md)
-
-  ---
-
-## Design
-- [Covariance and Contravariance](./design/covariance-and-contravariance.md)
-- [Law of Demeter.md](./design/law-of-demeter.md)
-
----
-
-## DSP
-- [Random Signals](./dsp/random-signal.md)
-- [Filters](./dsp/filters.md)
-
----
-
-## Frontend
-
-### React
-
-- [React Froward Ref](./frontend/react/forward-ref.md)
-
-#### Core Web
-
-- [Request Animation Frame](./frontend/browser/raf.md)
-
-### Core CSS
-
-- [Flex Box](./frontend/browser/flex.md)
-- [Bounding Client Rectangle](./frontend/css/bounding-client-rect.md)
-- [Before After Pseudo Elements](./frontend/css/before-after-pseudo-elements.md)
-- [Linear Gradient](./frontend/css/linear-gradient.md)
-- [Multiclass Selectors](./frontend/css/multiclass-selectors.md)
-- [CSS Matrix Transforms](./frontend/css/css-matrix-transform.md)
-
-### Frontend Tools
-
-- [Emmet Abbreviations](./frontend/tools/emmet.md)
-### CSS Tricks
-- [Pure CSS Triangles](./frontend/css/pure-css-triangles.md)
-
----
-
-## Filesystem {#fs}
-- [FAT Filesystem](./fs/fat.md)
-
----
-
-## Git
-
-- [Co authoring Commits](./git/co-authoring-commits.md)
-- [Update branch with upstream](./git/update-branch.md)
-- [Check out a PR](./git/checkout-pr.md)
-- [Create patch from commits](./git/create-patch-from-commit.md)
-- [Delete git submodule](./git/delete-submodule.md)
-- [Git bisect](./git/git-bisect.md)
-- [Git tag types](./git/git-tag.md)
-- [Git submodule Update](./git/submodule-update.md)
-- [Git force update detection](./git/git-force-push-detection.md)
-
----
-
-## GNU
-- [dejagnu](./gnu/dejagnu.md)
-- [gperf](./gnu/gperf.md)
-- [recutils](./gnu/recutils.md)
-- [texinfo](./gnu/texinfo.md)
-
----
-
-## GNUPlot
-- [gnuplot color theme](./gnuplot/color-theme.md)
-- [gnuplot output terminals](./gnuplot/terminal.md)
-- [gnuplot fitting](./gnuplot/fit.md)
-
----
-
-## Graphics
-- [Three JS](./graphics/three-js.md)
-- [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
-
----
-
-## IRC
-- [IRC Cheatsheet](./irc/irc-cheat-sheet.md)
-- [IRC Relay](./irc/relay.md)
-
----
-
-## Ideas
-- [sqlite t-digest](./ideas/sqlite-tdigest.md)
-- [busybox httpd](./ideas/busybox-httpd.md)
-
----
-
-## Kernel
-- [namespaces](./kernel/namespaces.md)
-- [sched_yield](./kernel/sched_yield.md)
-- [menuconfig](./kernel/menuconfig.md)
-- [vfs](./kernel/vfs.md)
 
 ---
 

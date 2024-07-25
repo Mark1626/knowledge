@@ -1,6 +1,6 @@
 # Cooley–Tukey FFT Algorithm
 
-[Back](./algorithms.md){: .button}
+[Back](../index.md#algorithm){: .button}
 
 ## DIT(Decimation in Time) FFT
 

@@ -1,6 +1,6 @@
 # UV Plane
 
-[Back](./astronomy.md){: .button}
+[Back](../index.md#astronomy){: .button}
 
 The UV plane is fringe pattern as a function of baseline length in wavelength
 

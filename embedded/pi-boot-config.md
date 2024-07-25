@@ -1,6 +1,6 @@
 ## Enabling devices in Raspberry IP
 
-[Back](./raspberry-pi.md){: .button}
+[Back](../index.md#arm){: .button}
 
 To enable a device, we need to add it in the device tree present in `/boot/config.txt`
 

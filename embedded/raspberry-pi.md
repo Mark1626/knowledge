@@ -1,6 +1,6 @@
 # Raspberry Pi
 
-[Back](../embedded/embedded.md)
+[Back](../index.md#arm)
 
 Raspberry Pi is a pocket sized computer
 

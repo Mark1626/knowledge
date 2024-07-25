@@ -1,6 +1,6 @@
 # Fanaroff Riley Classification
 
-[Back](./astronomy.md)
+[Back](../index.md#astronomy)
 
 ## About
 

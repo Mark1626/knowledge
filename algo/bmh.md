@@ -1,6 +1,6 @@
 # Boyer–Moore–Horspool algorithm
 
-[Back](./algorithms.md){: .button}
+[Back](../index.md#algorithm){: .button}
 
 Is an algorithm for finding substrings in strings with average-case complexity of O(n) and worst case O(mn)
 
