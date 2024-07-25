@@ -1,5 +1,5 @@
 # Tex
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [MathJax](./mathjax.md)

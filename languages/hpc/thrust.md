@@ -1,6 +1,6 @@
 # Thrust
 
-**From:** [Languages](../languages.md){: .button}
+[Back](../../index.md#hpc){: .button}
 
 ## Introduction
 

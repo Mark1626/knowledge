@@ -1,6 +1,6 @@
 # Optargs for cli arg parsing]
 
-[Back](./c.md){: .button}
+[Back](../../index.md#c){: .button}
 
 ## getopt
 

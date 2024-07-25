@@ -1,6 +1,6 @@
 # Tablegen
 
-[Back](../languages.md)
+[Back](../../index.md#mlir)
 
 TableGen is a DSL in MLIR/LLVM ecosystem to create passses and dialects.
 

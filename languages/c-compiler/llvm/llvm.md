@@ -1,6 +1,6 @@
 # LLVM
 
-**From:** [C Compiler](../c-compiler.md)
+**From:** [C Compiler](.../../index.md#ccpp-compilers)
 
 ## LLVM
 

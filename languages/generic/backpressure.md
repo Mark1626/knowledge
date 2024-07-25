@@ -1,6 +1,6 @@
 # Backpressure
 
-[Back](./common.md){: .button}
+[Back](../../index.md#generic){: .button}
 
 Backpressure is a technique used streams to control the flow of data, it is the buildup of data behind buffers.
 

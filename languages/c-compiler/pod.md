@@ -1,6 +1,6 @@
 # Plain old data structure or Passive data structure
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 POD refers to a data structure containing only data members and no member functions(constructors, virtual methods)
 

@@ -1,6 +1,6 @@
 # Time Trace
 
-[Back](../llvm.md){: .button}
+[Back](../../../../index.md#clang-specific){: .button}
 
 Flame chart profiler for Clang
 

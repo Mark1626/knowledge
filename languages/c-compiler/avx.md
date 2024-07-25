@@ -1,6 +1,6 @@
 # AVX
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 ## Translation of intrinsics
 

@@ -1,6 +1,6 @@
 # Stack unwinding
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 Stack unwinding is part of exception handling in C++
 

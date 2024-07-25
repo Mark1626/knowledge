@@ -1,6 +1,6 @@
 # Trailing return type
 
-[Back](./cplusplus.md){: .button}
+[Back](../../index.md#cpp){: .button}
 
 ```cpp
 auto add(int a, int b) -> int {

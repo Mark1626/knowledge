@@ -1,6 +1,6 @@
 # Flags
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 ## Basic
 

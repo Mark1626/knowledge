@@ -1,6 +1,6 @@
 # GCC Tree SSA
 
-[Back](./gcc.md)
+[Back](../../../index.md#gcc-specific)
 
 ## Reference
 

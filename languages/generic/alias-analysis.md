@@ -1,6 +1,6 @@
 # Alias Analysis
 
-[Back](./common.md){: .button}
+[Back](../../index.md#generic){: .button}
 
 Alias analysis is used to determine if a memory can be accessed in more than one way
 

@@ -1,6 +1,6 @@
 # Bash check platform
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 if [ "$(uname)" == "Darwin" ]; then

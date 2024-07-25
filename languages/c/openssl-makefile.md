@@ -1,6 +1,6 @@
 # Makefile for using OpenSSL
 
-[Back](./c.md){: .button}
+[Back](../../index.md#c){: .button}
 
 In OSX the path to openssl installed via brew is in `/usr/local/opt/openssl@1.1`
 

@@ -1,6 +1,6 @@
 # Clangd Compile Options
 
-[Back](../llvm.md){: .button}
+[Back](../../../../index.md#clang-specific){: .button}
 
 ```
 //compile_flags.txt

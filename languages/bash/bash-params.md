@@ -1,6 +1,6 @@
 # Bash params
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 echo "Number of arguments $#"

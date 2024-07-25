@@ -1,6 +1,6 @@
 # Data Structure Alignment
 
-[Back](./common.md){: .button}
+[Back](../../index.md#generic){: .button}
 
 [Data Structure Alignment](https://en.wikipedia.org/wiki/Data_structure_alignment)
 

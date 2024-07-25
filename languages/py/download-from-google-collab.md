@@ -1,6 +1,6 @@
 # Download from Jupyter Lab
 
-[Back](./py.md)
+[Back](../../index.md#python)
 
 ```py
 from google.colab import files

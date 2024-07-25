@@ -1,6 +1,6 @@
 # Filecheck
 
-[Back](../languages.md)
+[Back](../../index.md#mlir)
 
 Filecheck reads two files and uses one to verify it
 

@@ -1,6 +1,6 @@
 # OpenMP
 
-**From:** [Languages](../languages.md){: .button}
+[Back](../../index.md#hpc)
 
 ## Environment variables
 

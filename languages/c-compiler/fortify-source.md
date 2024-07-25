@@ -1,6 +1,6 @@
 # Fortify Source
 
-[Back](./c-compiler.md)
+[Back](../../index.md#ccpp-compilers)
 
 The `_FORTIFY_SOURCE` macro adds compiler time and run time checks for buffer overflows and memory sanity.
 

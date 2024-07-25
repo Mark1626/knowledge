@@ -1,6 +1,6 @@
 # Include Guard
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 > **Note:** This can only prevent this within the same compilation unit
 

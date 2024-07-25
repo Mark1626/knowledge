@@ -1,6 +1,6 @@
 # Different ways of packing JAR
 
-[Back](./java.md){: .button}
+[Back](../../index.md#java){: .button}
 
 
 #### Skinny JAR

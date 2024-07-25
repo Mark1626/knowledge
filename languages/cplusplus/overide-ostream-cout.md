@@ -1,6 +1,6 @@
 # Overriding ostream \<\< for cout
 
-[Back](./cplusplus.md){: .button}
+[Back](../../index.md#cpp){: .button}
 
 ```cpp
 class Test {

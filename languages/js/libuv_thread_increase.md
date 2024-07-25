@@ -1,6 +1,6 @@
 # Increasing number of threads of libuv
 
-[Back](./javascript.md)
+[Back](../../index.md#js)
 
 `nodejs` utilizes `libuv` internally for the event loop. By default it uses a 4 threads, this can be increased by setting the env `UV_THREADPOOL_SIZE`
 

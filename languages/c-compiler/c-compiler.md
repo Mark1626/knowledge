@@ -1,6 +1,6 @@
 ## C/CPP Compilers
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 1. [GCC](./gcc/gcc.md)
 1. [LLVM - Clang](./llvm/llvm.md)

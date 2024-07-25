@@ -1,6 +1,6 @@
 # Using Shared Objects and Dynamic Sinked Objects in Go
 
-[Back](../go.md){: .button}
+[Back](../../../index.md#go){: .button}
 
 > tags: go,c
 

@@ -1,6 +1,6 @@
 # Domain Decomposition
 
-**From:** [Languages](../languages.md){: .button}
+[Back](../../index.md#hpc)
 
 ## Optimal Solution
 

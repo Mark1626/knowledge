@@ -1,8 +1,11 @@
 # Guile Macros
--
-- ## Examples
-- **A simple expansion**
-- ```scm
+
+[Back](../../index.md#guile)
+
+## Examples
+
+**A simple expansion**
+```scm
   ; Macro
   ; Usage (walk west)
   ; Expanded to (walk-direction west)
@@ -12,8 +15,9 @@
            (walk-direction 'direction))))
   
   ```
-- **A more complex expansion that create a new procedure**
-- ```scm
+
+**A more complex expansion that create a new procedure**
+```scm
   (define-syntax game-action
       (syntax-rules ()
           ((game-action command subj obj place ...)
@@ -36,7 +40,6 @@
   
   ; Creates two new actions into the game
   ```
-- ## Further Reading
-- https://www.gnu.org/software/guile/manual/html_node/Macros.html
-  logseq.order-list-type:: number
--
+
+## Further Reading
+https://www.gnu.org/software/guile/manual/html_node/Macros.html

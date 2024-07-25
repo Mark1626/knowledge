@@ -1,5 +1,5 @@
 # TypeScript
 
-[Back](./typescript.md)
+[Back](../../index.md)
 
 - [Typescript Conditional Typing](./conditional-typing.md)

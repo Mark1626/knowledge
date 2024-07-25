@@ -1,6 +1,6 @@
 # Yarn Berry
 
-[Back](./javascript.md){: .button}
+[Back](../../index.md#js){: .button}
 
 ### Setup
 

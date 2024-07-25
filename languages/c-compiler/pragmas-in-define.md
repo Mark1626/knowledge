@@ -1,6 +1,6 @@
 # Using pragma inside define
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 ```c
 /*

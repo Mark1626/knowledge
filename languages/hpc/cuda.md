@@ -1,6 +1,6 @@
 # Cuda
 
-**From:** [Languages](../languages.md){: .button}
+[Back](../../index.md#hpc)
 
 ## Nvidia Tools Summary
 

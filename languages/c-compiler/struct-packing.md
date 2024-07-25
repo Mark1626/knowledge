@@ -1,6 +1,6 @@
 # Struct Packing
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 ```cpp
 struct __attribute__((__packed__)) foo {

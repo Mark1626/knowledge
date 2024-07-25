@@ -1,6 +1,6 @@
 # LLVM Tools
 
-**From:** [LLVM](./llvm.md)
+**From:** [LLVM](../../../index.md#clang-specific)
 
 ## Tools
 

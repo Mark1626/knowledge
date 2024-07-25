@@ -1,6 +1,6 @@
 # LLVM Passes
 
-[Back](./llvm.md){: .button}
+[Back](../../../index.md#clang-specific){: .button}
 
 ## Passes
 

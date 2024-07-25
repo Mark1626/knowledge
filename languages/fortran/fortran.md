@@ -1,5 +1,5 @@
 # Fortran
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [GPU Fortran](./gpu-fortran.md)

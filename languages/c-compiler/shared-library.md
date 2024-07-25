@@ -1,6 +1,6 @@
 # Creating a Shared Library
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 Example Makefile
 

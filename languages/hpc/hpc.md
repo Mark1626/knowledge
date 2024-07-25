@@ -1,6 +1,6 @@
 ## HPC
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Domain Decomposition](./domain-decomposition.md)
 - [GPU Acceleration](./gpu-acceleration.md)

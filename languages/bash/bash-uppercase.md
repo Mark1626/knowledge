@@ -1,6 +1,6 @@
 # Bash convert to upper case
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 a="test"

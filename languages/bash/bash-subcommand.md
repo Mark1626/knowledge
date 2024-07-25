@@ -1,6 +1,6 @@
 # Bash subcommand
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 sub_help() {

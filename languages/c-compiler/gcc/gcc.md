@@ -1,6 +1,6 @@
 # GCC
 
-**From:** [C Compiler](../c-compiler.md)
+**From:** [C Compiler](.../../index.md#ccpp-compilers)
 
 - [GCC specific auto vectorization features](./auto-vectorization-gcc.md)
 - [Tree SSA](./tree-ssa.md)

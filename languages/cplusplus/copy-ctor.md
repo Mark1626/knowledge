@@ -1,6 +1,6 @@
 # Copy Constructors
 
-[Back](./cplusplus.md){: .button}
+[Back](../../index.md#cpp){: .button}
 
 ## Examples
 

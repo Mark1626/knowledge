@@ -1,6 +1,6 @@
 # CPP
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Initializer List](./initializer-list.md)
 - [Copy Constructor](./copy-ctor.md)

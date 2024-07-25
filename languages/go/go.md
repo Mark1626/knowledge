@@ -1,6 +1,6 @@
 # Go
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Using C Libraries in Go](./cgo/using-c-libraries-in-go.md)
 - [Using Go Libraries in C](./cgo/using-go-libraries-in-c.md)

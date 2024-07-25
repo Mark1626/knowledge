@@ -1,6 +1,6 @@
 ## GPU Direct Storage
 
-**From:** [Languages](../languages.md){: .button}
+[Back](../../index.md#hpc)
 
 https://docs.nvidia.com/gpudirect-storage/index.html
 

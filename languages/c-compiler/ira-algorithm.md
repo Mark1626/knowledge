@@ -1,6 +1,6 @@
 # IRA Algorithm
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 Integrated register allocator uses coloring algorithms to allocate registers
 

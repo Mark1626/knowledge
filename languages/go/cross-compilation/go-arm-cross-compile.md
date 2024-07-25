@@ -1,7 +1,7 @@
 ## Cross Compilation to Raspberry Pi(ARMv7)
 
 
-[Back](../go.md){: .button}
+[Back](../../../index.md#go){: .button}
 
 
 ### Example Makefile

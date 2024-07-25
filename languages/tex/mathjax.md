@@ -1,6 +1,6 @@
 # mathjax
 
-[Back](./tex.md){: .button}
+[Back](../../index.md#tex){: .button}
 
 [Symbols Reference](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm)
 

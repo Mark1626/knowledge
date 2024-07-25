@@ -1,6 +1,6 @@
 # Bitwise Tricks
 
-[Back](./common.md){: .button}
+[Back](../../index.md#generic){: .button}
 
 ## The ultimate resources to bit level tricks
 

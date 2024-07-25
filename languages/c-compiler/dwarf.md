@@ -1,6 +1,6 @@
 # DWARF
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 DWARF is a debugging format used by many compilers and debuggers to support debugging
 

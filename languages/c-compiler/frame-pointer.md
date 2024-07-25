@@ -1,6 +1,6 @@
 # Frame Pointer
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 Frame pointer points to the base of the stack trace. This is done by having a dedicated 
 register allocated just for the frame pointer.

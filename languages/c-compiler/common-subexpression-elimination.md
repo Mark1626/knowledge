@@ -1,6 +1,6 @@
 # Common Subexpression Elimination
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 In compilers `Common Subexpression Elimination` is an optimization where a compiler searches for instances of identical expressions, and replaces them with a single variable for the computed value.
 

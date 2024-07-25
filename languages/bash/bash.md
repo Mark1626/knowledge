@@ -1,6 +1,6 @@
 # Bash
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Bash Check if env variable present](./bash-check-env-variable.md)
 - [Bash getopts](./bash-getopts.md)

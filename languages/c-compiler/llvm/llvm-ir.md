@@ -1,6 +1,6 @@
 # LLVM IR
 
-[Back](./llvm.md)
+[Back](../../../index.md#clang-specific)
 
 ## Reading
 

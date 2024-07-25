@@ -1,6 +1,6 @@
 # Clang specific flags
 
-[Back](../llvm.md){: .button}
+[Back](../../../../index.md#clang-specific){: .button}
 
 1. `fcatch-undefined-behavior` - 
 2. `fno-strict-aliasing` - Turns off Type Based Alias Analysis

@@ -1,6 +1,6 @@
 # Function Multiversioning
 
-[Back](./gcc.md){: .button}
+[Back](../../../index.md#gcc-specific){: .button}
 
 ```c
 __attribute__ ((target ("default")))

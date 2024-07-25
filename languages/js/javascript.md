@@ -1,6 +1,6 @@
 #### Javascript
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Yarn Berry](./yarn-berry.md)
 - [Convert from hex to UTF-8 in Node](./convert-from-hex-to-utf8.md)

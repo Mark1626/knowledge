@@ -1,6 +1,6 @@
 # C
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Function as Argument with function pointer](./function-pointer-usage.md)
 - [Optargs for cli arg parsing](./opt-arg.md)

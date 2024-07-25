@@ -1,6 +1,6 @@
 # Pragma Once
 
-[Back](./c-compiler.md){: .button}
+[Back](../../index.md#ccpp-compilers){: .button}
 
 `#pragma once` is a non standard way of providing include guard to headers. It's supported by most modern compilers
 

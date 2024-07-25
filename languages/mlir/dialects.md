@@ -1,6 +1,6 @@
 # Dialects
 
-[Back](../languages.md)
+[Back](../../index.md#mlir)
 
 A dialect is an intermediate representation. There are high level dialects and low level dialects. Typically we lower code from a low level dialect into a high level dialect. The inverse is called raising where we start with a low level dialect and 
 

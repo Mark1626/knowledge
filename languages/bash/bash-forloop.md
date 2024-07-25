@@ -1,6 +1,6 @@
 # Bash loop
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 for i in 1 2 3 4

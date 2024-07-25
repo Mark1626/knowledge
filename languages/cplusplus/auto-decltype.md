@@ -1,6 +1,6 @@
 # auto vs decltype
 
-[Back](./cplusplus.md){: .button}
+[Back](../../index.md#cpp){: .button}
 
 ```cpp
 int x;

@@ -1,6 +1,6 @@
 # Common
 
-[Back](../languages.md)
+[Back](../../index.md)
 
 - [Data structure alignment](./data-structure-alignment.md)
 - [Backpressure in Streams](./backpressure.md)

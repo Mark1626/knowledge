@@ -1,6 +1,6 @@
 # Bash read config file and store value from config file
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ## Reading config file
 

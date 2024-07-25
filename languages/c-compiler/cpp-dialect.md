@@ -1,6 +1,6 @@
 # CPP Dialect
 
-[Back](./c-compiler.md)
+[Back](../../index.md#ccpp-compilers)
 
 Flags which can control C++ dialect 
 

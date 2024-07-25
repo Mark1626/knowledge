@@ -1,6 +1,6 @@
 # Fortran and GPUs
 
-[Back](./fortran.md)
+[Back](../../index.md#fortran)
 
 ## Cuda
 

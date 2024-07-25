@@ -1,6 +1,6 @@
 # Bash Check if env variable present
 
-[Back](./bash.md)
+[Back](../../index.md#bash)
 
 ```bash
 if [[ ! -z "$ENV_VAR" ]]; then
