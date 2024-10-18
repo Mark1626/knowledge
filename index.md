@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #448 articles
+  There are #449 articles
 
 ---
 
@@ -226,6 +226,7 @@
 - [Bash declare](./languages/bash/bash-declare.md)
 - [Bash array](./languages/bash/bash-array.md)
 - [Bash for loop](./languages/bash/bash-forloop.md)
+- [Bash auto completions](languages/bash/bash_completions.md)
 
 ### C
 
