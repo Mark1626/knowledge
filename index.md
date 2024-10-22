@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #449 articles
+  There are #450 articles
 
 ---
 
@@ -271,8 +271,9 @@
 
 ### Python
 
-- [Closing plots in matplotlib](./matplotlib-closing-figure.md )
-- [Downloading from Google Collab](./download-from-google-collab.md)
+- [Closing plots in matplotlib](./languages/matplotlib-closing-figure.md )
+- [Downloading from Google Collab](./languages/download-from-google-collab.md)
+- [Fault handler](./languages/py/fault-handler.md)
 
 ### Tex
 
