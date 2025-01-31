@@ -185,6 +185,7 @@
 - [Three JS](./graphics/three-js.md)
 - [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
 - [OBJ format](./graphics/obj_format.md)
+- [Wavefunction Collapse](./graphics/wavefunction-collapse.md)
 
 ---
 
