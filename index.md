@@ -186,6 +186,7 @@
 - [Creating a trapezoid](./graphics/creating-a-trapezoid.md)
 - [OBJ format](./graphics/obj_format.md)
 - [Wavefunction Collapse](./graphics/wavefunction-collapse.md)
+- [Signed Distance Function](./graphics/signed-distace-function.md)
 
 ---
 
