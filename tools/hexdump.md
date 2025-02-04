@@ -1,6 +1,6 @@
 # Hexdump
 
-[Back](../index.md#hexdump)
+[Back](../index.md#hexdump){: .button}
 
 Dumps the binary data as 16bit values
 
@@ -13,4 +13,3 @@ Dumps the binary data as 16bit values
 - Offset and limit
 
 `hexdump -C -n 64 -s 64 main`
-

@@ -1,6 +1,6 @@
 # Submodule Update
 
-[Back](../index.md)
+[Back](../index.md){: .button}
 
 ```bash
 # Update and clone submodules
@@ -13,4 +13,3 @@ git submodule update --init --recursive
 git submodule update --init generators/sha3
 
 ```
-

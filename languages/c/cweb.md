@@ -1,6 +1,6 @@
 # CWeb
 
-[Back](../../index.md#c)
+[Back](../../index.md#c){: .button}
 
 C Web is a literate programming version of C from Donald E. Knuth and Silvio Levy.
 
@@ -12,4 +12,3 @@ Files have a `.w` extension
 ## Reading
 
 1. https://www-cs-faculty.stanford.edu/~knuth/cweb.html
-

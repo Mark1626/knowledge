@@ -1,6 +1,6 @@
 # Filters
 
-[Back](../index.md){: .button}
+[Back](../index.md#dsp){: .button}
 
 ## Butterworth filter
 
@@ -20,4 +20,3 @@ A chebyshev filter is catergoried by chebyshev polynomials. A chebyshev filter i
 
 https://wikiless.org/wiki/Chebyshev_polynomials?lang=en
 https://wikiless.org/wiki/Chebyshev_filter?lang=en
-

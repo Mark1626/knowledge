@@ -1,6 +1,6 @@
 # Http Preflight Request
 
-[Back](../index.md){: .button}
+[Back](../index.md#network){: .button}
 
 When dealing with CORS the browser or front-end sends a pre-flight request to check if the CORS request is understood
 
@@ -18,4 +18,3 @@ Origin: https://foo.bar.org
 ### References
 
 - [CORS Preflight Requst](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
-

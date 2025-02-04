@@ -1,7 +1,6 @@
 # Common
 
-[Back](../../index.md)
-
+[Back](../../index.md#generic){: .button .section}
 - [Data structure alignment](./data-structure-alignment.md)
 - [Backpressure in Streams](./backpressure.md)
 - [BLAS](./blas.md)

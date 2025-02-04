@@ -1,6 +1,6 @@
 # Ansi colors
 
-[Back](../index.md#unix)
+[Back](../index.md#unix){: .button}
 
 ## List of colors
 
@@ -49,4 +49,3 @@ Background green
 ```sh
 \033[43m Hello World \033[m
 ```
-

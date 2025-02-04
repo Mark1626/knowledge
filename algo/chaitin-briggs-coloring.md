@@ -1,6 +1,6 @@
 # Chaitin-Briggs coloring
 
-[Back](../index#algo){: .button}
+[Back](../index.md#algorithm){: .button}
 
 Chaitin-Briggs Coloring is a coloring algorithm for integrated register allocator
 

@@ -1,6 +1,6 @@
 # Fortran and GPUs
 
-[Back](../../index.md#fortran)
+[Back](../../index.md#fortran){: .button}
 
 ## Cuda
 
@@ -38,4 +38,3 @@ The approach taken by hipfort seems simpler, the question of adoption depends on
 
 https://github.com/FluidNumerics/hip-fortran
 https://github.com/ROCmSoftwarePlatform/hipfort
-

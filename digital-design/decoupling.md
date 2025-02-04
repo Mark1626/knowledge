@@ -1,6 +1,6 @@
 # Decoupling
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 Decoupling is the prevention of undesired electrical energy transfer (coupling) between subsystems.
 
@@ -9,4 +9,3 @@ Example is connecting localized decoupling capacitors close to the power leads o
 ## Reference
 
 1. https://en.wikipedia.org/wiki/Decoupling_(electronics)
-

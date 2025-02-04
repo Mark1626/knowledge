@@ -1,6 +1,6 @@
 # Gopher
 
-[Back](../index.md){: .button}
+[Back](../index.md#network){: .button}
 
 Gopher is a communications protocol for distributing, searching and retriving
  documents. It is fairly simple and uses very few resources

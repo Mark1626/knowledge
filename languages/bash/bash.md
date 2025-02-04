@@ -1,7 +1,6 @@
 # Bash
 
-[Back](../../index.md)
-
+[Back](../../index.md#bash){: .button .section}
 - [Bash Check if env variable present](./bash-check-env-variable.md)
 - [Bash getopts](./bash-getopts.md)
 - [Bash params](./bash-params.md)

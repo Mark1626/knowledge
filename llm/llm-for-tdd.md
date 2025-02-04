@@ -1,6 +1,6 @@
 # Using a Large Language Model to generate Chisel tests
 
-[Back](../index.md)
+[Back](../index.md#llm){: .button .section}
 
 Model used GPT-3.5
 
@@ -63,4 +63,3 @@ class FactSpec extends AnyFreeSpec with ChiselScalatestTester {
   }
 }
 ```
-

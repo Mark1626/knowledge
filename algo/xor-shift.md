@@ -1,6 +1,6 @@
 # Xor Shift Random number generator
 
-[Back](../index.md#algorithm)
+[Back](../index.md#algorithm){: .button}
 
 ```cpp
 uint64_t xoshiro256ss(uint64_t s[4])

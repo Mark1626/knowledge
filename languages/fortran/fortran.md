@@ -1,5 +1,5 @@
 # Fortran
 
-[Back](../../index.md)
+[Back](../../index.md#fortran){: .button .section}
 
 - [GPU Fortran](./gpu-fortran.md)

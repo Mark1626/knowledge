@@ -1,6 +1,6 @@
 # CASA
 
-[Back](../index.md#astronomy)
+[Back](../index.md#astronomy){: .button}
 
 ```py
 

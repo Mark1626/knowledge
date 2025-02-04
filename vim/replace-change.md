@@ -1,6 +1,6 @@
 # Replace
 
-[Back](../index.md#vim)
+[Back](../index.md#vim){: .button}
 
 ```
 
@@ -30,5 +30,3 @@ ci"
 # change between ) quotes
 ci(
 ```
-
-

@@ -1,6 +1,6 @@
 # TFTP
 
-[Back](../index.md)
+[Back](../index.md#unix){: .button}
 
 ## Reading and Writing from tftp server
 
@@ -41,4 +41,3 @@ service tftp
 1. https://wiki.archlinux.org/title/TFTP
 2. https://www.makeuseof.com/set-up-tftp-server-on-linux/
 3. https://dynamicparallax.wordpress.com/2015/08/20/how-to-setup-raspberry-pi-as-a-tftp-server/
-

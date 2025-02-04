@@ -1,6 +1,6 @@
 # CNOT Gate
 
-[Back](../index.md)
+[Back](../index.md#quantum){: .button}
 
 Controlled NOT gate is a quantum logic gate that is used to entangle and disentangle Bell states.
 

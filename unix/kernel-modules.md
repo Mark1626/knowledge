@@ -1,6 +1,6 @@
 # Kernel Modules
 
-[Back](../index.md#unix)
+[Back](../index.md#unix){: .button}
 
 ## Installing Kernel modules
 
@@ -84,4 +84,3 @@ mokutil --list-enrolled
 
 1. https://blog.delouw.ch/2017/04/18/signing-linux-kernel-kodules-and-enforce-to-load-only-signed-modules/
 2. https://wiki.gentoo.org/wiki/Signed_kernel_module_support
-

@@ -1,6 +1,6 @@
 # Emmet Abbreviations
 
-[Back](../../index.md)
+[Back](../../index.md){: .button}
 
 Emmet abbreviations can be used to speed up html, css creation
 

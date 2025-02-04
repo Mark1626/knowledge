@@ -1,6 +1,6 @@
 # Open hardware boards
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 ## Sites to check
 
@@ -10,4 +10,3 @@
 
 1. [https://github.com/orangecrab-fpga/orangecrab-hardware](https://github.com/orangecrab-fpga/orangecrab-hardware)
 2. [https://www.crowdsupply.com/alphamax/netv2](https://www.crowdsupply.com/alphamax/netv2)
-

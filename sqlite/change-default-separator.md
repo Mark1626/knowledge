@@ -1,6 +1,6 @@
 # Change Separator in Query
 
-[Back](../index.md){: .button}
+[Back](../index.md#sqlite){: .button}
 
 ```
 .separator ,
