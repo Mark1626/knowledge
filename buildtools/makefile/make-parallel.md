@@ -1,10 +1,11 @@
 # Make Parallel Builds
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 `make -j <number-of-threads>`
 
-```
+```make
+
 .ONESHELL:
 .DEFAULT: end
 
@@ -26,4 +27,3 @@ d:
 .PHONY: a b c d end
 
 ```
-

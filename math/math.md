@@ -1,6 +1,6 @@
 # Math
 
-[Back](../math.md)
+[Back](../index.md#math)
 
 ## Automata
 

@@ -1,6 +1,6 @@
 # Echoing Commands
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 Prefixing a command with `@` will make it not print the command when executing it
 
@@ -8,4 +8,3 @@ Prefixing a command with `@` will make it not print the command when executing i
 print:
   @echo "Hello World"
 ```
-

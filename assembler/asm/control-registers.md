@@ -1,6 +1,6 @@
 # Flags / Control Registers
 
-[Back](../x86.md){: .button}
+[Back](../../index.md#assembler){: .button}
 
 - Overflow Flag (OF)
 - Direction Flag (DF) - Direction to read string
@@ -11,4 +11,3 @@
 - Auxilary Carry Flag (AF)
 - Parity Flag (PF) - It contains the total number of 1 bits in arithmetic operation
 - Carry Flag (CF) - Set to true if carry occurs in arithmetic operation
-

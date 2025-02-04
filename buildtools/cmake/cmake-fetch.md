@@ -1,6 +1,6 @@
 # CMake Fetch
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 ## Fetching Git Repo
 
@@ -24,4 +24,3 @@ FetchContent_Declare(log4cxx
 FetchContent_MakeAvailable(log4cxx)
 
 ```
-

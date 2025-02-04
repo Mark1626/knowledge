@@ -1,6 +1,6 @@
 # Cache Coherence
 
-[Back](./computer-architecture.md){: .button}
+[Back](../index.md#computer-architecture){: .button}
 
 Cache coherence is the uniformity of shared data which is present in multiple caches.
 

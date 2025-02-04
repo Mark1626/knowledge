@@ -1,6 +1,6 @@
 # Data Registers
 
-[Back](../x86.md){: .button}
+[Back](../../index.md#assembler){: .button}
 
 
 ```

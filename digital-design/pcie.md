@@ -1,6 +1,6 @@
 # PCI-Express 
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 PCI-E is point to point
 
@@ -34,4 +34,3 @@ And a bit more peripherally related (USB3);
 - [https://github.com/enjoy-digital/usb3_pipe](https://github.com/enjoy-digital/usb3_pipe)
 - [https://github.com/greatscottgadgets/luna/tree/main/luna/gateware/usb/usb3](https://github.com/greatscottgadgets/luna/tree/main/luna/gateware/usb/usb3 "smartCard-inline")
 - [https://github.com/greatscottgadgets/bucatini](https://github.com/greatscottgadgets/bucatini)
-

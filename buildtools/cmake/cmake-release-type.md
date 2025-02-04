@@ -1,6 +1,6 @@
 # CMake Release Type
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 ```cmake
 cmake --config Release ..

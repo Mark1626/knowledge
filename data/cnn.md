@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-[Back](./ds.md)
+[Back](../index.md#data){: .button}
 
 ## Structure
 

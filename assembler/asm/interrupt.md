@@ -1,6 +1,6 @@
 # Interrupt
 
-[Back](../x86.md){: .button}
+[Back](../../index.md#assembler){: .button}
 
 In asm `int` will interrupt and pass the control to the interrupt vector defined
 
@@ -24,4 +24,3 @@ In linux `0x80` passes the control to the kernel, it is a way for userland progr
     movl %0, %ebx /* exit status */
     int $0x80     /* Interrupt call to kernel */
 ```
-

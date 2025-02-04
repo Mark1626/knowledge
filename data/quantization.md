@@ -1,6 +1,6 @@
 # Quantization
 
-[Back](./ds.md)
+[Back](../index.md#data){: .button}
 
 ## Reading
 
@@ -9,4 +9,3 @@
 3. https://on-demand.gputechconf.com/gtc/2017/presentation/s7310-8-bit-inference-with-tensorrt.pdf
 4. https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 5. https://pytorch.org/docs/stable/quantization.html#best-practices
-

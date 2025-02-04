@@ -14,22 +14,23 @@
 
 # Categories
   
-  + [ARM](#arm)
+  
   + [Algorithm](#algorithm)
   + [Astronomy](#astronomy)
-  + [Assembly](./assembler/assembly.md)
+  + [ARM](#arm)
+  + [Assembler](#assembler)
   + [Books](#books)
-  + [Build Tools](./buildtools/buildtools.md)
-  + [Crypto](./crypto/cryptography.md)
-  + [Code Art](./code-art/code-art.md)
-  + [Computer Architecture](./computer-architecture/computer-architecture.md)
-  + [Computer Science Research](./cs-research/cs-research.md)
-  + [Containers](./containers/containers.md)
-  + [Data](./data/ds.md)
-  + [Data Structure](./ds/data-structures.md)
-  + [Digital Design](./digital-design/digital-design.md)
+  + [Build Tools](#build-tools)
+  + [Crypto](#crypto)
+  + [Code Art](#code-art)
+  + [Computer Architecture](#computer-architecture)
+  + [Computer Science Research](#computer-science-research)
+  + [Containers](#containers)
+  + [Data](#ds)
+  + [Data Structure](#data-structure)
+  + [Design](#design)
+  + [Digital Design](#digital-design)
   + [DSP](#dsp)
-  + [Embedded](./embedded/embedded.md)
   + [Frontend](#frontend)
   + [Filesystem](#fs)
   + [Git](#git)
@@ -63,24 +64,6 @@
 
 ---
 
-## ARM
-
-### General Purpose ARM Devices
-
-- [Apple M1](./arm/M1.md)
-
-### Embedded ARM Based Devices
-
-- [Raspberry PI](./embedded/raspberry-pi.md)
-
-### Modes
-
-### ARM Thumb
-
-- [ARM Thumb](./assembler/arm/thumb.md)
-
----
-
 ## Algorithm
 
 - [Boyer–Moore algorithm](./algo/bm.md)
@@ -91,6 +74,24 @@
 - [Chow’s priority coloring](./algo/chow-coloring.md)
 - [Bresenham's line algorithm](./algo/bresenham.md)
 - [Cooley–Tukey FFT Algorithm](./algo/cooley-tukey.md)
+
+---
+
+## ARM
+
+### General Purpose ARM Devices
+
+- [Apple M1](./arm/M1.md)
+
+### Embedded ARM Based Devices
+
+- [Raspberry PI](./arm/raspberry-pi.md)
+- [PI Boot Config](./arm/pi-boot-config.md)
+
+
+### ARM Thumb
+
+- [ARM Thumb](./assembler/arm/thumb.md)
 
 ---
 
@@ -105,9 +106,142 @@
 
 ---
 
+## Assembler
+
+### CPU Instruction Sets
+
+- [x86](./assembler/x86.md)
+- [ARM](./arm/arm.md)
+
+### Other ISAs
+
+- [PTX](./assembler/ptx/ptx.md)
+
+---
+
+## Books
+
+---
+
+## Build Tools
+
+### Makefile
+
+- [Makefile](./buildtools/makefile/makefile.md)
+- [Makefile Auto Variables](./buildtools/makefile/makefile-autovariables.md)
+- [Make foreach](./buildtools/makefile/make-foreach.md)
+- [Make parallel builds](./buildtools/makefile/make-parallel.md)
+- [Make reading shell output](./buildtools/makefile/make-shell.md)
+- [Make string functions](./buildtools/makefile/make-string-functions.md)
+- [Echoing commands](./buildtools/makefile/makefile-echo.md)
+- [Include other makefile](./buildtools/makefile/make-include.md)
+
+### CMake
+
+- [CMake Fetch](./buildtools/cmake/cmake-fetch.md)
+- [CMake Dependency](./buildtools/cmake/cmake-dependency.md)
+- [CMake Release Type](./buildtools/cmake/cmake-release-type.md)
+- [CMake Flags per Release](./buildtools/cmake/cmake-flags-per-release.md)
+- [CMake Specify Compiler](./buildtools/cmake/cmake-specify-compiler.md)
+
+---
+
+## Code Art
+
+- [Code Art Secrets](./code-art/code-art-secrets.md)
+- [Avatar Generator](./code-art/avatar-generator.md)
+- [Glider](./code-art/glider.md)
+
+---
+
+## Computer Architecture
+
+- [CPU Features](./computer-architecture/cpu-features.md)
+- [Branch Prediction](./computer-architecture/branch-prediction.md)
+- [Resident Set Size](./computer-architecture/resident-memory.md)
+- [Cache Coherence](./computer-architecture/cache-coherence.md)
+- [Sandy Bridge Pipeline](./computer-architecture/sandy-bridge-pipeline.md)
+
+---
+
+## Computer Science Research
+
+- [Sorting Networks](./cs-research/sorting-networks.md)
+- [Vectorizing Complex Multiplication](./cs-research/vectorisation.md)
+- [Z3 Theorm Prover](./cs-research/z3.md)
+
+---
+
+## Containers
+
+- [Using perf within containers](./containers/perf-within-container.md)
+- [Docker prevent permission issue with files created inside container](./containers/permission-issue-in-container.md)
+
+---
+
+## Crypto
+
+- [Constant time cryptography](./crypto/constant-time.md)
+- [Hashcash](./crypto/hashcash.md)
+
+---
+
+## Data
+
+- [k means](./data/k-means.md)
+- [Quantization](./data/quantization.md)
+- [CNN](./data/cnn.md)
+- [RNN](./data/rnn.md)
+- [Fine tuning](./data/fine-tuning.md)
+
+---
+
+## Data Structure
+
+- [Disjoint Set](./ds/disjoint-set.md)
+- [Segment Tree](./ds/segment-tree.md)
+
+---
+
 ## Design
+
 - [Covariance and Contravariance](./design/covariance-and-contravariance.md)
 - [Law of Demeter.md](./design/law-of-demeter.md)
+
+---
+
+## Digital Design
+
+### Bus
+
+- [AXI](./digital-design/bus/axi.md)
+- [Wishbone](./digital-design/bus/wishbone.md)
+- [Getting started](./digital-design/fpga.md)
+- [Verilog](./digital-design/verilog.md)
+- [HLS](./digital-design/hsl.md)
+- [AXI Stream](./digital-design/axi-stream.md)
+- [LUT](./digital-design/lut.md)
+- [PCI-Express](./digital-design/pcie.md)
+- [DDR](./digital-design/dram.md)
+- [JTAG](./digital-design/jtag.md)
+- [Litex](./digital-design/litex.md)
+- [OpenOCD](./digital-design/openocd.md)
+- [Memory Controller](./digital-design/memory-controller.md)
+- [NoC](./digital-design/noc.md)
+- [GTKWave](./digital-design/gtkwave.md)
+- [Open Hardware](./digital-design/open-hardware.md)
+- [OpenOCD Chipyard](./digital-design/openocd-chipyard.md)
+- [Decoupling](./digital-design/decoupling.md)
+- [Differential Signalling](./digital-design/differential-signalling.md)
+- [KiCad](./digital-design/kicad.md)
+- [Power On Reset](./digital-design/power-on-reset.md)
+- [Sync and Async Reset](./digital-design/sync-async-reset.md)
+- [DDR](./digital-design/ddr.md)
+- [Bambu HLS](./digital-design/bambu-hls.md)
+- [8b10b encoding](./digital-design/8b10_encoding.md)
+- [Formal Verification](./digital-design/formal-verification.md)
+- [DFI Controller](./digital-design/dfi-controller.md)
+- [MIG 7 series](./digital-design/mig-7series.md)
 
 ---
 

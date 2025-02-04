@@ -1,6 +1,6 @@
 # makefile
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 ## Learnings
 

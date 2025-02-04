@@ -1,6 +1,6 @@
 # Branch Prediction
 
-[Back](./computer-architecture.md){: .button}
+[Back](../index.md#computer-architecture){: .button}
 
 
 - [Cloudflare Benchmarks on Branch Prediction](https://blog.cloudflare.com/branch-predictor/)

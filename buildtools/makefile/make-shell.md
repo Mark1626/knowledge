@@ -1,6 +1,6 @@
 # Execute Shell
 
-[Back](../buildtools.md){: .button}
+[Back](../../index.md#build-tools){: .button}
 
 Store the stdout from command into variable
 
@@ -20,4 +20,3 @@ Reading compile flags stored in a file
 CXXFLAGS=$(shell cat ~/flags)
 
 ```
-

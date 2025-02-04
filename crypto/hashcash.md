@@ -1,6 +1,6 @@
 # Hashcash
 
-[Back](./cryptography.md){: .button}
+[Back](../index.md#crypto){: .button}
 
 ```
 version:claimedBits:timestamp:resource:extension:randomValue:counter
@@ -22,4 +22,3 @@ echo -n 1:20:210216:test@abc.com::91b93a6c71b9783e:bd7483b9a210110 | sha1sum
 ## References
 
 - [Hashcash dev reference](http://www.hashcash.org/dev/)
-

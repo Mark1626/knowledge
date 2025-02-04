@@ -1,6 +1,6 @@
 # Disjoint Set
 
-[Back](./data-structures.md){: .button}
+[Back](../index.md#data-structure){: .button}
 
 A disjoint set data structure stores a correction of disjoint sets.
 
@@ -52,5 +52,3 @@ void union_set(node* nodes, int x, int y) {
   nodeA->size = nodeA->size + nodeB->size;
   nodeB->parent = nodeA;
 }
-
-```

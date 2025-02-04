@@ -1,6 +1,6 @@
 # Constant Time Cryptography
 
-[Back](./cryptography.md){: .button}
+[Back](../index.md#crypto){: .button}
 
 ```
 function checkApiKey(inputKey, correctKey) {
@@ -17,4 +17,3 @@ This has to be considered when choosing what to use for implementing cryptograph
 ## References
 
 - [Beginners Guide to Constant Time Cryptography](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
-

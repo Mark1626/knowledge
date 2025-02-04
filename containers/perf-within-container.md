@@ -1,6 +1,6 @@
 # perf within container
 
-[Back](./containers.md){: .button}
+[Back](../index.md#containers){: .button}
 
 By default Docker uses `seccomp` to prevent some calls being run inside a container.
 
@@ -28,4 +28,3 @@ docker run --rm -it --security-opt=seccomp.perf.json
 
 - [Profiling within a container](https://gendignoux.com/blog/2019/11/09/profiling-rust-docker-perf.html#custom-seccomp-bpf-profile-for-perf)
 - [seccomp reference in Docker](https://docs.docker.com/engine/security/seccomp/)
-

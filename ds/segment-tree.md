@@ -1,6 +1,6 @@
 # Segment Tree
 
-[Back](./data-structures.md){: .button}
+[Back](../index.md#data-structure){: .button}
 
 A segment tree will is a data structure used to store information about intervals.  
 The worst case estimate of the number of vertices is `4*N` 
@@ -79,5 +79,3 @@ void _update(Tree *tree, int node, int tleft, int tright, int pos, int new_val) 
 void update(Tree *tree, int pos, int new_val) {
   _update(tree, 1, 0, tree->size-1, pos, new_val);
 }
-
-```
