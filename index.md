@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #450 articles
+  There are #445 articles
 
 ---
 
@@ -699,12 +699,14 @@
 ---
 
 ## Physics
+
 - [Barycenter](./physics/barycenter.md)
 - [Radial Velocity](./physics/radial-velocity.md)
 
 ---
 
 ## Psychology
+
 - [Pygmalion Effect](./psychology/pygmalion-effect.md)
 
 ---
@@ -729,8 +731,6 @@
 - [Explain on Join](./postgres/explain-join.md)
 - [Extended Statistics](./postgres/extended-statistics.md)
 - [Trust Authentication](./postgres/trust-authentication.md)
-- [sqlite import csv](.sqlite/sqlite-import-csv.md)
-- [Run script on sqlite DB](.sqlite/sqlite-script.md)
 
 ---
 

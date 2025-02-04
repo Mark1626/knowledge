@@ -1,6 +1,6 @@
 # KiCad
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 ## Schematic Editor
 

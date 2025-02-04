@@ -1,6 +1,6 @@
 # Bambu HLS
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 ## Usage
 
@@ -110,4 +110,3 @@ int reduce(int *a, int n)
 {
    *c = a + b;
 }
-```

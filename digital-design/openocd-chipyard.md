@@ -1,6 +1,6 @@
 # OpenOCD on Chipyard Designs
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 ## Reading
 
@@ -39,4 +39,3 @@ gdb_report_data_abort enable
 init
 halt
 ```
-

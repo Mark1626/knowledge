@@ -1,6 +1,6 @@
 # Synchronous Reset
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 ## Synchronous Reset
 
@@ -9,4 +9,3 @@ A synchronous reset signal will only affect or reset the state of the flip-flop 
 ## Asynchronous Reset
 
 An asynchronous reset will affect or reset the state of the flip-flop asynchronously i.e. no matter what the clock signal is. This is considered as high priority signal and system reset happens as soon as the reset assertion is detected.
-

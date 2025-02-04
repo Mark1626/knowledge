@@ -1,6 +1,6 @@
 # Verilog
 
-[Back](./digital-design.md){: .button}
+[Back](../index.md#digital-design){: .button}
 
 ## Registers and Wires
 

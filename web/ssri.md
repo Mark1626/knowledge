@@ -1,6 +1,6 @@
 # Standard Sub Resource Integrity - SSRI
 
-[Back](../index.md)
+[Back](../index.md#web){: .button}
 
 Subresource integrity is used to ensure that the content received by the user is the one that the author intended
 

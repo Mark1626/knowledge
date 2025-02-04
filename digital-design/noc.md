@@ -1,6 +1,6 @@
 # Network on Chip
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 Based on the Github issue https://github.com/hughperkins/VeriGPU/issues/5 , pasting here for my reference
 

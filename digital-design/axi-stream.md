@@ -1,6 +1,6 @@
 # AXI Stream
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 AXI Stream is a protocol used for transferring stream data around a chip. Stream data has no address associated with it.
 
@@ -17,4 +17,3 @@ In AXI stream there is no limit to how much backpressure a slave can impose on a
 
 - [ZipCPU AXI Steam is broken](https://zipcpu.com/blog/2022/02/23/axis-abort.html)
 - [Debugging AXI Streams](https://zipcpu.com/dsp/2020/04/20/axil2axis.html)
-

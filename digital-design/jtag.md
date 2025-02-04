@@ -1,6 +1,6 @@
 # JTAG
 
-[Back](./digital-design.md)
+[Back](../index.md#digital-design){: .button}
 
 JTAG is a standard for verifying designs and testing boards
 
@@ -13,4 +13,3 @@ Signals in JTAG
 |   TDI     |   Output  | Test data in      |
 |   TDO     |   Input   | Test data out     |
 |   TRST    |   Output  | Test reset        |
-

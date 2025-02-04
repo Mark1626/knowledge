@@ -1,8 +1,6 @@
 # High level synthesis
 
-[Back](./digital-design.md){: .button}
-
-```
+[Back](../index.md#digital-design){: .button}
 
       CPU                 CPU                 Device
 +-------------+     +-------------+      +-------------+

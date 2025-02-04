@@ -1,6 +1,6 @@
 # Advanced_eXtensible_Interface(AXI)
 
-[Back](./digital-design.md){: .button}
+[Back](../../index.md#digital-design){: .button}
 
 AXI is an on-chip communication bus protocol developed by ARM
 
