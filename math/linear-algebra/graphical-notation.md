@@ -1,6 +1,6 @@
 # Tensor Networks
 
-[Back](../../index.md)
+[Back](../../index.md#math){: .button}
 
 Tensor Networks (Penrose diagrams) are visual diagrams to represent Tensor operations. The idea behind using a visual representations is that you can study and optimize these networks. These networks are also perhaps with some minor differences, **string diagrams. **String diagrams have been used in category theory to prove things (Curry Howard correspondence). Also formal proofs can be used to generalize optimizations
   **(Linear Algebra/Differential Equations) - Tensors - Category Theory - Formal Proofs - Optimizations**  

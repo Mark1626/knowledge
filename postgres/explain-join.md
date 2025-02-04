@@ -1,6 +1,6 @@
 # Explain on Join
 
-[Back](./postgres.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 ## Hash Join
 
@@ -161,4 +161,3 @@ Steps
 - If left column is smaller
   - Get row from left
   - End if no more rows left
-

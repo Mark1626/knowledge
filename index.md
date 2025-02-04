@@ -16,23 +16,23 @@
   
   
   + [Algorithm](#algorithm)
-  + [Astronomy](#astronomy)
   + [ARM](#arm)
+  + [Astronomy](#astronomy)
   + [Assembler](#assembler)
   + [Books](#books)
   + [Build Tools](#build-tools)
-  + [Crypto](#crypto)
   + [Code Art](#code-art)
   + [Computer Architecture](#computer-architecture)
   + [Computer Science Research](#computer-science-research)
   + [Containers](#containers)
-  + [Data](#ds)
+  + [Crypto](#crypto)
+  + [Data](#data)
   + [Data Structure](#data-structure)
   + [Design](#design)
   + [Digital Design](#digital-design)
   + [DSP](#dsp)
-  + [Frontend](#frontend)
   + [Filesystem](#fs)
+  + [Frontend](#frontend)
   + [Git](#git)
   + [GNU](#gnu)
   + [GNU Plot](#gnuplot)
@@ -43,18 +43,18 @@
   + [Kernel](#kernel)
   + [Languages](#languages)
   + [LLM](#llm)
-  + [Math](./math/math.md)
+  + [Math](#math)
   + [Network](#network)
   + [Notebooks](#notebooks)
-  + [Origami](./origami/origami.md)
-  + [Papers](./papers/papers.md)
+  + [Origami](#origami)
+  + [Papers](#papers)
   + [Philosophy](#philosophy)
   + [Posix](#posix)
-  + [Postgresql](./postgres/postgres.md)
   + [Platforms](#platforms)
+  + [Postgresql](#postgres)
   + [Psychology](#psychology)
   + [Quantum](#quantum)
-  + [RFC](./rfc/rfc.md)
+  + [RFC](#rfc)
   + [SIMD](#simd)
   + [Sqlite](#sqlite)
   + [Tools](#tools)
@@ -538,7 +538,70 @@
 
 ---
 
+## Math
+
+### Automata
+
+- [Abelian Sandpile](./math/automata/abelian-sandpile.md)
+- [Game of Life](./math/automata/game-of-life.md)
+
+### Category Theory
+
+- [Category Theory](./math/category_theory/category_theory.md)
+- [Catesian Closed Categories](./math/category_theory/ccc.md)
+- [Curry Howard Isomorphism](./math/category_theory/curry_howard_isomorphism.md)
+
+### Engineering Math
+
+### Fractals
+
+- [Chaos Game](./math/fractals/chaos_game.md)
+- [Iterated Function Systems](./math/fractals/ifs.md)
+
+### Geometry
+
+- [Rhombile Tiling](./math/geometry/rhombile_tiling.md)
+- [Stellation](./math/geometry/stellation.md)
+- [Affine Transform](./math/geometry/affine.md)
+- [3D Rotation](./math/geometry/3d-rotation.md)
+
+### Linear Algebra
+
+- [Normal Equations](./math/linear-algebra/normal-equations.md)
+- [Einstein Notation](./math/linear-algebra/einsum.md)
+- [Penrose Notation](./math/linear-algebra/graphical-notation.md)
+
+### Number Theory
+
+- [Ortho Latin Square](./math/number_theory/ortho-latin-square.md)
+- [Perlin Noise](./math/number_theory/perlin-noise.md)
+- [Kummer's Theorm](./math/number_theory/kummer.md)
+- [Wilson's Theorm](./math/number_theory/wilson.md)
+- [Pisano period](./math/number_theory/pisano-period.md)
+- [Zeckendorf's Theorm](./math/number_theory/zeckendorf-theorm.md)
+- [De Bruijn sequence](./math/number_theory/de-bruijn-sequence.md)
+- [Chinese remainder theorem](./math/number_theory/chinese-reminder-theorm.md)
+- [Euler's theorm](./math/number_theory/euler-theorm.md)
+- [Euler's totient function](./math/number_theory/euler-totient-function.md)
+- [Farey Sequence](./math/number_theory/farey-sequence.md)
+- [Stern Brocot Tree](./math/number_theory/stern-brocot-tree.md)
+- [Extended Euclidean Algorithm](./math/number_theory/extended-euclidean.md)
+- [Euclidean Algorithm](./math/number_theory/euclidean-algorithm.md)
+- [Prime Number Theorm](./math/number_theory/prime-number-theorm.md)
+- [Mobius Function](./math/number_theory/mobius-function.md)
+- [Chakravala Method](./math/number_theory/chakravala.md)
+- [Fibonnaci Matrix](./math/number_theory/fibonnaci-matrix.md)
+
+### Statistics
+
+- [Kuiper Test](./math/statistics/kuiper.md)
+- [Chi-squared test](./math/statistics/chi-squared-test.md)
+- [Kullback Leibler Divergence](./math/statistics/kullback-leibler-divergence.md)
+
+---
+
 ## Network
+
 - [Gopher Protocol](./network/gopher.md)
 - [Data URL](./network/data-url.md)
 - [Preflight Request](./network/http-preflight.md)
@@ -548,6 +611,7 @@
 ---
 
 ## Notebooks
+
 - [CASA Imaging](https://github.com/Mark1626/knowledge/blob/master/notebooks/CASA%20Imaging.ipynb)
 - [Visualising FFT](https://github.com/Mark1626/knowledge/blob/master/notebooks/Effects%20of%20Fourier%20Transform.ipynb)
 - [Normal Equations](https://github.com/Mark1626/knowledge/blob/master/notebooks/Normal%20Equations.ipynb)
@@ -567,6 +631,58 @@
 
 ---
 
+## Origami
+
+### Units
+
+- [Litte Unit](./origami/units/little-unit.md)
+- [Nick Robinson's Trimodule](./origami/units/nick-trimodule.md)
+- [Oxi Unit](./origami/units/oxi.md)
+- [Sonobe Unit](./origami/units/sonobe.md)
+- [TSU Unit](./origami/units/tsu.md)
+
+### Cubes
+
+- [Gyroscope](./origami/cubes/gyroscope.md)
+
+### Intersectional planes
+
+- [XYZ](./origami/intersectional/planes/xyz.md)
+
+### Fractals
+
+- [Menger Sponge](./origami/fractals/menger-sponge.md)
+
+### Icosahedron
+
+- [Gallery](./origami/icosahedron/icosahedron.md)
+- [Sonobe Icosahedron](./origami/icosahedron/sonobe.md)
+- [Trimodule Icosahedron](./origami/icosahedron/trimodule.md)
+
+### Tesslations
+
+- [Clover Tesslation](./origami/tesslation/clover.md)
+- [Square Interlace Tesslation](./origami/tesslation/square_interlace.md)
+
+### Spiral
+
+- [Navel Shell](./origami/spiral/navel.md)
+
+### Curlicue
+
+- [Curlicue](./origami/curlicue/curlicue.md)
+
+---
+
+## Papers
+
+- [The Design and Implementation of FFTW3](./papers/the-design-and-implementation-of-fftw3.md)
+- [Source Finding](./papers/astronomy-source-finding.md)
+- [H1 21cm Absorption](./papers/astronomy-h1-21cm-absorption.md)
+- [MG-J0414+0534](./papers/MG_J0414_0534.md)
+
+---
+
 ## Philosophy
 
 - [Mu](./philosophy/mu.md)
@@ -576,6 +692,7 @@
 ---
 
 ## POSIX
+
 - [regex](./posix/regex.md)
 
 ---
@@ -601,7 +718,23 @@
 
 ---
 
+## Postgresql
+
+### Postgresql
+
+- [pg_ctl](./postgres/pgctl.md)
+- [Template Databases](./postgres/template_databases.md)
+- [Explain on sort](./postgres/explain-sort.md)
+- [Explain on Join](./postgres/explain-join.md)
+- [Extended Statistics](./postgres/extended-statistics.md)
+- [Trust Authentication](./postgres/trust-authentication.md)
+- [sqlite import csv](.sqlite/sqlite-import-csv.md)
+- [Run script on sqlite DB](.sqlite/sqlite-script.md)
+
+---
+
 ## Quantum
+
 - [cnot gate](./quantum/cnot-gate.md)
 - [entanglement](./quantum/entanglement.md)
 - [quantum-circuit](./quantum/quantum-circuit.md)
@@ -610,10 +743,21 @@
 - [toffoli gates](./quantum/toffoli-gate)
 
 ### Notebooks
+
 - [Bell State](https://github.com/Mark1626/knowledge/blob/master/quantum/Bell%20State.ipynb)
 - [Full Adder](https://github.com/Mark1626/knowledge/blob/master/quantum/Full%20Adder.ipynb)
 - [GHZ State](https://github.com/Mark1626/knowledge/blob/master/quantum/GHZ%20State.ipynb)
 - [W State](https://github.com/Mark1626/knowledge/blob/master/quantum/W%20State.ipynb)
+
+---
+
+## RFC
+
+- [RFC 1122 Communication Layer](./rfc/rfc1122.md)
+- [RFC 7578 multipart/form-data](./rfc/rfc7578.md)
+- [RFC 2068 HTTP/1.1](./rfc/rfc2068.md)
+- [RFC 2616 HTTP/1.1](./rfc/rfc2616.md)
+- [RFC 7807 Problem Details in HTTP API](./rfc/rfc7807.md)
 
 ---
 
@@ -636,8 +780,8 @@
 - [Execute Single Query In Sqlite Cli](./sqlite/sqlite-cli-command.md)
 - [Change default separator](./sqlite/change-default-separator.md)
 - [Output Queries to File](./sqlite/output-queries-to-file.md)
-- [sqlite import csv](.sqlite/sqlite-import-csv.md)
-- [Run script on sqlite DB](.sqlite/sqlite-script.md)
+- [sqlite import csv](./sqlite/sqlite-import-csv.md)
+- [Run script on sqlite DB](./sqlite/sqlite-script.md)
 
 ---
 

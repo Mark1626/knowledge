@@ -1,6 +1,6 @@
 # Einstein Notation
 
-[Back](../math.md)
+[Back](../../index.md#math){: .button}
 
 
 The Einstein notation is available in numpy as `np.einsum`
@@ -17,5 +17,3 @@ When using `cupy.einsum` the operation can utilise tensor cores in the GPU
 
 1. https://towardsdatascience.com/einstein-index-notation-d62d48795378
 2. 
-
-

@@ -1,6 +1,6 @@
 # PG CTL
 
-[Back](./postgres.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 `pg_ctl` is a utility to start, stop postgres
 
@@ -19,4 +19,3 @@ Modes can be specified when doing `stop` or `restart`
 - Immediate kills it without proper shutdown  `pg_ctl stop --mode=immediate`
 - Fast does a proper shutdown but does not wait for all clients to disconnect `pg_ctl restart --mode=fast`
 - Smart quits after all clients disconnect
-

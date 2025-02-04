@@ -1,6 +1,6 @@
 # Explain on Sort
 
-[Back](./postgres.md){: .button}
+[Back](../index.md#postgresql){: .button}
 
 When the memory used for sorting is less than `work_mem`, sorting is done in memory. Notice that the sort method is `quicksort`
 
@@ -61,5 +61,3 @@ Time: 0.035s
 ```
 
 In Big O notation, general sort has complexity of `O(m * log(m))`, but Top-N has complexity of `O(m * log(n))` – where m is number of rows in table, and n is number of returned rows
-
-

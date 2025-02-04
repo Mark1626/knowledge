@@ -1,6 +1,6 @@
 # XYZ intersectional planes
 
-[Back](../../origami.md){: .button}
+[Back](../../../index.md#origami){: .button}
 
 ![XYZ Module](https://mark1626.github.io/knowledge/assets/origami/intersectional/xyz.jpg)
 

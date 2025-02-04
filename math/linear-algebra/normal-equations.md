@@ -1,6 +1,6 @@
 # Normal Equations
 
-[Back](../math.md{: .button}
+[Back](../../index.md#math){: .button}
 
 To solve the linear $A x = b$
 

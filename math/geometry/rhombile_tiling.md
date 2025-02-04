@@ -1,6 +1,6 @@
 # Rhombille Tilling
 
-[Back](../math.md){: .button}
+[Back](../../index.md#math){: .button}
 
 Rhombille Tilling is a tesslation which contains rhombi containing 2 60 deg and 2 120 deg angle
 
