@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #445 articles
+  There are #447 articles
 
 ---
 
@@ -964,6 +964,7 @@
 - [TFPT](./unix/tftp.md)
 - [Kernel Modules](./unix/kernel-modules.md)
 - [Codesign](./unix/codesign.md)
+- [ZSH Profiling](./unix/zsh_profiling.md)
 
 ---
 
