@@ -335,6 +335,8 @@
 
 - [sqlite t-digest](./ideas/sqlite-tdigest.md)
 - [busybox httpd](./ideas/busybox-httpd.md)
+- [IPFS FITS](./ideas/ipfs-fits.md)
+- [Key Value DB](./ideas/keyvaluedb.md)
 
 ---
 
@@ -608,6 +610,7 @@
 - [Preflight Request](./network/http-preflight.md)
 - [WSDL](./network/wsdl.md)
 - [CGI Interface](./network/cgi.md)
+- [DNS](./network/dns.md)
 
 ---
 
