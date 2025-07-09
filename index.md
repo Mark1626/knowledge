@@ -31,6 +31,7 @@
   + [Design](#design)
   + [Digital Design](#digital-design)
   + [DSP](#dsp)
+  + [DuckDB](#duckdb)
   + [Filesystem](#fs)
   + [Frontend](#frontend)
   + [Git](#git)
@@ -247,8 +248,15 @@
 ---
 
 ## DSP
+
 - [Random Signals](./dsp/random-signal.md)
 - [Filters](./dsp/filters.md)
+
+---
+
+### DuckDB
+
+- [DuckDB Relational API](./duckdb/relational.md)
 
 ---
 
