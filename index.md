@@ -143,6 +143,7 @@
 - [CMake Release Type](./buildtools/cmake/cmake-release-type.md)
 - [CMake Flags per Release](./buildtools/cmake/cmake-flags-per-release.md)
 - [CMake Specify Compiler](./buildtools/cmake/cmake-specify-compiler.md)
+- [CMake Address Sanitizer](./buildtools/cmake/cmake-sanitizer.md)
 
 ---
 
@@ -968,6 +969,7 @@
 - [Kernel Modules](./unix/kernel-modules.md)
 - [Codesign](./unix/codesign.md)
 - [ZSH Profiling](./unix/zsh_profiling.md)
+- [OSX System Integrity Protection](./unix/osx-system-integrity-protection.md)
 
 ---
 
