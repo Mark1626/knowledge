@@ -40,3 +40,34 @@ Description: AMD Zen4 AVX512
 Tags: simd
 Tags: optimization
 
+Url: https://gist.github.com/zingaburga/805669eb891c820bd220418ee3f0d6bd
+Description: ARM’s Scalable Vector Extensions
+Tags: simd
+
+Url: https://codeforces.com/blog/entry/143279
+Tags: simd
+Description: SIMD Factorial
+
+Url: https://aoli.al/blogs/jdk-bug/
+Description: JDK Race condition detection
+Tags: jdk
+Tags: threading
+
+Url: https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/
+Description: Three fundamental flaws of SIMD
+Tags: simd
+
+Url: https://www.sigarch.org/simd-instructions-considered-harmful/
+Description: SIGARCH SIMD Instructions Considered Harmful
+Tags: simd
+
+Url: https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html#kernels
+Description: Matrix Multiplication with Tensor Cores
+Tags: martix
+Tags: tensor-core
+
+Url: https://johanmabille.github.io/blog/2014/12/06/aligned-memory-allocator/
+Description: Aligned Memory Allocators
+Tags: c++
+Tags: memory
+

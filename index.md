@@ -303,6 +303,8 @@
 - [Git tag types](./git/git-tag.md)
 - [Git submodule Update](./git/submodule-update.md)
 - [Git force update detection](./git/git-force-push-detection.md)
+- [Git reflog](./git/git-reflog.md)
+- [Git Conflict from cli](./git/git-conflict.md)
 
 ---
 

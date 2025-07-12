@@ -17,3 +17,37 @@ Description: Tutorial DBA
 Url: https://www.tutorialdba.com/
 Tags: db
 Tags: postgres
+
+Description: Lingo DB
+Url: https://www.lingo-db.com/
+Tags: db
+Tags: mlir
+
+Description: Dremel paper
+Url: https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper
+Tags: db
+Tags: dremel
+
+Description: DuckDB Parquet reading
+Url: https://duckdb.org/2021/06/25/querying-parquet.html
+Tags: db
+Tags: parquet
+Tags: duckdb
+
+Description: Postgres CTE Gotcha
+Url: https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/
+Tags: db
+Tags: cte
+
+Url: https://john.colagioia.net/blog/2020/02/05/recutils.html
+Description: Recutils
+Tags: recutils
+
+Url: https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/
+Description: How sqlite works part 1
+Tags: sqlite
+
+Url: https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/
+Description: How sqlite works part 2
+Tags: sqlite
+
