@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #458 articles
+  There are #459 articles
 
 ---
 
@@ -257,6 +257,7 @@
 ### DuckDB
 
 - [DuckDB Relational API](./duckdb/relational.md)
+- [DuckDB Hive Partitioning](./duckdb/hive-partition.md)
 
 ---
 
