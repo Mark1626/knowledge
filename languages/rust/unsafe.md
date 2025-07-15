@@ -1,6 +1,6 @@
 ## Unsafe
 
-[Back](./rust.md){: .button}
+[Back](../../index.md#rust){: .button}
 
 
 ## Tutorials

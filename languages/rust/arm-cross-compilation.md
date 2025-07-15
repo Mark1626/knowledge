@@ -1,6 +1,6 @@
 ## Cross Compilation to Raspberry Pi(ARMv7)
 
-**From:** [Rust](../rust.md){: .button}
+**From:** [Rust](../../index.md#rust){: .button}
 
 Build with `cargo build --target=armv7-unknown-linux-musleabihf`
 

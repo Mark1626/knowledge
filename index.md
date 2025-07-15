@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #447 articles
+  There are #458 articles
 
 ---
 
@@ -305,6 +305,7 @@
 - [Git force update detection](./git/git-force-push-detection.md)
 - [Git reflog](./git/git-reflog.md)
 - [Git Conflict from cli](./git/git-conflict.md)
+- [Git delete branch](./git/git-delete-branch.md)
 
 ---
 
@@ -421,8 +422,8 @@
 
 ### Python
 
-- [Closing plots in matplotlib](./languages/matplotlib-closing-figure.md )
-- [Downloading from Google Collab](./languages/download-from-google-collab.md)
+- [Closing plots in matplotlib](./languages/py/matplotlib-closing-figure.md )
+- [Downloading from Google Collab](./languages/py/download-from-google-collab.md)
 - [Fault handler](./languages/py/fault-handler.md)
 
 ### Tex
@@ -539,6 +540,12 @@
 - [Dialects](./languages/mlir/dialects.md)
 - [Filecheck](./languages/mlir/filecheck.md)
 - [Tablegen](./languages/mlir/tablegen.md)
+
+### Rust
+
+- [Compiling Rust for ARM](./languages/rust/arm-cross-compilation.md)
+- [Rust Unsafe](./languages/rust/unsafe.md)
+- [Once Lock](./languages/rust/once-lock.md)
 
 ---
 
