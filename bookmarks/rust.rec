@@ -2,3 +2,8 @@ Url: https://burntsushi.net/unwrap/
 Description: Handling unwrap in rust
 Tags: rust
 
+Url: https://viralinstruction.com/posts/borrowchecker/
+Description: On rust's borrow checker
+Tags: rust
+Tags: memory
+
