@@ -51,3 +51,7 @@ Url: https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/
 Description: How sqlite works part 2
 Tags: sqlite
 
+Url: https://duckdb.org/2024/03/29/external-aggregation.html
+Description: Duckdb external aggregtion
+Tags: duckdb
+Tags: aggregation
