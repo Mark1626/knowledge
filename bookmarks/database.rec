@@ -55,3 +55,14 @@ Url: https://duckdb.org/2024/03/29/external-aggregation.html
 Description: Duckdb external aggregtion
 Tags: duckdb
 Tags: aggregation
+
+Url: https://readyset.io/blog/introducing-hash-join-algorithm?ref=blog.readyset.io
+Description: Hash Join 1
+Tags: join
+Tags: db
+
+Url: https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown
+Description: Hash Join 1
+Tags: join
+Tags: db
+
