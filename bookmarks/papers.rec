@@ -1,8 +1,7 @@
 %rec: Bookmarks
 
 Url: https://legacy.cs.indiana.edu/~dyb/pubs/fixing-letrec.pdf
-Title: Fixing Letrec: A Faithful Yet Efficient Implementation
-of Scheme’s Recursive Binding Construct
+Title: Fixing Letrec: A Faithful Yet Efficient Implementation of Scheme’s Recursive Binding Construct
 Tags: scheme
 Tags: compiler
 Tags: lisp
@@ -26,3 +25,8 @@ Tags: fpga
 Url: https://arxiv.org/abs/2508.15078
 Title: Integer continued fractions for complex numbers
 Tags: math
+
+Url: https://pikchr.org/home/uv/gpic.pdf
+Title: Pic
+Tags: pic
+

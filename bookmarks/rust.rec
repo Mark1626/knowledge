@@ -7,3 +7,13 @@ Description: On rust's borrow checker
 Tags: rust
 Tags: memory
 
+Url: https://doc.rust-lang.org/nomicon/intro.html
+Description: Rust unsfe book
+Tags: rust
+Tags: panic
+
+Url: https://stackoverflow.com/questions/77947159/idiomatic-usage-of-arc-in-c-ffi
+Description: Rust struct usage in FFI
+Tags: rust
+Tags: ffi
+
