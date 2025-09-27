@@ -40,6 +40,7 @@
   + [Graphics](#graphics)
   + [HPC](#hpc)
   + [Ideas](#ideas)
+  + [IPFS](#ipfs)
   + [IRC](#irc)
   + [Kernel](#kernel)
   + [Languages](#languages)
@@ -353,6 +354,12 @@
 
 ---
 
+## IPFS
+
+- [IPFS](./ipfs/ipfs.md)
+
+---
+
 ## Kernel
 
 - [namespaces](./kernel/namespaces.md)
@@ -547,6 +554,7 @@
 - [Compiling Rust for ARM](./languages/rust/arm-cross-compilation.md)
 - [Rust Unsafe](./languages/rust/unsafe.md)
 - [Once Lock](./languages/rust/once-lock.md)
+- [ARC](./languages/rust/arc.md)
 
 ---
 
