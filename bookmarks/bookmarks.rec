@@ -380,3 +380,16 @@ Description: PCI-Express
 Url: https://www.fpga4fun.com/CrossClockDomain.html
 Tags: hardware
 Description: Clock Domain Crossing
+
+Url: https://www.cl.cam.ac.uk/~mr10/backtrk.pdf
+Tags: backtracking
+Tags: algorithm
+Tags: bits
+Description: Backtracking Algorithms in MCPL using Bit Patterns and Recursion
+
+Url: https://gbroxey.github.io/blog/2023/04/09/lucy-fenwick.html
+Tags: number theory
+Tags: algorithm
+Tags: primes
+Description: Lucy Hedgehog prime counting + Fenwick trees
+

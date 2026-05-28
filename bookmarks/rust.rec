@@ -1,3 +1,5 @@
+%rec: Bookmarks
+
 Url: https://burntsushi.net/unwrap/
 Description: Handling unwrap in rust
 Tags: rust
@@ -16,4 +18,18 @@ Url: https://stackoverflow.com/questions/77947159/idiomatic-usage-of-arc-in-c-ff
 Description: Rust struct usage in FFI
 Tags: rust
 Tags: ffi
+
+Url: https://www.influxdata.com/blog/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/
+Description: Async Tokio runtime for CPU bound tasks
+Tags: rust
+
+Url: https://ryhl.io/blog/async-what-is-blocking/
+Description: Rust Async blocking
+Tags: rust
+Tags: async
+
+Url: https://tokio.rs/blog/2019-10-scheduler
+Description: Rust work stealing
+Tags: rust
+Tags: async
 
