@@ -8,7 +8,7 @@
 
 # Contents
   
-  There are #460 articles
+  There are #464 articles
 
 ---
 
@@ -259,6 +259,7 @@
 
 - [DuckDB Relational API](./duckdb/relational.md)
 - [DuckDB Hive Partitioning](./duckdb/hive-partition.md)
+- [DuckDB Parquet File Creation](./duckdb/parquet-creation.md)
 
 ---
 
@@ -351,6 +352,7 @@
 - [busybox httpd](./ideas/busybox-httpd.md)
 - [IPFS FITS](./ideas/ipfs-fits.md)
 - [Key Value DB](./ideas/keyvaluedb.md)
+- [Recfile RDF](./ideas/recfile-rdf.md)
 
 ---
 
@@ -458,6 +460,7 @@
 - [Guile Assoc List](./languages/guile/guile_assoc_list.md)
 - [Guile CLI Application](./languages/guile/guile_cli_app.md)
 - [Guile Macros](./languages/guile/guile_macros.md)
+- [Guile lib path for homebrew](./languages/guile/guile_lib_path.md)
 
 
 ### OCaml
@@ -918,6 +921,10 @@
 ### ppm
 
 - [ppm](./tools/ppm.md)
+
+### readline
+
+- [readline](./tools/readline.md)
 
 ### rlwrap
 
